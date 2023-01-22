@@ -1,3 +1,21 @@
 [
-
+  "name": "Berraco",
+  "replaces": "Settler",
+  "unitType": "Sword",
+  "movement": 2,
+	"strength": 7, //-10%
+	"cost": 70, //+75%
+  "uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population","Ignores terrain cost",
+      //Strength Scaling 12 - 18 - 21 - 29 - 43 - 60 - 77
+      "[72]% Strength <after discovering [Iron Working]> <before discovering [Steel]>",
+      "[157]% Strength <after discovering [Steel]> <before discovering [Gunpowder]>",
+      "[200]% Strength <after discovering [Gunpowder]> <before discovering [Rifling]>",
+      "[314]% Strength <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
+      "[514]% Strength <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
+      "[757]% Strength <after discovering [Plastics]> <before discovering [Mobile Tactics]>",
+      "[1000]% Strength <after discovering [Mobile Tactics]>",
+     ],
+	"hurryCostModifier": 20,
+	"attackSound": "metalhit"
 ]
