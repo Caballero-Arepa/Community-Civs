@@ -2,11 +2,15 @@
 	{
 		"name": "Arepa Stand",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]","Pillaging this improvement yields approximately [+15 Gold]"]
+		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
+			    "Must not be next to [Rainbow Plantation]","Must not be next to [Arepa Stand]",
+			    "Pillaging this improvement yields approximately [+15 Gold]"]
 	},
 	{
 		"name": "Rainbow Plantation",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
+		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Can be built outside your borders",
+			    "Must not be next to [Rainbow Plantation]","Must not be next to [Arepa Stand]",
+			    "Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
 	},
 ]
