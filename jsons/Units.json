@@ -46,6 +46,7 @@
   "name": "Kazakh Nomad",
   "uniqueTo": "Lasty's Kazakhstan",
   "replaces": "Lancer",
+  "unitType": "Mounted",
   "cost": 185,
   "movement": 4,
   "range": 2,
