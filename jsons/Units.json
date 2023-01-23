@@ -41,4 +41,20 @@
 			{"text": "Pentung-pentungan, eh tapi iso bertani."}
 		]
 	},
+// Lasty's Kazakhstan
+{
+  "name": "Kazakh's Nomad",
+  "uniqueTo": "Lasty's Kazakhstan",
+  "replaces": "Lancer",
+  "cost": 185,
+  "strength": 20,
+  "rangedStrength": 25,
+  "requiredTech": "Metallurgy",
+  "requiredResource": "Horses",
+  "uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+  "promotions": ["Formation I"],
+  "upgradesTo": "Anti-Tank Gun",
+  "obsoleteTech": "Combined Arms",
+  "attackSound": "horse"
+},
 ]
