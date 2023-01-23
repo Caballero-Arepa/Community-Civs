@@ -1,4 +1,17 @@
 [
+//Arepandia
+    {
+		"name": "Arepa Guild",
+		"replaces": "Market",
+		"requiredTech": "Currency",
+		"culture": 1,
+		"happiness": 1,
+		"food": 1,
+		"uniqueTo": "Duchy of Arepandia",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+	},
   //Hankunesia
 	{
 		"name": "Pusat Kebudayaan",
@@ -67,6 +80,6 @@
 		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
         "civilopediaText": [
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
-		]
-	},
+      ]
+},
 ]
