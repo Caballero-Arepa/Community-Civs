@@ -7,6 +7,7 @@
   "movement": 2,
 	"strength": 7, //-10%
 	"cost": 70, //+75%
+  "uniqueText": "Founds a new city\nExcess Food converted to Production when under construction\nRequires at least [2] population\nIgnores terrain cost\nCan only attack Barbarian units\nStrength Increases over time",
   "uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population","Ignores terrain cost","Can only attack [Barbarian] units",
       //Strength Scaling 12 - 18 - 21 - 29 - 43 - 60 - 77
