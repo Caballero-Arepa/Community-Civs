@@ -6,7 +6,7 @@
 	"strength": 7, //-10%
 	"cost": 70, //+75%
   "uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population","Ignores terrain cost",
+			"Requires at least [2] population","Ignores terrain cost","Can only attack [Barbarian] units",
       //Strength Scaling 12 - 18 - 21 - 29 - 43 - 60 - 77
       "[72]% Strength <after discovering [Iron Working]> <before discovering [Steel]>",
       "[157]% Strength <after discovering [Steel]> <before discovering [Gunpowder]>",
