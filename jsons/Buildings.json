@@ -82,4 +82,14 @@
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
       ]
 },
+// Lasty's Kazakhstan
+{
+  "name": "Biev Courthouse",
+  "uniqueTo": "Lasty's Kazakhstan",
+  "requiredTechnology": "Mathematics",
+  "percentStatBonus": {"culture": 15, "happiness": 30},
+  "culture": 2,
+  "cost": 100,
+  "maintenance": 3,
+}
 ]
