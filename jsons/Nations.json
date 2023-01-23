@@ -67,8 +67,8 @@
 	  "name": "Lasty's Kazakhstan",
 	  "leaderName": "Lasty Стратег",
 	  "adjective": ["Kazakh"],
-	  "outerColor": [1, 165, 200],
-	  "innerColor": [254, 230, 0],
+	  "outerColor": [0, 148, 222],
+          "innerColor": [255, 255, 255],
 
 	  "startBias": ["Plains"],
 	  "preferredVictoryType": "Cultural",
