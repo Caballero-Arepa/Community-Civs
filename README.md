@@ -1,7 +1,5 @@
 # Civs/user
 
-Duchy of Arepandia - Caballero Arepa
-- BambooLord
-- Dune
-- FireLord
-- 
+- Caballero Arepa of The Duchy of Arepandia
+- Ace Hank of Hankunesia
+- Lasty Ctpater of Lasty's Kazakhstan
