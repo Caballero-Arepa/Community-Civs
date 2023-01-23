@@ -22,4 +22,23 @@
 	"hurryCostModifier": 20,
 	"attackSound": "metalhit"
 	},
+
+	//Hankunesia
+	{
+		"name": "Penggarap",
+		"uniqueTo": "Hankunesia",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 9,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"promotions": ["Petani"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Pentung-pentungan, eh tapi iso bertani."}
+		]
+	},
 ]
