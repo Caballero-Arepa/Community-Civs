@@ -1,15 +1,15 @@
 [
 	{
   "uniqueTo": "Duchy of Arepandia",
-  "name": "Berraco",
+  "name": "Ruanero",
   "replaces": "Settler",
   "unitType": "Sword",
   "movement": 2,
 	"strength": 7, //-10%
-	"cost": 70, //+75%
+	"cost": 106,
   "uniqueText": "Founds a new city\nExcess Food converted to Production when under construction\nRequires at least [2] population\nIgnores terrain cost\nCan only attack Barbarian units\nStrength Increases over time",
   "uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population","Ignores terrain cost","Can only attack [Barbarian] units",
+			"Requires at least [2] population","Ignores terrain cost","Can only attack [Barbarian] units","Can construct [Arepa Stand]",
       //Strength Scaling 12 - 18 - 21 - 29 - 43 - 60 - 77
       "[72]% Strength <after discovering [Iron Working]> <before discovering [Steel]>",
       "[157]% Strength <after discovering [Steel]> <before discovering [Gunpowder]>",
@@ -17,7 +17,7 @@
       "[314]% Strength <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
       "[514]% Strength <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
       "[757]% Strength <after discovering [Plastics]> <before discovering [Mobile Tactics]>",
-      "[1000]% Strength <after discovering [Mobile Tactics]>",
+      "[1000]% Strength <after discovering [Mobile Tactics]>","Can construct [Rainbow Plantation]",
      ],
 	"hurryCostModifier": 20,
 	"attackSound": "metalhit"

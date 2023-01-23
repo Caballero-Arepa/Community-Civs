@@ -1,19 +1,40 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Arepa Guild
   rotate: false
-  xy: 4, 4
+  xy: 1038, 303
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Biev Courthouse
+  rotate: false
+  xy: 780, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 780, 564
+  xy: 420, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Rainbow Plantation
+  rotate: false
+  xy: 528, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/White Coffee
+  rotate: false
+  xy: 528, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -27,91 +48,70 @@ LeaderIcons/Caballero Arepa
   index: -1
 NationIcons/Duchy of Arepandia
   rotate: false
-  xy: 212, 4
+  xy: 1510, 780
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Hankunesia
   rotate: false
-  xy: 420, 104
+  xy: 1718, 880
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcon/Armored Car
+NationIcons/Lasty's Kazakhstan
   rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
+  xy: 1252, 730
+  size: 250, 250
+  orig: 250, 250
   offset: 0, 0
   index: -1
-UnitIcon/Batterig Ram
+ReligionIcons/Arepas Supremas
   rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Battle Engineer
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Grenadier
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Light Tank
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Reconnaissance Plane
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Siege Tower
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Voltigeur
-  rotate: false
-  xy: 780, 672
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Berraco
-  rotate: false
-  xy: 780, 780
+  xy: 1252, 522
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcon/Penggarap
+ResourceIcons/Arepa
   rotate: false
-  xy: 528, 104
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Arepa Stand
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Kazakh Nomad
+  rotate: false
+  xy: 780, 511
+  size: 464, 469
+  orig: 464, 469
+  offset: 0, 0
+  index: -1
+UnitIcons/Penggarap
+  rotate: false
+  xy: 1826, 880
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Ruanero
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 888, 722
+  xy: 1718, 822
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

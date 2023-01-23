@@ -4,14 +4,23 @@
 		"name": "Arepa Guild",
 		"replaces": "Market",
 		"requiredTech": "Currency",
-		"culture": 1,
-		"happiness": 1,
-		"food": 1,
+		"production": 1,
 		"uniqueTo": "Duchy of Arepandia",
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 30,
 		"percentStatBonus": {"gold": 25},
+		"uniques": ["[1] Unit Supply per [10] population [in this city]"]
 	},
+// Lasty's Kazakhstan
+{
+  "name": "Biev Courthouse",
+  "uniqueTo": "Lasty's Kazakhstan",
+  "requiredTechnology": "Mathematics",
+  "percentStatBonus": {"culture": 15, "happiness": 30},
+  "culture": 2,
+  "cost": 100,
+  "maintenance": 3,
+},
   //Hankunesia
 	{
 		"name": "Pusat Kebudayaan",
@@ -82,14 +91,4 @@
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
       ]
 },
-// Lasty's Kazakhstan
-{
-  "name": "Biev Courthouse",
-  "uniqueTo": "Lasty's Kazakhstan",
-  "requiredTechnology": "Mathematics",
-  "percentStatBonus": {"culture": 15, "happiness": 30},
-  "culture": 2,
-  "cost": 100,
-  "maintenance": 3,
-}
 ]

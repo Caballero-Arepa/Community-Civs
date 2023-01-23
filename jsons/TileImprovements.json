@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Arepa Stand",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]","Pillaging this improvement yields approximately [+15 Gold]"]
+	},
+	{
+		"name": "Rainbow Plantation",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
+	},
+]
