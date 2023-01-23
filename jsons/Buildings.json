@@ -1,3 +1,14 @@
 [
-
+    {
+		"name": "Arepa Guild",
+		"replaces": "Market",
+		"requiredTech": "Currency",
+		"culture": 1,
+		"happiness": 1,
+		"food": 1,
+		"uniqueTo": "Duchy of Arepandia",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+	},
 ]
