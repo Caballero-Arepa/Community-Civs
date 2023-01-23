@@ -1,3 +1,72 @@
 [
-
+  //Hankunesia
+	{
+		"name": "Pusat Kebudayaan",
+		"maintenance": 0,
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Monument Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Amphitheater Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Opera House Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Museum Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Broadcast Tower Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Keraton Artist",
+		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
+		"cost": 1,
+		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
+					"Unbuildable"]
+	},
+	{
+		"name": "Keraton",
+		"uniqueTo": "Hankunesia",
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
+        "civilopediaText": [
+			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
+		]
+	},
 ]
