@@ -26,13 +26,7 @@
     	"tradeRequest": "Wanna some aditional... *white coffee*?",
 		
   	  "uniqueName": "Arepa Economy",
-    	"uniques": ["[+1 Food] from all [Culture] buildings",
-		   "[-87]% Production when constructing [Berraco] units [in all cities] <after discovering [Iron Working]> <before discovering [Steel]>",
-		    "[-200]% Production when constructing [Berraco] units [in all cities] <after discovering [Steel]> <before discovering [Gunpowder]>",
-		    "[-275]% Production when constructing [Berraco] units [in all cities] <after discovering [Gunpowder]> <before discovering [Rifling]>",
-		    "[-462]% Production when constructing [Berraco] units [in all cities] <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
-		    "[-700]% Production when constructing [Berraco] units [in all cities] <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
-		    "[-837]% Production when constructing [Berraco] units [in all cities] <after discovering [Plastics]>",],
+    	"uniques": ["[+1 Food] from all [Culture] buildings"],
 
 	    "cities": ["Central Arepa","Villa Chóclo","Cundinamarca","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Machetá"]
   },
