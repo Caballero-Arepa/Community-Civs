@@ -47,6 +47,8 @@
   "uniqueTo": "Lasty's Kazakhstan",
   "replaces": "Lancer",
   "cost": 185,
+  "movement": 4,
+  "range": 2,
   "strength": 20,
   "rangedStrength": 25,
   "requiredTech": "Metallurgy",
