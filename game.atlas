@@ -1,0 +1,118 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Arepa Guild
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Keraton
+  rotate: false
+  xy: 780, 564
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Caballero Arepa
+  rotate: false
+  xy: 4, 212
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+NationIcons/Duchy of Arepandia
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Hankunesia
+  rotate: false
+  xy: 420, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Armored Car
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Batterig Ram
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Battle Engineer
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Grenadier
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Light Tank
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Reconnaissance Plane
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Siege Tower
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Voltigeur
+  rotate: false
+  xy: 780, 672
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcon/Berraco
+  rotate: false
+  xy: 780, 780
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcon/Penggarap
+  rotate: false
+  xy: 528, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Petani
+  rotate: false
+  xy: 888, 722
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
