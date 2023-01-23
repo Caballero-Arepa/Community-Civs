@@ -30,4 +30,37 @@
 
 	    "cities": ["Central Arepa","Villa Chóclo","Cundinamarca","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Machetá"]
   },
+	
+	//Ace Hank of Hankunesia
+	{
+		"name": "Hankunesia",
+		"leaderName": "Ace Hank",
+		"adjective": ["Hankus"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Ace Hank of Hankunesia, you lead your people towards great cultural achievment. Your people begged you to settle more cities now it's getting crowdy, but your laziness to micromanage your cities hinders your empire in this meta.",
+		"startIntroPart2": "O, Ace Hank, you will lead your kingdom for another turn. Will you start settling more cities? Will you micromanage your empire? Can you build a civilization that will stand the test of one more turn?",
+		
+		"declaringWar": "Finally! A Worthy Opponent! Our Battle Will Be Legendary!",
+		"attacked": "Are you sure about that?",
+		"defeated": "Aduh hiyung... I think I'm dead.",
+		"introduction": "Sugeng rawuh stranger, please sit and make yourself at home. And please take of your shoes.",
+		
+		"neutralHello": "Pripun kabare?",
+		"hateHello": "Genthone teko.",
+		"tradeRequest": "Would you be interested in a trade agreement with Hankunesia?",
+		
+		"outerColor": [255,223,107],
+		"innerColor": [115,82,235],
+		"uniqueName": "Berbudaya",
+		"uniqueText": "+1 Great Artist Point from [Culture] buildings in your first 4 cities",
+		"uniques": ["Provides a [Pusat Kebudayaan] in your first [4] cities for free",
+					"Gain a free [Monument Artist] [in all cities] <in cities with a [Monument]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Amphitheater Artist] [in all cities] <in cities with a [Amphitheater]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Opera House Artist] [in all cities] <in cities with a [Opera House]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Museum Artist] [in all cities] <in cities with a [Museum]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Broadcast Tower Artist] [in all cities] <in cities with a [Broadcast Tower]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Keraton Artist] [in all cities] <in cities with a [Keraton]> <in cities with a [Pusat Kebudayaan]>"],
+		"cities": ["Sitihinggil","Kota Gedhe","Adat","Istiadat","Surakarta","Klathen","Gotong","Royong","Kartasura","Sukoharjo"],
+	},
 ]
