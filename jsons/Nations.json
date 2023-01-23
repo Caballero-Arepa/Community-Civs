@@ -63,4 +63,34 @@
 					"Gain a free [Keraton Artist] [in all cities] <in cities with a [Keraton]> <in cities with a [Pusat Kebudayaan]>"],
 		"cities": ["Sitihinggil","Kota Gedhe","Adat","Istiadat","Surakarta","Klathen","Gotong","Royong","Kartasura","Sukoharjo"],
 	},
+{
+	  "name": "Lasty's Kazakhstan",
+	  "leaderName": "Lasty Стратег",
+	  "adjective": ["Kazakh"],
+	  "outerColor": [1, 165, 200],
+	  "innerColor": [254, 230, 0],
+
+	  "startBias": ["Plains"],
+	  "preferredVictoryType": "Cultural",
+      	  "favoredReligion": "Islam",
+	  
+	  "startIntroPart1": "Assalam Aleykum Lasty Стратег, Sultan of Kazakhstan. Your reign has led to the golden age of your empire, and your peacefulness would be the envy of the whole world! You were a just ruler, and always made decisions that changed everything for the better!",
+	  "startIntroPart2": "Despite the threats around you, your people believe in you and will support you.",
+ 
+	    "introduction": "Assalam Aleykum my friend, I am Sultan of Kazakhstan. Who are you?",
+	    "declaringWar": "Your aggression has no end, I'm forced to take action.",
+     	"attacked": "Oybay, no shame, no conscience!",
+    	"afterPeace": "Was it worth it?",
+  	  "defeated": "How many nations will look at you with contempt.",
+
+     	"neutralHello": "Assalam Aleykum",
+    	"hateHello": "Au.",
+
+    	"tradeRequest": "What is your opinion about it?",
+		
+  	  "uniqueName": "Nomadic diplomacy",
+    	"uniques": ["[+1 Happiness] from [Horses] tiles [in all cities]", "[+1 Happiness] from [Pasture] tiles [in all cities]", "[-25]% City-State Influence degradation"],
+
+	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
+  },
 ]
