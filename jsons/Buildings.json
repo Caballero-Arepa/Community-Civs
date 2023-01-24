@@ -15,7 +15,7 @@
 {
   "name": "Biev Courthouse",
   "uniqueTo": "Lasty's Kazakhstan",
-  "requiredTechnology": "Mathematics",
+  "requiredTech": "Mathematics",
   "percentStatBonus": {"culture": 15, "happiness": 30},
   "culture": 2,
   "cost": 100,
