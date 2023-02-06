@@ -93,4 +93,35 @@
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
+{
+//belias
+		"name": "Wonderland",
+		"leaderName": "Belias",
+		"adjective": ["Maravillense"],
+		"outerColor": [39,126,205],
+		"innerColor": [255,255,255],
+		"style": "Wonderfull",
+
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+	        "introduction": "Hello my friend, did you come to see this Wonderful land?",
+	        "declaringWar": "*Not on my watch*",
+     	        "attacked": "You can't break this marvelous walls.",
+		"afterPeace": "I still don't trust you",
+		"defeated": "Archibald you may hace one this time but in our next live you shall fall.",
+           	"neutralHello": "Good day.",
+    	        "hateHello": "Bad day",
+    	        "tradeRequest": "Is this fair?",
+		"uniqueName": "Wonderful Theocracy",
+		"uniques": [ "May choose [1] additional [Founder] beliefs when [founding] a religion",
+	        "May choose [1] additional [Enhancer] beliefs when [Enhancing] a religion"
+		],
+
+		"cities": ["Zulia","Wonderfort","Puerto unión","Monolith","Cumbres","Notmaracaibo","Buildercity",]
+  },
 ]
