@@ -92,14 +92,14 @@
 
 },
 //Belias civ
-{
+       {
 		"name": "Wonderful Commander",
 		"unitType": "Civilian",
 		"uniqueTo": "Wonderland",
 		"replaces": "Great General",
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
 			"All adjacent units heal [+10] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 3
+		"movement": 3,
 	},
 
 {
