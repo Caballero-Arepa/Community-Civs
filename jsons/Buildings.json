@@ -88,8 +88,8 @@
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
                 "civilopediaText": [
-			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
-]
+			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."},
+],
 
 },
 //Belias civ
