@@ -110,6 +110,6 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["Provides [1] [Marble]",
+		"uniques": ["Provides [1] [Marble]",],
 	},
         ]
