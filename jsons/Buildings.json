@@ -90,10 +90,9 @@
                 "civilopediaText": [
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."},
 ],
-
 },
 //Belias civ
-       {
+         {
 		"name": "Wonderful Commander",
 		"unitType": "Civilian",
 		"uniqueTo": "Wonderland",
@@ -101,9 +100,8 @@
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
 			"All adjacent units heal [+10] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
-	},
-
-{
+	 },
+         {
 		"name": "Monument to the Builders",
 		"replaces": "Monument",
 		"uniqueTo": "Wonderland",
@@ -114,4 +112,4 @@
 		"maintenance": 2,
 		"uniques": ["Provides [1] [Marble]",
 	},
-]
+        ]
