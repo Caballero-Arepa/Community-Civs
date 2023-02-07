@@ -119,7 +119,7 @@
     	        "tradeRequest": "Is this fair?",
 		"uniqueName": "Wonderful Theocracy",
 		"uniques": [ "May choose [1] additional [Founder] beliefs when [founding] a religion",
-	        "May choose [1] additional [Enhancer] beliefs when [Enhancing] a religion"
+	        "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion"
 		],
 
 		"cities": ["Zulia","Wonderfort","Puerto unión","Monolith","Cumbres","Notmaracaibo","Buildercity",]
