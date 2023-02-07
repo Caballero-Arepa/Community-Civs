@@ -87,8 +87,20 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
-        "civilopediaText": [
-			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."}
-      ]
+                "civilopediaText": [
+			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."},
+],
 },
-]
+//Belias civ
+         {
+		"name": "Monument to the Builders",
+		"replaces": "Monument",
+		"uniqueTo": "Wonderland",
+		"culture": 1,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Provides [1] [Marble]",],
+	},
+        ]
