@@ -70,4 +70,30 @@
 			"All adjacent units heal [+15] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	 },
+
+//Bamboo Kingdom
+	{
+		"name": "Floating Raft",
+                "uniqueTo": "Bamboo Kingdom",
+                "replaces": "Ironclad",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 45,
+                "interceptRange": 3,
+		"cost": 275,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Coal",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
+		"uniques": [
+                          "[+33]% Strength <vs cities>",
+                          "[+33]% Strength <vs [Ranged Water] units>",
+                          "Double movement in [Coast]",
+                          "Doesn't upgrade to Destroyer but gets it abilities after discovering Combustion",
+                          "Can see invisible [Submarine] units <after discovering [Combustion]>", "[66]% chance to intercept air attacks <after discovering [Combustion]>",
+			  "[+100]% Strength <vs [Submarine] units> <after discovering [Combustion]>", "[+33]% Strength <after discovering [Combustion]>",
+                          "[+33]% Strength <after discovering [Lasers]>"
+                            ],
+		"attackSound": "shipguns"
+	},
 ]
