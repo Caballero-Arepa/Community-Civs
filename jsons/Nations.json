@@ -132,7 +132,7 @@
 		"adjective": ["Bamboo"],
 		"outerColor": [87, 233, 108],
 		"innerColor": [69, 114, 48],
-		"style": "Arepino",
+		"style": "Bamboo",
 
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
@@ -153,7 +153,7 @@
     	"tradeRequest": "Wanna some aditional... *white coffee*?",
 		*/
 		"uniqueName": "King of all Bamboo",
-		"uniques": [],
+		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [unimproved] [Jungle] tiles [in all cities]"],
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
