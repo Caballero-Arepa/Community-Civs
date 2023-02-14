@@ -94,4 +94,23 @@
                             ],
 		"attackSound": "shipguns"
 	},
+	//EmperorPenguin's civ
+
+	{
+		"name": "Floating Fortress",
+  		"uniqueTo": "Penguinesia",
+  		"replaces": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 70,
+		"rangedStrength": 70,
+		"range": 3,
+		"cost": 425,
+		"requiredTech": "Electronics",
+		"uniques": ["Consumes [1] [Iron]","Upgrades to Missile Cruiser","Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+  		"upgradesTo": "Missile Cruiser",
+  		"obsoleteTech": "Robotics",
+		"attackSound": "shipguns"
+	},
 ]
