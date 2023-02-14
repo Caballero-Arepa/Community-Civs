@@ -1,0 +1,15 @@
+[	
+	// Unique resources
+	{
+		"name": "Arepa",
+		"resourceType": "Luxury",
+		"uniques": ["[+1 Food] [in all cities]","[+5]% [Culture] [in all cities]",
+					"Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "White Coffee",
+		"resourceType": "Luxury",
+		"uniques": ["[+1 Happiness] [in all cities]","[-15]% [Production] [in all cities]",
+					"Will not be displayed in Civilopedia"]
+	},
+]
