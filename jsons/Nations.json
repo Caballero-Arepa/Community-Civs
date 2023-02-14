@@ -172,20 +172,25 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
  
-		"introduction": "",
-		"declaringWar": "",
-		"attacked": "",
-		"afterPeace": "",
-		"defeated": "",
+		"introduction": "Welcome stranger, I am Emperor Penguin of the beautiful and civilized nation of Penguinesia.",
+		"declaringWar": "This is war. Be prepared.",
+		"attacked": "How dare you!?",
+		"afterPeace": "A wise decision.",
+		"defeated": "No comments.",
 
-		"neutralHello": "",
-		"hateHello": "",
+		"neutralHello": "You're welcome",
+		"hateHello": "What do you want?",
 
-		"tradeRequest": "",
+		"tradeRequest": "I've got a deal for you:",
 		
 		"uniqueName": "Sovereign of the Seven Seas",
 		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Each city founded increases culture cost of policies [33]% less than normal"],
 
-		"cities": ["TBD"]
+		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
+				"Blizzard Heights","Penguin Key","Pelican Point","Sandy Shores","Palm Penguin",
+				"Fisherman's Flats","Blue Lagoon","Sunspot City","Penguinport","Flapflats",
+				"Seaside Sands","Flamingo Bay","Waddleton","Archipenguine","Snowsquall",
+				"Tundratropolis","Iceberg City","Surfside City","Antarctic Bay","Flipper Beach",
+				"Glacierside","Penguintopia","Coral Cove","Tropicool","Icicletown"]
   },
 ]
