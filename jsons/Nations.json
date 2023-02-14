@@ -1,0 +1,191 @@
+[
+  {
+		"name": "Duchy of Arepandia",
+		"leaderName": "Caballero Arepa",
+		"adjective": ["Arepino"],
+		"outerColor": [74, 64, 58],
+		"innerColor": [255, 192, 105],
+		"style": "Arepino",
+
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Arepas Supremas",
+	  
+		"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
+		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph you shall have.",
+ 
+	    "introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
+	    "declaringWar": "*Alright God, please not another Stalingrad battle*",
+     	"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
+		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
+		"defeated": "I HATE YOU!",
+
+     	"neutralHello": "Quiubo",
+    	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
+
+    	"tradeRequest": "Wanna some aditional... *white coffee*?",
+		
+		"uniqueName": "Arepa Economy",
+		"uniques": ["[+1 Food] from all [Gold] buildings","[+1 Gold] from all [Culture] buildings"],
+
+		"cities": ["Central Arepa","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
+  },
+	
+	//Ace Hank of Hankunesia
+	{
+		"name": "Hankunesia",
+		"leaderName": "Ace Hank",
+		"adjective": ["Hankus"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Ace Hank of Hankunesia, you lead your people towards great cultural achievment. Your people begged you to settle more cities now it's getting crowdy, but your laziness to micromanage your cities hinders your empire in this meta.",
+		"startIntroPart2": "O, Ace Hank, you will lead your kingdom for another turn. Will you start settling more cities? Will you micromanage your empire? Can you build a civilization that will stand the test of one more turn?",
+		
+		"declaringWar": "Finally! A Worthy Opponent! Our Battle Will Be Legendary!",
+		"attacked": "Are you sure about that?",
+		"defeated": "Aduh hiyung... I think I'm dead.",
+		"introduction": "Sugeng rawuh stranger, please sit and make yourself at home. And please take of your shoes.",
+		
+		"neutralHello": "Pripun kabare?",
+		"hateHello": "Genthone teko.",
+		"tradeRequest": "Would you be interested in a trade agreement with Hankunesia?",
+		
+		"outerColor": [255,223,107],
+		"innerColor": [115,82,235],
+		"uniqueName": "Berbudaya",
+		"uniqueText": "+1 Great Artist Point from [Culture] buildings in your first 4 cities",
+		"uniques": ["Provides a [Pusat Kebudayaan] in your first [4] cities for free",
+					"Gain a free [Monument Artist] [in all cities] <in cities with a [Monument]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Amphitheater Artist] [in all cities] <in cities with a [Amphitheater]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Opera House Artist] [in all cities] <in cities with a [Opera House]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Museum Artist] [in all cities] <in cities with a [Museum]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Broadcast Tower Artist] [in all cities] <in cities with a [Broadcast Tower]> <in cities with a [Pusat Kebudayaan]>",
+					"Gain a free [Keraton Artist] [in all cities] <in cities with a [Keraton]> <in cities with a [Pusat Kebudayaan]>"],
+		"cities": ["Sitihinggil","Kota Gedhe","Adat","Istiadat","Surakarta","Klathen","Gotong","Royong","Kartasura","Sukoharjo"],
+	},
+{
+	  "name": "Lasty's Kazakhstan",
+	  "leaderName": "Lasty Стратег",
+	  "adjective": ["Kazakh"],
+	  "outerColor": [0, 148, 222],
+          "innerColor": [255, 255, 255],
+
+	  "startBias": ["Plains"],
+	  "preferredVictoryType": "Cultural",
+      	  "favoredReligion": "Islam",
+	  
+	  "startIntroPart1": "Assalam Aleykum Lasty Стратег, Sultan of Kazakhstan. Your reign has led to the golden age of your empire, and your peacefulness would be the envy of the whole world! You were a just ruler, and always made decisions that changed everything for the better!",
+	  "startIntroPart2": "Despite the threats around you, your people believe in you and will support you.",
+ 
+	    "introduction": "Assalam Aleykum my friend, I am Sultan of Kazakhstan. Who are you?",
+	    "declaringWar": "Your aggression has no end, I'm forced to take action.",
+     	"attacked": "Oybay, no shame, no conscience!",
+    	"afterPeace": "Was it worth it?",
+  	  "defeated": "How many nations will look at you with contempt.",
+
+     	"neutralHello": "Assalam Aleykum",
+    	"hateHello": "Au.",
+
+    	"tradeRequest": "What is your opinion about it?",
+		
+  	  "uniqueName": "Nomadic diplomacy",
+    	"uniques": ["[+1 Happiness] from [Pasture] tiles [in all cities]", "[-25]% City-State Influence degradation"],
+
+	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
+  },
+//belias
+{
+		"name": "Wonderland",
+		"leaderName": "Belias",
+		"adjective": ["Maravillense"],
+		"outerColor": [39,126,205],
+		"innerColor": [255,255,255],
+		"style": "Wonderfull",
+
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+	        "introduction": "Hello my friend, did you come to see this Wonderful land?",
+	        "declaringWar": "*Not on my watch*",
+     	        "attacked": "You can't break this marvelous walls.",
+		"afterPeace": "I still don't trust you",
+		"defeated": "Archibald you may hace one this time but in our next live you shall fall.",
+           	"neutralHello": "Good day.",
+    	        "hateHello": "Bad day",
+    	        "tradeRequest": "Is this fair?",
+		"uniqueName": "Wonderful Theocracy",
+		"uniques": [ "May choose [1] additional [Founder] beliefs when [founding] a religion",
+	        "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion"
+		],
+
+		"cities": ["Zulia","Wonderfort","Puerto unión","Monolith","Cumbres","Notmaracaibo","Buildercity",]
+  },
+
+//Bamboolord
+{
+		"name": "Bamboo Kingdom",
+		"leaderName": "Bamboolord",
+		"adjective": ["Bamboo"],
+		"outerColor": [87, 233, 108],
+		"innerColor": [69, 114, 48],
+		"style": "Bamboo",
+
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		//"favoredReligion": "",
+	  
+		/*"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
+		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph you shall have.",
+ 
+	    "introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
+	    "declaringWar": "*Alright God, please not another Stalingrad battle*",
+     	"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
+		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
+		"defeated": "I HATE YOU!",
+
+     	"neutralHello": "Quiubo",
+    	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
+
+    	"tradeRequest": "Wanna some aditional... *white coffee*?",
+		*/
+		"uniqueName": "King of all Bamboo",
+		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [Jungle] tiles without [Trading post] [in all cities]"],
+
+		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
+  },
+  {
+		"name": "Penguinesia",
+		"leaderName": "Emperor Penguin",
+		"adjective": ["Penguinesian"],
+		"outerColor": [30, 71, 133],
+		"innerColor": [255, 255, 255],
+		"style": "",
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Christianity",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+		"introduction": "",
+		"declaringWar": "",
+		"attacked": "",
+		"afterPeace": "",
+		"defeated": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+		
+		"uniqueName": "Sovereign of the Seven Seas",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Each city founded increases culture cost of policies [33]% less than normal"],
+
+		"cities": ["TBD"]
+  },
+]
