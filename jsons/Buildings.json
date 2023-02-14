@@ -116,4 +116,27 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","[+1 Culture] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
 	},
+//EmperorPenguin civ
+{
+		"name": "Enlightenment House",
+		"replaces": "Lighthouse",
+		"uniqueTo": "Penguinesia",
+		"cost": 75,
+		"science": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+		"requiredTech": "Optics"
+	},
+	{
+		"name": "Aquarium",
+		"replaces": "Circus",
+		"uniqueTo": "Penguinesia",
+		"requiredNearbyImprovedResources": ["Fish","Pearls","Crab"],
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Available with Fish, Pearls, Crab", "Unlocked at Sailing"],
+		"requiredTech": "Sailing"
+	},
         ]
