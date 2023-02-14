@@ -112,7 +112,8 @@
 		"cityStrength": 5,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
+		"maintenance": 2,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","Provides [1] [Oil] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
+		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","[+1 Culture] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
 	},
         ]
