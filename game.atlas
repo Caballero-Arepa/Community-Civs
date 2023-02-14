@@ -83,7 +83,7 @@ NationIcons/Duchy of Arepandia
   index: -1
 NationIcons/Hankunesia
   rotate: false
-  xy: 780, 266
+  xy: 988, 682
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -130,9 +130,9 @@ UnitIcons/Berraco
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Floating Raft
+UnitIcons/Ironchad
   rotate: false
-  xy: 988, 682
+  xy: 780, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

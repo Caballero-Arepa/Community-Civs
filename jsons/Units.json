@@ -73,7 +73,7 @@
 
 //Bamboo Kingdom
 	{
-		"name": "Floating Raft",
+		"name": "Ironchad",
                 "uniqueTo": "Bamboo Kingdom",
                 "replaces": "Ironclad",
 		"unitType": "Melee Water",
@@ -83,8 +83,6 @@
 		"cost": 275,
 		"requiredTech": "Industrialization",
 		"requiredResource": "Coal",
-		"upgradesTo": "Destroyer",
-		"obsoleteTech": "Combustion",
 		"uniques": [
                           "[+33]% Strength <vs cities>",
                           "[+33]% Strength <vs [Ranged Water] units>",
