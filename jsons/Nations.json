@@ -157,5 +157,36 @@
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
+	  {
+		"name": "Penguinesia",
+		"leaderName": "Emperor Penguin",
+		"adjective": ["Penguinesian"],
+		"outerColor": [30, 71, 133],
+		"innerColor": [255, 255, 255],
+		"style": "",
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Christianity",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+		"introduction": "",
+		"declaringWar": "",
+		"attacked": "",
+		"afterPeace": "",
+		"defeated": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+		
+		"uniqueName": "Sovereign of the Seven Seas",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Each city founded increases culture cost of policies [33]% less than normal"],
+
+		"cities": ["TBD"]
+  },
 	
 ]
