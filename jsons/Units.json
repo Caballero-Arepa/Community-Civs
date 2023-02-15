@@ -112,4 +112,22 @@
   		"obsoleteTech": "Robotics",
 		"attackSound": "shipguns"
 	},
+	//Firelord
+	{
+		"name": "Iron Dragon",
+  		"uniqueTo": "The Imperium of Fire",
+  		"replaces": "Frigate",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 25,
+		"rangedStrength": 28,
+		"cost": 240,
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"promotions": ["Logistics"],
+		"attackSound": "cannon"
+	},
 ]

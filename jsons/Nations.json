@@ -193,4 +193,44 @@
 				"Tundratropolis","Iceberg City","Surfside City","Antarctic Bay","Flipper Beach",
 				"Glacierside","Penguintopia","Coral Cove","Tropicool","Icicletown"]
   },
+  //Firelord
+  {
+		"name": "The Imperium of Fire",
+		"leaderName": "Lord of Fire",
+		"adjective": ["Paradisians"],
+		"outerColor": [67, 67, 67],
+        "innerColor": [243, 41, 25],
+
+		"startBias": ["Desert","Coast"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "The Church of the Daring Flame",
+	  
+		"startIntroPart1": "The flame of ambition is fueled by those daring few",
+		"startIntroPart2": "will you dare to rule the world?",
+ 
+	    "introduction": "Greetings from the Imperium",
+	    "declaringWar": "The Imperium deems you weak and frail. You must be extinguished",
+     	"attacked": "If you dare stick your hand in the fire, don't be surprised to come out burned",
+		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
+		"defeated": "The Imperiums ambitions were too daring, now our flame has been extinguished...",
+
+     	"neutralHello": "greetings",
+    	"hateHello": "Are you here to pay tribute?",
+
+    	"tradeRequest": "This trade is beneficial to both of us",
+		
+		"uniqueName": "Fruit of the Badlands",
+		"uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>"],
+
+		"cities": ["Dragonheart","Caldera","ignis Castellon","Dardraca Crater","Ignatia","Pyropolis",
+					"Scorchtown","Ashenforge","Dragonspire","Infernocrest","Smolderhaven",
+					"Cinderfort","Emberhold","Ironhaven","Flamekeep","Dragonreach","Steelcity",
+					"Moltenrock","Firefall","Burningham","Ironcliff","Ashenridge","Infernoth",
+					"Magmafield","Forgekeep","Smeltview","Dragoncrest","Ironstone","Scorchtower",
+					"Embercrest","Firekeep","Dragonburg","Ironhold","Ashenvalley","Forgevale",
+					"Smeltrock","Infernopoint","Moltenlake","Dragonisle","Ironwood","Ashenfort",
+					"Forgeburg","Smolderfield","Infernovalley","Magmaforge","Firecrest","Dragonhaven",
+					"Ironclaw","Scorchtowne","Emberwood"
+					]
+  },
 ]

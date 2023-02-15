@@ -6,203 +6,231 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Aquarium
   rotate: false
-  xy: 791, 563
+  xy: 791, 577
   size: 427, 427
   orig: 427, 427
   offset: 0, 0
   index: -1
 BuildingIcons/Arepa Guild
   rotate: false
-  xy: 1775, 1106
+  xy: 1742, 563
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Biev Courthouse
   rotate: false
-  xy: 1783, 1780
+  xy: 1783, 1528
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Enlightenment House
   rotate: false
-  xy: 780, 206
+  xy: 780, 220
   size: 349, 349
   orig: 349, 349
   offset: 0, 0
   index: -1
 BuildingIcons/Great Bamboo Walls
   rotate: false
-  xy: 1345, 341
+  xy: 1742, 355
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 220, 4
+  xy: 988, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Builders
   rotate: false
-  xy: 1651, 809
+  xy: 1137, 165
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
+BuildingIcons/Navel Forge
+  rotate: false
+  xy: 1783, 1786
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Rainbow Plantation
   rotate: false
-  xy: 436, 4
+  xy: 1883, 1162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/White Coffee
   rotate: false
-  xy: 436, 4
+  xy: 1883, 1162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 LeaderIcons/Bamboolord
   rotate: false
-  xy: 4, 888
+  xy: 4, 902
   size: 779, 1142
   orig: 779, 1142
   offset: 0, 0
   index: -1
 LeaderIcons/Caballero Arepa
   rotate: false
-  xy: 4, 112
+  xy: 4, 126
   size: 768, 768
   orig: 768, 768
   offset: 0, 0
   index: -1
 NationIcons/Bamboo Kingdom
   rotate: false
-  xy: 4, 4
+  xy: 1775, 1162
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Duchy of Arepandia
   rotate: false
-  xy: 1137, 341
+  xy: 1425, 37
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Hankunesia
   rotate: false
-  xy: 112, 4
+  xy: 988, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Lasty's Kazakhstan
   rotate: false
-  xy: 1783, 1522
+  xy: 1775, 1270
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Penguinesia
   rotate: false
-  xy: 1311, 757
+  xy: 1661, 771
   size: 332, 332
   orig: 332, 332
   offset: 0, 0
   index: -1
+NationIcons/The Imperium of Fire
+  rotate: false
+  xy: 1311, 761
+  size: 342, 342
+  orig: 342, 342
+  offset: 0, 0
+  index: -1
 NationIcons/Wonderland
   rotate: false
-  xy: 791, 998
+  xy: 791, 1012
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 ReligionIcons/Arepas Supremas
   rotate: false
-  xy: 1226, 549
+  xy: 1425, 245
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+ReligionIcons/The Church of the Daring Flame
+  rotate: false
+  xy: 1226, 453
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
 ResourceIcons/Arepa
   rotate: false
-  xy: 1775, 1314
+  xy: 1534, 553
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Arepa Stand
   rotate: false
-  xy: 1775, 1314
+  xy: 1534, 553
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Berraco
   rotate: false
-  xy: 1434, 549
+  xy: 780, 12
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Floating Fortress
   rotate: false
-  xy: 1311, 1097
+  xy: 1311, 1111
   size: 456, 456
   orig: 456, 456
   offset: 0, 0
   index: -1
 UnitIcons/Floating Raft
   rotate: false
-  xy: 1345, 233
+  xy: 4, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ironchad
   rotate: false
-  xy: 1345, 233
+  xy: 4, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Iron Dragon
+  rotate: false
+  xy: 1841, 178
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
 UnitIcons/Kazakh Nomad
   rotate: false
-  xy: 1311, 1561
+  xy: 1311, 1575
   size: 464, 469
   orig: 464, 469
   offset: 0, 0
   index: -1
 UnitIcons/Penggarap
   rotate: false
-  xy: 328, 4
+  xy: 1633, 39
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ruanero
   rotate: false
-  xy: 1137, 133
+  xy: 1633, 147
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wonderful Commander
   rotate: false
-  xy: 791, 1518
+  xy: 791, 1532
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 1983, 1464
+  xy: 1226, 954
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
