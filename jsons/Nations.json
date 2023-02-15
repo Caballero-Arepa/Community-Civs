@@ -162,7 +162,7 @@
 		"leaderName": "Emperor Penguin",
 		"adjective": ["Penguinesian"],
 		"outerColor": [30, 71, 133],
-		"innerColor": [255, 255, 255],
+		"innerColor": [255, 127, 0],
 		"style": "",
 
 		"startBias": ["Coast"],
