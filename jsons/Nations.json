@@ -198,8 +198,8 @@
 		"name": "The Imperium of Fire",
 		"leaderName": "Lord of Fire",
 		"adjective": ["Paradisians"],
-		"outerColor": [67, 67, 67],
-        "innerColor": [243, 41, 25],
+		"outerColor": [41, 41, 41],    
+                "innerColor": [213, 70, 3],
 
 		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Domination",
