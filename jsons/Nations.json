@@ -199,7 +199,7 @@
 		"leaderName": "Lord of Fire",
 		"adjective": ["Paradisians"],
 		"outerColor": [41, 41, 41],    
-                "innerColor": [213, 70, 3],
+                "innerColor": [213, 112, 3],
 
 		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Domination",
@@ -244,9 +244,6 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
-	  
-		"startIntroPart1": " ",
-		"startIntroPart2": ".",
  
 	    "introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious motherland, but you can call me Alyosha.",
 	    "declaringWar": "The deeds sing, goddess, of the motherland' son, A1y0sh4, that war enterprises which brought countless glories upon the comrades,\nand sent forth to Hades many valiant enemies, and made them themselves spoil for dogs and every bird.",
