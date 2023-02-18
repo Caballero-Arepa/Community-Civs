@@ -154,14 +154,13 @@
 	//Aiyosha
 	{
 	"name": "Kreml'",
-    "uniqueTo": "Aleksandria",
-    "replaces": "Walls",
+        "replaces": "Walls",
 	"uniqueTo": "Aleksandria",
 	"cityStrength": 8,
 	"cityHealth": 50,
-    "faith": 1,
+        "faith": 1,
 	"hurryCostModifier": 25,
 	"requiredTech": "Masonry",
 	"uniques": ["Destroyed when the city is captured", "[-30]% Culture cost of natural border growth [in this city] <during a Golden Age>"]
-	},
+},
         ]

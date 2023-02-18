@@ -4,9 +4,4 @@
 		"name": "Petani",
 		"uniques": ["Can build [Farm] improvements on tiles"]
 	},
-	//Aiyosha
-	{
-	"name": "Katorga",
-	"uniques": ["Can construct [Katorga]"]
-	},
 ]
