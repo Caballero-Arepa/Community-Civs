@@ -199,7 +199,7 @@
 		"leaderName": "Lord of Fire",
 		"adjective": ["Paradisians"],
 		"outerColor": [41, 41, 41],    
-                "innerColor": [213, 70, 3],
+                "innerColor": [213, 112, 3],
 
 		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Domination",
