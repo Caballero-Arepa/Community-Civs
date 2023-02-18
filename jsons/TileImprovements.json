@@ -18,7 +18,7 @@
 	"name": "Katorga",
 	"terrainsCanBeBuiltOn": ["Land"],
 	"production": 1,
-	"uniques": ["Great Improvement", "[+1 Production] <in [Tundra] tiles>", "[+1 Production] <in [Snow] tiles>", "[+1 Production] <when below [0] Happiness>", "[+1 Production] <after discovering [Chemistry]>", "Constructing it will take over the tiles around it and assign them to your closest city", "Removes removable features when built"],
+	"uniques": ["Great Improvement", "[+1 Production] <in [Tundra] tiles>", "[+1 Production] <in [Snow] tiles>", "[+1 Production] <when below [0] Happiness>", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built"],
 	"shortcutKey": "K"
 },
 ]

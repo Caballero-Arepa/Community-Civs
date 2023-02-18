@@ -199,7 +199,7 @@
 		"leaderName": "Lord of Fire",
 		"adjective": ["Paradisians"],
 		"outerColor": [41, 41, 41],    
-                "innerColor": [213, 112, 3],
+                "innerColor": [213, 70, 3],
 
 		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Domination",
@@ -252,7 +252,7 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pride of the North",
-	"uniques": ["Empire enters golden age <upon conquering a city>", "Free [Worker of the Motherland] appears <upon founding a city> <in [Tundra] tiles>"],
+	"uniques": ["Empire enters golden age <upon conquering a city>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg"]

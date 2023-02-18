@@ -131,12 +131,11 @@
 		"attackSound": "cannon"
 	},
 	{
-"name": "Worker of the Motherland",
-"replaces": "Worker",
-"uniqueTo": "Aleksandria",
-"unitType": "Civilian",
-"movement": 2,
-"uniques": ["Can build [Land] improvements on tiles", "Can construct [Katorga] <in [Strategic resource] tiles>"],
-"cost": 70
+		"name": "Worker of the Motherland",
+		"uniqueTo": "Aleksandria",
+		"unitType": "Civilian",
+		"cost": 70,
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Can construct [Katorga]"],
 },
 ]
