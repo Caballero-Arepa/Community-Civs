@@ -75,70 +75,70 @@ BuildingIcons/Aquarium
   index: -1
 BuildingIcons/Arepa Guild
   rotate: false
-  xy: 439, 238
+  xy: 1618, 515
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Biev Courthouse
   rotate: false
-  xy: 1453, 753
+  xy: 894, 396
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Enlightenment House
   rotate: false
-  xy: 468, 654
+  xy: 894, 654
   size: 349, 349
   orig: 349, 349
   offset: 0, 0
   index: -1
 BuildingIcons/Great Bamboo Walls
   rotate: false
-  xy: 439, 30
+  xy: 1826, 307
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 1400, 615
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kreml'
   rotate: false
-  xy: 1260, 455
+  xy: 1826, 39
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Builders
   rotate: false
-  xy: 1165, 723
+  xy: 1591, 723
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
 ImprovementIcons/Katorga
   rotate: false
-  xy: 1092, 503
+  xy: 1879, 843
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 ImprovementIcons/Rainbow Plantation
   rotate: false
-  xy: 1616, 645
+  xy: 576, 477
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/White Coffee
   rotate: false
-  xy: 1616, 645
+  xy: 576, 477
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -152,14 +152,14 @@ NationIcons/Aleksandria
   index: -1
 NationIcons/Bamboo Kingdom
   rotate: false
-  xy: 112, 4
+  xy: 1879, 735
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Duchy of Arepandia
   rotate: false
-  xy: 884, 463
+  xy: 1826, 515
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -173,42 +173,63 @@ NationIcons/Hankunesia
   index: -1
 NationIcons/Lasty's Kazakhstan
   rotate: false
-  xy: 1711, 753
+  xy: 1152, 396
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Penguinesia
   rotate: false
-  xy: 825, 671
+  xy: 1251, 671
   size: 332, 332
   orig: 332, 332
   offset: 0, 0
   index: -1
 ReligionIcons/Arepas Supremas
   rotate: false
-  xy: 676, 446
+  xy: 1410, 255
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+ReligionIcons/The Church of the Daring Flame
+  rotate: false
+  xy: 468, 585
+  size: 418, 418
+  orig: 418, 418
+  offset: 0, 0
+  index: -1
 ResourceIcons/Arepa
   rotate: false
-  xy: 468, 446
+  xy: 1410, 463
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Arepa Stand
   rotate: false
-  xy: 468, 446
+  xy: 1410, 463
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Katorga
+  rotate: false
+  xy: 1987, 803
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Katorga
+  rotate: false
+  xy: 684, 513
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 UnitIcons/Berraco
   rotate: false
-  xy: 647, 238
+  xy: 1618, 307
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -220,37 +241,44 @@ UnitIcons/Floating Fortress
   orig: 456, 456
   offset: 0, 0
   index: -1
+UnitIcons/Floating Raft
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Ironchad
   rotate: false
-  xy: 328, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penggarap
   rotate: false
-  xy: 1508, 645
+  xy: 468, 477
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ruanero
   rotate: false
-  xy: 647, 30
+  xy: 1618, 99
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Worker of the Motherland
   rotate: false
-  xy: 1260, 583
+  xy: 1826, 167
   size: 132, 132
   orig: 132, 132
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 1969, 953
+  xy: 1966, 249
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
