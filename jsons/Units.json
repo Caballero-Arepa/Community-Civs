@@ -130,12 +130,4 @@
 		"promotions": ["Logistics"],
 		"attackSound": "cannon"
 	},
-	{
-		"name": "Worker of the Motherland",
-		"uniqueTo": "Aleksandria",
-		"unitType": "Civilian",
-		"cost": 70,
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Can construct [Katorga]"],
-},
 ]
