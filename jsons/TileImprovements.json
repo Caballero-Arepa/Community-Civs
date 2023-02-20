@@ -13,12 +13,15 @@
 			    "Limited to [3] per Civilization",
 			    "Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
 	},
-	//Aiyosha
+	//Alyosha
 	{
 	"name": "Katorga",
-	"terrainsCanBeBuiltOn": ["Land"],
+	"uniqueTo": "Aleksandria",
+	"terrainsCanBeBuiltOn": ["Snow", "Tundra", "Hill", "Forest"],
 	"production": 1,
-	"uniques": ["Great Improvement", "[+1 Production] <in [Tundra] tiles>", "[+1 Production] <in [Snow] tiles>", "[+1 Production] <when below [0] Happiness>", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built"],
+	"turnsToBuild": 5,
+	"uniques": ["Great Improvement", "Can only be built on [Strategic resource] tiles", "[+1 Production] <after discovering [Chemistry]>", "[+1 Production] <when below [0] Happiness>", "Constructing it will take over the tiles around it and assign them to your closest city"],
+	"techRequired": "Metallurgy",
 	"shortcutKey": "K"
-},
+      }
 ]
