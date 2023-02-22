@@ -252,11 +252,47 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pride of the North",
-	"uniques": ["Empire enters golden age <upon conquering a city>", "Free [Worker] appears <upon founding a city> <in [Tundra] tiles>"],
+	"uniques": ["Empire enters golden age <upon conquering a city>", "Free [Worker] appears <upon founding a city> <in [Tundra] tiles>", "[Worker] units gain the [Katorga] promotion"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg"]
 },
-
-
+	//Ketonia
+	{
+	"name":"Ketonia",
+	"leaderName" : "Lady Ferii",
+	"adjective":["ketonian"],
+	"startBias":["Plains"],
+	"prefferedVictoryType":"Science",
+	
+	"startIntroPart1":"Raise the Swords for Lady Ferii, the great General of Ketonia! Oh great General, Your Network of colonies supply your country with luxurys and Resources, and strategical inventions like the field gun support you on the Battlefield.",
+	"startIntroPart2":"Now its time to rebuild this civilisation from its ancient roots. Will you create a world-spanning trade network? Will you rule the Battlefield? Can you build a Civilisation that can stand the test of time?",
+	
+	"declaringWar":"Its time to speak on the same level: The rolling thunder of the battlefield!",
+	"attacked":"We may seem weak to you, but we will see who is first to flee when the battle begins!",
+	"defeated":"You may have broken the lines of the ketonian Army at last, and even if I'm never going to see it, you will pay for this one day!",
+	"introducrion":"Welcome to the glory of Ketonia!",
+	
+	"neutralHello":"Welcome.",
+	"neutralLetsHearIt":["What can I do for you?","Please go on."],
+	"neutralYes":["That seems like a good deal for both of us.","I Accept"],
+	"neutralNo":["Sorry, but I have to refuse.","This doesn't look like a good option to me."],
+	"hateHello":"I hope you have thought before coming here!",
+	"hateLetsHearIt":["Speak!","What do you want NOW?"],
+	"hateNo":["Have you come here for joking?","Never!"],
+	"hateYes":["At least some of your ideas are worth of thinking."],
+	
+	"tradeRequest":"I hope we both can profit from this deal.",
+	"afterPiece":"Do you fear the power of the ketonian arms?",
+	
+	"outerColor":[128,0,255],
+	"innerColor":[255,255,255],
+	
+	"uniqueName":"Colonial Trading",
+	"uniques":["[+2 Happiness][in puppeted cities]","[+10]% [Gold][in puppeted cities]","[+25]% [Gold] from Trade Routes","[+1 Science] from each Trade Route"],
+	"cities":["Varinsburg","Elcontaran","Fort Nortea","Fort Klive",
+		"Althersburg","Semiran","Fort Ironstone","Fort Ygnaz","Boran"
+		,"Fort Gorianea","Heerburg","Helian","Fort Outer-Terion","Fort Ferii"]
+	
+},
 ]

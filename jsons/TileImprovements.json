@@ -15,13 +15,12 @@
 	},
 	//Aiyosha
 	  {
-		"name": "Katorga",
-		"uniqueTo": "Aleksandria",
-		"terrainsCanBeBuiltOn": ["Snow", "Tundra", "Hill", "Forest"],
-		"production": 1,
-		"turnsToBuild": 5,
-		"uniques": ["Great Improvement", "Can only be built on [Strategic resource] tiles", "[+1 Production] <after discovering [Chemistry]>", "[+1 Production] <when below [0] Happiness>"],
-		"techRequired": "Metallurgy",
-		"shortcutKey": "K"
-},
+	"name": "Katorga",
+	"uniqueTo": "Aleksandria",
+	"terrainsCanBeBuiltOn": ["Land"],
+	"production": 1,
+	"uniques": ["Great Improvement", "Can only be built on [Strategic resource] tiles <in tiles without [Grassland]> <in tiles without [Plains]> <in tiles without [Desert]>",
+	"[+1 Production] <after discovering [Chemistry]>", "[+2 Production] <when below [0] Happiness>",
+	"Constructing it will take over the tiles around it and assign them to your closest city"]
+	}
 ]

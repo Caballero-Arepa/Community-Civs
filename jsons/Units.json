@@ -130,4 +130,30 @@
 		"promotions": ["Logistics"],
 		"attackSound": "cannon"
 	},
+	//Ketonia
+	{
+		"name":"Auxilia",
+		"unitType":"Sword",
+		"replaces":"Pikeman",
+		"uniqueTo":"Ketonia",
+		"requiredTech":"Civil Service",
+		"obsoleteTech":"Metallurgy",
+		"cost":60,
+		"strength":16,
+		"upgradesTo":"Lancer",
+		"uniques":["[+50]% Strength <vs [Mounted] units>"],
+		"promotions":["Cover I"],
+		"movement":2,
+		"upgradeTo":"Lancer"
+	},
+	{
+		"name":"Field Gun",
+		"unitType":"Civilian",
+		"cost":160,
+		"requiredTech":"Rifling",
+		"uniqueTo":"Ketonia",
+		"upgradeFrom":"Cannon",
+		"movement":2,
+		"uniques":["[+33]% Strength bonus for [{Melee} {Land}] units within [1] tiles"]
+	},
 ]

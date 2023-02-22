@@ -4,4 +4,8 @@
 		"name": "Petani",
 		"uniques": ["Can build [Farm] improvements on tiles"]
 	},
+	{
+    "name": "Katorga",
+    "uniques": ["Can construct [Katorga]"]
+	},
 ]
