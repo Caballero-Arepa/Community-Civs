@@ -167,7 +167,6 @@
 {
 	"name":"Battle Fortress",
 	"cost":700,
-	
 	"requiredTech":"Railroads",
 	"uniqueTo":"Ketonia",
 	"replaces":"Military Base",
@@ -175,7 +174,16 @@
 	"cityHealth":50,
 	"cityRange":2,
 	"hurryCostModifier":25,
-	
 	"uniques":["Destroyed when the city is captured","requires a [Arsenal] to be built [in this city]"],
-}
+	},
+	{
+		"name": "Reactor Tower",
+		"uniqueTo": "The Reactors",
+		"replaces": "Broadcast Tower",
+		"culture": 4,
+		"happiness": 2,
+		"percentStatBonus": { "culture": 44 },
+		"maintenance": 4,
+		"requiredTech": "Radio"
+	},
         ]

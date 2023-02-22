@@ -156,4 +156,20 @@
 		"movement":2,
 		"uniques":["[+33]% Strength bonus for [{Melee} {Land}] units within [1] tiles"]
 	},
+	//Reactor
+   {
+		"name": "Reactor",
+        "replaces": "Great General",
+        "uniqueTo": "The Reactors",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [6]-turn golden age",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can construct [Academy]",
+            "Great Person - [War]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2
+	}
 ]

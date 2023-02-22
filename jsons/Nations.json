@@ -295,4 +295,35 @@
 		,"Fort Gorianea","Heerburg","Helian","Fort Outer-Terion","Fort Ferii"]
 	
 },
+	//Reactor
+    {
+        "name": "The Reactors",
+        "leaderName": "Probably an FBE Reactor",
+        "adjective": ["Reactor"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        "favoredReligion": "Christianity",
+
+        "startIntroPart1": "Where are the laptops, my fellow Reactor? Is this the past?... I hate you guys.",
+        "startIntroPart2": "That Reactor has broken his time machine and he is stuck in the past. What should he do now?",
+        "declaringWar": "Hey!",
+        "attacked": "Dude, what the canolli are you doing?",
+        "defeated": "This is the Reactors, we're now signing off.",
+        "introduction": "We are the Reactors, the sons and daughters of the internet.",
+        "neutralHello": "The people's minds are listening.",
+        "hateHello": "The Reactors will not tolerate any of your questionable actions.",
+        "tradeRequest": "The people's minds has spoken.",
+
+        "outerColor": [15, 171, 255],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Generations React to Building a Civilization",
+        "uniques": [ "[+1 Culture] [in all cities]" ],
+        "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
+            "Liaia", "Finea","Sharonia","Brittany","Madisonia","Raeland","Anahitanni","Dannyland",
+            "Sydney","Shanthill","Taliania","Beauburgia",
+            "Marhlyborough", "Jaykania","Albertona","Jordan Bay","Chelseani", "Jeannieville",
+            "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
+            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"
+        ]
+    },
 ]
