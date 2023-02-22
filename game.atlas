@@ -82,7 +82,7 @@ BuildingIcons/Arepa Guild
   index: -1
 BuildingIcons/Battle Fortress
   rotate: false
-  xy: 1073, 157
+  xy: 1210, 317
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -127,6 +127,13 @@ BuildingIcons/Monument to the Builders
   xy: 1165, 723
   size: 280, 280
   orig: 280, 280
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reactor Tower
+  rotate: false
+  xy: 1073, 139
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Katorga
@@ -199,6 +206,13 @@ NationIcons/Penguinesia
   orig: 332, 332
   offset: 0, 0
   index: -1
+NationIcons/The Reactors
+  rotate: false
+  xy: 1073, 31
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Arepas Supremas
   rotate: false
   xy: 1165, 515
@@ -236,21 +250,21 @@ TileSets/FantasyHex/Tiles/Katorga
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1172, 90
+  xy: 1408, 479
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1172, 184
+  xy: 1309, 344
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
   rotate: false
-  xy: 1102, 256
+  xy: 1210, 416
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -264,7 +278,7 @@ UnitIcons/Berraco
   index: -1
 UnitIcons/Field Gun
   rotate: false
-  xy: 1073, 58
+  xy: 1309, 416
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -297,6 +311,13 @@ UnitIcons/Penggarap
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Reactor
+  rotate: false
+  xy: 1102, 247
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Ruanero
   rotate: false
   xy: 726, 238
@@ -313,7 +334,7 @@ UnitIcons/Worker of the Motherland
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 1172, 126
+  xy: 1210, 259
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
