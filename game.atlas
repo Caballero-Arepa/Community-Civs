@@ -82,7 +82,7 @@ BuildingIcons/Arepa Guild
   index: -1
 BuildingIcons/Battle Fortress
   rotate: false
-  xy: 1210, 317
+  xy: 1201, 416
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -110,16 +110,16 @@ BuildingIcons/Great Bamboo Walls
   index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 965, 187
+  xy: 837, 130
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kreml'
   rotate: false
-  xy: 837, 110
-  size: 120, 120
-  orig: 120, 120
+  xy: 945, 187
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Builders
@@ -131,9 +131,9 @@ BuildingIcons/Monument to the Builders
   index: -1
 BuildingIcons/Reactor Tower
   rotate: false
-  xy: 1073, 139
-  size: 100, 100
-  orig: 100, 100
+  xy: 1399, 422
+  size: 85, 85
+  orig: 85, 85
   offset: 0, 0
   index: -1
 ImprovementIcons/Katorga
@@ -145,14 +145,14 @@ ImprovementIcons/Katorga
   index: -1
 ImprovementIcons/Rainbow Plantation
   rotate: false
-  xy: 1102, 355
+  xy: 837, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/White Coffee
   rotate: false
-  xy: 1102, 355
+  xy: 837, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -208,7 +208,7 @@ NationIcons/Penguinesia
   index: -1
 NationIcons/The Reactors
   rotate: false
-  xy: 1073, 31
+  xy: 1053, 79
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -250,21 +250,21 @@ TileSets/FantasyHex/Tiles/Katorga
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1408, 479
+  xy: 945, 43
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1309, 344
+  xy: 1492, 443
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
   rotate: false
-  xy: 1210, 416
+  xy: 1102, 364
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -278,7 +278,7 @@ UnitIcons/Berraco
   index: -1
 UnitIcons/Field Gun
   rotate: false
-  xy: 1309, 416
+  xy: 1300, 416
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -306,14 +306,14 @@ UnitIcons/Ironchad
   index: -1
 UnitIcons/Penggarap
   rotate: false
-  xy: 965, 79
+  xy: 945, 79
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reactor
   rotate: false
-  xy: 1102, 247
+  xy: 1053, 187
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -334,7 +334,7 @@ UnitIcons/Worker of the Motherland
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 1210, 259
+  xy: 1102, 306
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
