@@ -17,9 +17,9 @@
         {
                 "name": "Katorga",
                 "uniqueTo": "Aleksandria",
-                "terrainsCanBeBuiltOn": ["Forest", "Hill", "Snow", "Tundra"],
+                "terrainsCanBeBuiltOn": ["Snow", "Tundra"],
                 "production": 1,
-                "uniques": ["Great Improvement", "Can only be built on [Strategic resource] tiles", "[+1 Production] <after discovering [Chemistry]>", "[+2 Production] <when below [0] Happiness>",
+                "uniques": ["Great Improvement", "Can only be built on [Strategic resource]  tiles", "[+1 Production] <after discovering [Chemistry]>", "[+2 Production] <when below [0] Happiness>",
                 "Constructing it will take over the tiles around it and assign them to your closest city"]
         }
 ]
