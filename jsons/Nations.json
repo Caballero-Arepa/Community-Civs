@@ -233,7 +233,7 @@
 					"Ironclaw","Scorchtowne","Emberwood"
 					]
   },
-  //Aiyosha
+  //Alyosha
   {
 "name": "Aleksandria",
 "leaderName": "A1y0sh4",
@@ -251,11 +251,11 @@
 	"favoredReligion": "Christianity",
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
-	"uniqueName": "Pride of the North",
-	"uniques": ["Empire enters golden age <upon conquering a city>", "Free [Worker] appears <upon founding a city> <in [Tundra] tiles>", "[Worker] units gain the [Katorga] promotion"],
+	"uniqueName": "Pearl of the North",
+	"uniques": ["[-50]% Unhappiness from [Population] [in all cities] <in [Tundra] tiles>", "[+5]% [Culture] [in all cities] <upon founding a city> <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
-		"Veragrad","Morozburg"]
+		"Veragrad","Morozburg","Varkutinsk"]
 },
 	//Ketonia
 	{
