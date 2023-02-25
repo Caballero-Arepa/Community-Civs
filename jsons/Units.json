@@ -130,6 +130,22 @@
 		"promotions": ["Logistics"],
 		"attackSound": "cannon"
 	},
+	//Alyosha
+	{
+		"name": "Comrade",  //name to rework I guess
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Aleksandria",
+		"movement": 2,
+		"strength": 20,
+		"cost": 175,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques":["[+30]% Strength <when below [100] HP>"],
+		"promotions": ["March"],
+		"attackSound": "shot"
+	},
 	//Ketonia
 	{
 		"name":"Auxilia",
