@@ -161,7 +161,7 @@
 		"requiredNearbyImprovedResources": ["Salt", "Copper", "Coal", "Aluminum"],
 		"requiredTech": "Metal Casting",
 		"uniques": ["Must be next to [Tundra]", "[+1 Production] [in all cities]",
-			    "[+10]% [Production] [in this city] <when below [0] Happiness>", "[-5]% tile improvement construction time <when below [0] Happiness>"]
+			    "[+10]% [Production] [in this city] <when below [0] Happiness>", "[-5]% tile improvement construction time"]
 	},
 	//Ketonia
 {
