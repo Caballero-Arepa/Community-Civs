@@ -349,7 +349,7 @@
 		"innerColor": [0, 43, 4],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
-		"uniques":["[10] turns after declaring war, all [cities] gain 33% [production]"]
+		"uniques":["[33]% [Production] [in all cities] <upon declaring war with a major Civilization> <after [10] turns>"]
 		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
