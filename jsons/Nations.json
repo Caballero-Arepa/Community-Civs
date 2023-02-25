@@ -324,6 +324,35 @@
             "Marhlyborough", "Jaykania","Albertona","Jordan Bay","Chelseani", "Jeannieville",
             "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
             "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"
-        ]
+},
+        //Thuntopia
+	{
+		"name": "Thuntopia",
+		"leaderName": "Thunder Crims",
+		"adjective": ["Thuntopian"],
+		"startBias": ["Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Ill see you in hell.",
+		"attacked": "I don't believe this is in your favor.",
+		"defeated": "I don't think I'm getting out of this one...",
+		"introduction": "Hello There",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What?",
+
+		"tradeRequest": "I think you'll like this deal.",
+
+		"outerColor": [38, 181, 25],
+		"innerColor": [0, 43, 4],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Unrelenting Force",
+		"uniques":["[10] turns after declaring war, all [cities] gain 33% [production]"]
+		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
     },
 ]
