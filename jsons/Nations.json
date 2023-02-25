@@ -136,22 +136,7 @@
 
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
-		//"favoredReligion": "",
-	  
-		/*"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
-		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph you shall have.",
- 
-	    "introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
-	    "declaringWar": "*Alright God, please not another Stalingrad battle*",
-     	"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
-		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
-		"defeated": "I HATE YOU!",
-
-     	"neutralHello": "Quiubo",
-    	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
-
-    	"tradeRequest": "Wanna some aditional... *white coffee*?",
-		*/
+		
 		"uniqueName": "King of all Bamboo",
 		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [Jungle] tiles without [Trading post] [in all cities]"],
 
@@ -252,7 +237,7 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Culture] from every [Strategic Resource]", "[-50]% Unhappiness from [Population] [in all cities] <in [Tundra] tiles>"],
+	"uniques": ["[+1 Culture] from every [Strategic resource]", "[-50]% Unhappiness from [Population] [in all cities] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
@@ -323,7 +308,7 @@
             "Sydney","Shanthill","Taliania","Beauburgia",
             "Marhlyborough", "Jaykania","Albertona","Jordan Bay","Chelseani", "Jeannieville",
             "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
-            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"
+            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"]
 },
         //Thuntopia
 	{
@@ -349,7 +334,7 @@
 		"innerColor": [0, 43, 4],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
-		"uniques":["[33]% [Production] [in all cities] <upon declaring war with a major Civilization> <after [10] turns>"]
+		"uniques":["[+33]% [Production] [in all cities] <for [10] turns> <upon declaring war with a major Civilization>"]
 		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
