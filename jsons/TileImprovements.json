@@ -12,14 +12,5 @@
 		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Can be built outside your borders",
 			    "Limited to [3] per Civilization",
 			    "Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
-	},
-	//Alyosha
-        {
-                "name": "Katorga",
-                "uniqueTo": "Aleksandria",
-                "terrainsCanBeBuiltOn": ["Snow", "Tundra"],
-                "production": 1,
-                "uniques": ["Great Improvement", "Can only be built on [Strategic resource] tiles", "[+1 Production] <after discovering [Chemistry]>", "[+2 Production] <when below [0] Happiness>",
-                "Constructing it will take over the tiles around it and assign them to your closest city"]
-        }
+	}
 ]
