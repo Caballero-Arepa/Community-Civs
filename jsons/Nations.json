@@ -138,7 +138,7 @@
 		"preferredVictoryType": "Scientific",
 		//"favoredReligion": "",
 	  
-		/*"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
+		*/"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
 		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph you shall have.",
  
 	    "introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
@@ -151,7 +151,7 @@
     	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
 
     	"tradeRequest": "Wanna some aditional... *white coffee*?",
-		*/
+		/*
 		"uniqueName": "King of all Bamboo",
 		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [Jungle] tiles without [Trading post] [in all cities]"],
 
