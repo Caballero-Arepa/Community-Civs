@@ -250,14 +250,14 @@ TileSets/FantasyHex/Tiles/Katorga
   index: -1
 TileSets/FantasyHex/Units/Comrade
   rotate: false
-  xy: 439, 519
-  size: 20, 20
-  orig: 20, 20
+  xy: 2002, 975
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1210, 380
+  xy: 1282, 380
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -271,9 +271,9 @@ TileSets/HexaRealm/Tiles/Katorga
   index: -1
 TileSets/HexaRealm/Units/Comrade
   rotate: false
-  xy: 2002, 967
-  size: 36, 36
-  orig: 36, 36
+  xy: 1210, 352
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
