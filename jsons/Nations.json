@@ -252,7 +252,7 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Culture] from every [Strategic Resource]", "[-50]% Unhappiness from [Population] [in all cities] <in [Tundra] tiles>"],
+	"uniques": ["[+1 Culture] from every [Strategic resource]", "[-50]% Unhappiness from [Population] [in all cities] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
@@ -323,7 +323,7 @@
             "Sydney","Shanthill","Taliania","Beauburgia",
             "Marhlyborough", "Jaykania","Albertona","Jordan Bay","Chelseani", "Jeannieville",
             "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
-            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"
+            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"]
 },
         //Thuntopia
 	{
@@ -349,7 +349,7 @@
 		"innerColor": [0, 43, 4],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
-		"uniques":["[33]% [Production] [in all cities] <upon declaring war with a major Civilization> <after [10] turns>"]
+		"uniques":["[+33]% [Production] [in all cities] <for [10] turns> <upon declaring war with a major Civilization>"]
 		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
