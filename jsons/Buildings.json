@@ -184,7 +184,7 @@
 		"culture": 3,
 		"happiness": 3,
 		"percentStatBonus": {"culture": 33},
-		"uniques": ["Free [Reactor] appears <with [33]% chance>",
+		"uniques": ["Free [Reactor] appears <with [33]% chance>"],
 		"maintenance": 3,
 		"requiredTech": "Radio"
 	},
