@@ -14,6 +14,7 @@
 // Lasty's Kazakhstan
 {
   "name": "Biev Courthouse",
+  "replaces": "Courthouse",
   "uniqueTo": "Lasty's Kazakhstan",
   "requiredTech": "Mathematics",
   "percentStatBonus": {"culture": 15, "happiness": 30},
@@ -180,10 +181,11 @@
 		"name": "Reactor Tower",
 		"uniqueTo": "The Reactors",
 		"replaces": "Broadcast Tower",
-		"culture": 4,
-		"happiness": 2,
-		"percentStatBonus": { "culture": 44 },
-		"maintenance": 4,
+		"culture": 3,
+		"happiness": 3,
+		"percentStatBonus": {"culture": 33},
+		"uniques": ["Free [Reactor] appears <with [33]% chance>",
+		"maintenance": 3,
 		"requiredTech": "Radio"
 	},
         ]
