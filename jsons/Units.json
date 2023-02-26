@@ -179,7 +179,7 @@
         "uniqueTo": "The Reactors",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [6]-turn golden age",
+			"Can start an [8]-turn golden age", //I don't see a reason to lower it to 6
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can construct [Academy]",
             "Great Person - [War]",
