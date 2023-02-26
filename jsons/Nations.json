@@ -339,5 +339,27 @@
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
-    },
+},
+     //San Andor
+     {
+"name": "San Andor",
+"leaderName": "Commander Andrew",
+"adjective": ["Andoran"],
+"preferredVictoryType": "Domination",
+
+"startIntroPart1": "Salute you commander!after some little tactical mistake you have lost more than 98% of your nation land area,now you're left with the capital city ,San Andor, you then decided to make the last decision before its too late",
+"startIntroPart2": "O, great general will you bring back the land which is rightfully belong to you?,can you build a Civilization that will stand the test of time",
+"declaringWar": "I have wait for this moment for a long time!",
+"attacked": "This will be the last struggle for me and you!",
+"defeated": "I can't lost!!!",
+"introduction": "Hello my friend do you know the ground you're standing on used to be mine?",
+"neutralHello": "Hello my friend.",
+"hateHello": "Hello my foe.",
+"tradeRequest": "After a while of consideration i have come up with this deal.",
+"outerColor": [256,256,256],
+"innerColor": [198,20,25],
+"uniqueName": "Last ditch",
+"uniques": ["[+50]% combat bonus for [Non-City] units fighting in [Enemy Land]","[-20]% combat bonus for [Non-City] units fighting in [Friendly Land]","cannot gain settlers","[+4 production]in Capital"],
+"cities": ["San Andor"],
+ }
 ]
