@@ -359,7 +359,8 @@
 "outerColor": [256,256,256],
 "innerColor": [198,20,25],
 "uniqueName": "Last ditch",
-"uniques": ["[+50]% combat bonus for [Non-City] units fighting in [Enemy Land]","[-20]% combat bonus for [Non-City] units fighting in [Friendly Land]","cannot gain settlers","[+4 production]in Capital"],
+"uniqueText": "Cannot gain settlers",
+"uniques": ["[+50]% combat bonus for [Non-City] units fighting in [Enemy Land]"],["[-20]% combat bonus for [Non-City] units fighting in [Friendly Land]"],["[4][production]in Capital]"],
 "cities": ["San Andor"],
  }
 ]
