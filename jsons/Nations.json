@@ -360,7 +360,7 @@
 "innerColor": [198,20,25],
 "uniqueName": "Last ditch",
 "uniqueText": "Cannot gain settlers",
-"uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land]>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land]>", "[+4 Production] [in Capital]"],
+"uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>", "[+4 Production] [in Capital]"],
 "cities": ["San Andor"],
  }
 ]
