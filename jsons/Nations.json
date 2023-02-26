@@ -102,7 +102,7 @@
 		"innerColor": [255,255,255],
 		"style": "Wonderfull",
 
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Islam",
 	  
@@ -150,7 +150,7 @@
 		"innerColor": [255, 127, 0],
 		"style": "",
 
-		"startBias": ["Coast"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 	  
@@ -186,7 +186,7 @@
 		"outerColor": [41, 41, 41],    
                 "innerColor": [213, 112, 3],
 
-		"startBias": ["Desert","Coast"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "The Church of the Daring Flame",
 	  
@@ -248,7 +248,7 @@
 	"leaderName" : "Lady Ferii",
 	"adjective":["ketonian"],
 	"startBias":["Plains"],
-	"prefferedVictoryType":"Science",
+	"prefferedVictoryType":"Scientific",
 	
 	"startIntroPart1":"Raise the Swords for Lady Ferii, the great General of Ketonia! Oh great General, Your Network of colonies supply your country with luxurys and Resources, and strategical inventions like the field gun support you on the Battlefield.",
 	"startIntroPart2":"Now its time to rebuild this civilisation from its ancient roots. Will you create a world-spanning trade network? Will you rule the Battlefield? Can you build a Civilisation that can stand the test of time?",
