@@ -17,10 +17,11 @@
   "replaces": "Courthouse",
   "uniqueTo": "Lasty's Kazakhstan",
   "requiredTech": "Mathematics",
-  "percentStatBonus": {"culture": 15, "happiness": 30},
-  "culture": 2,
+  "uniques": ["Remove extra unhappiness from annexed cities",
+	      "[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>",
+              "[+25]% [Culture] [in this city] <upon declaring friendship> <for [8] turns>"],
   "cost": 100,
-  "maintenance": 3,
+  "maintenance": 4,
 },
   //Hankunesia
 	{
