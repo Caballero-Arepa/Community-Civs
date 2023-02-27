@@ -7,7 +7,7 @@
 	//Aleksandria
 	{
 		"name": "[Comrade] ability",
-		"uniques": ["Unit will heal every turn, even if it performs an action <when adjacent to a [Comrade] unit>",
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>",
 			    "[+15]% Strength bonus for [Wounded] units within [1] tiles"]
 	},
 ]
