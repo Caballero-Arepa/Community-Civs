@@ -89,7 +89,7 @@
     	"tradeRequest": "What is your opinion about it?",
 		
   	  "uniqueName": "Nomadic diplomacy",
-    	"uniques": ["[+1 Happiness] from [Pasture] tiles [in all cities]", "[-25]% City-State Influence degradation"],
+    	"uniques": ["Free [Mounted] appears <upon constructing [Stable]>", "Gain [20] Influence with a [Mounted] gift to a City-State]"],
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
