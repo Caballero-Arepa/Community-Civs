@@ -89,7 +89,12 @@
     	"tradeRequest": "What is your opinion about it?",
 		
   	  "uniqueName": "Nomadic diplomacy",
-    	"uniques": ["Free [Mounted] appears <upon constructing [Stable]>", "Gain [20] Influence with a [Mounted] gift to a City-State]"],
+	"uniqueText": "Free Mounted unit appears upon constructing Stable,\nGain 20 Influence with a Mounted unit gift to a City-State",
+    	"uniques": ["Free [Chariot Archer] appears <upon constructing [Stable]> <after discovering [The Wheel]> <before discovering [Horseback Riding]>", "Gain [20] Influence with a [Chariot Archer] gift to a City-State]",
+		    "Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]>", "Gain [20] Influence with a [Horseman] gift to a City-State]",
+		    "Free [Knight] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]>", "Gain [20] Influence with a [Knight] gift to a City-State]",
+		    "Free [Kazakh Nomad] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]>", "Gain [20] Influence with a [Kazakh Nomad] gift to a City-State]",
+		    "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]>", "Gain [20] Influence with a [Cavalry] gift to a City-State]"],
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
@@ -237,7 +242,7 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Culture] from every [Strategic resource]", "[-50]% Unhappiness from [Population] [in all cities] <within [1] tiles of a [Tundra]>"],
+	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
