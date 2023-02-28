@@ -89,7 +89,11 @@
     	"tradeRequest": "What is your opinion about it?",
 		
   	  "uniqueName": "Nomadic diplomacy",
-    	"uniques": ["Free [Mounted] appears <upon constructing [Stable]>", "Gain [20] Influence with a [Mounted] gift to a City-State]"],
+          "uniqueText": "[Free Mounted unit appears upon constructing Stable]
+[Gain 20 Influence with a Mounted unit gift to a City-State]",
+    	"uniques": ["Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]>", "Free [Knight] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]>",
+        "Free [Kazakh Nomad] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]>", "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]>",
+        "Gain [20] Influence with a [Mounted] gift to a City-State"],
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
