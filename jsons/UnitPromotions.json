@@ -4,4 +4,10 @@
 		"name": "Petani",
 		"uniques": ["Can build [Farm] improvements on tiles"]
 	},
+	//Aleksandria
+	{
+		"name": "[Comrade] ability",
+		"uniques": ["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>",
+			    "[+15]% Strength bonus for [Wounded] units within [1] tiles"]
+	},
 ]
