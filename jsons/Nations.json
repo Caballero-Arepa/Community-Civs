@@ -90,11 +90,11 @@
 		
   	  "uniqueName": "Nomadic diplomacy",
 	"uniqueText": "Free Mounted unit appears upon constructing Stable,\nGain 20 Influence with a Mounted unit gift to a City-State",
-    	"uniques": ["Free [Chariot Archer] appears <upon constructing [Stable]> <after discovering [The Wheel]> <before discovering [Horseback Riding]>", "Gain [20] Influence with a [Chariot Archer] gift to a City-State]",
-		    "Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]>", "Gain [20] Influence with a [Horseman] gift to a City-State]",
-		    "Free [Knight] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]>", "Gain [20] Influence with a [Knight] gift to a City-State]",
-		    "Free [Kazakh Nomad] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]>", "Gain [20] Influence with a [Kazakh Nomad] gift to a City-State]",
-		    "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]>", "Gain [20] Influence with a [Cavalry] gift to a City-State]"],
+    	"uniques": ["Free [Chariot Archer] appears <upon constructing [Stable]> <after discovering [The Wheel]> <before discovering [Horseback Riding]>", "Gain [20] Influence with a [Chariot Archer] gift to a City-State",
+		    "Free [Horseman] appears <upon constructing [Stable]> <after discovering [Horseback Riding]> <before discovering [Chivalry]>", "Gain [20] Influence with a [Horseman] gift to a City-State",
+		    "Free [Knight] appears <upon constructing [Stable]> <after discovering [Chivalry]> <before discovering [Metallurgy]>", "Gain [20] Influence with a [Knight] gift to a City-State",
+		    "Free [Kazakh Nomad] appears <upon constructing [Stable]> <after discovering [Metallurgy]> <before discovering [Military Science]>", "Gain [20] Influence with a [Kazakh Nomad] gift to a City-State",
+		    "Free [Cavalry] appears <upon constructing [Stable]> <after discovering [Military Science]>", "Gain [20] Influence with a [Cavalry] gift to a City-State"],
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
