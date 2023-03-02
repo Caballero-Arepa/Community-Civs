@@ -115,6 +115,13 @@ BuildingIcons/Katorga
   orig: 160, 160
   offset: 0, 0
   index: -1
+ImprovementIcons/Katorga
+  rotate: false
+  xy: 934, 295
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
 BuildingIcons/Keraton
   rotate: false
   xy: 945, 187
