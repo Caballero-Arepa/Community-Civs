@@ -240,7 +240,7 @@
 	"outerColor": [255, 188, 0],
 	"innerColor": [255, 255, 255],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Culture] from every [Strategic resource]", "[-50]% Unhappiness from [Population] [in all cities] <within [1] tiles of a [Tundra]>"],
+	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
