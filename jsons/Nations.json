@@ -302,8 +302,8 @@
         "hateHello": "The Reactors will not tolerate any of your questionable actions.",
         "tradeRequest": "The people's minds has spoken.",
 
-        "outerColor": [15, 171, 255],
-        "innerColor": [255, 255, 255],
+        "outerColor": [104, 237, 169],
+        "innerColor": [9, 46, 107],
         "uniqueName": "Generations React to Building a Civilization",
         "uniques": [ "[+1 Culture] [in all cities]" ],
         "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
