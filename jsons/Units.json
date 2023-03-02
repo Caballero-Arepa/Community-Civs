@@ -142,6 +142,7 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
+                "uniques":["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"],
 		"promotions": ["[Comrade] ability"],
 		"attackSound": "shot"
 	},
