@@ -187,5 +187,35 @@
 			"Uncapturable"
 		],
 		"movement": 2
-	}
+	},
+//San Andor
+  {
+  "name": "Stormer",
+  "uniqueTo": "San Andor",
+"unitType": "Gunpowder",
+"replaces": "Infantry",
+"movement": 3,
+  "strength": 55,
+  "cost": 320,
+  "promotions": ["Blitz","Quick Study"],
+"requiredTech": "Plastics",
+  "upgradesTo": "Mechanized Infantry",
+  "obsoleteTech": "Mobile Tactics",
+  "attackSound": "shot"
+ },
+{
+  "name": "Jeep",
+  "replaces": "Landship",
+"uniqueTo": "San Andor",
+"unitType": "Armored",
+  "movement": 6,
+  "strength": 50,
+  "cost": 300,
+  "requiredTech": "Combustion",
+  "promotions": ["Shock I","Great Generals I"]
+"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking","Consume [1] [Oil]"],
+  "attackSound": "shot",
+  "upgradesTo": "Modern Armor",
+"obsoleteTech": "Lasers",
+ },
 ]
