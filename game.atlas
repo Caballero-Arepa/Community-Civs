@@ -250,7 +250,7 @@ ImprovementIcons/Arepa Stand
   index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
-  xy: 945, 39
+  xy: 1282, 376
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -262,9 +262,16 @@ TileSets/FantasyHex/Units/Comrade
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Iron Dragon
+  rotate: false
+  xy: 945, 43
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1282, 380
+  xy: 1672, 482
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
