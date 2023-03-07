@@ -362,7 +362,7 @@
 "outerColor": [256,256,256],
 "innerColor": [198,20,25],
 "uniqueName": "Last ditch",
-"uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>","[2] free [Stormer] units appear <after discovering [Plastics]>"],
+"uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>","[2] free [Stormer] units appear <after discovering [Plastics]>","Cannot build [Settler] units"],
 "cities": ["San Andor"],
  }
 ]
