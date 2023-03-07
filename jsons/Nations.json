@@ -145,6 +145,7 @@
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
+//EmperorPenguin
   {
 		"name": "Penguinesia",
 		"leaderName": "Emperor Penguin",
@@ -153,7 +154,7 @@
 		"innerColor": [255, 127, 0],
 		"style": "",
 
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity",
 	  
