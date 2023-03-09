@@ -160,7 +160,6 @@
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
 		"promotions":["Cover I"],
 		"movement":2,
-		"upgradeTo":"Lancer"
 	},
 	{
 		"name":"Field Gun",
@@ -218,4 +217,18 @@
   "upgradesTo": "Modern Armor",
 "obsoleteTech": "Lasers",
  },
+	//VividVale 
+	{
+		"name":"Striker",
+		"unitType":"Sword",
+		"replaces":"Spearman",
+		"uniqueTo":"VividVale",
+		"requiredTech":"Bronze Working",
+		"obsoleteTech":"Civil Service",
+		"cost":56,
+                "movement":3,
+		"strength":11,
+		"upgradesTo":"Pikeman",
+		"uniques":["[+50]% Strength <vs [Mounted] units>", "[1] Movement point to disembark"]
+	},
 ]
