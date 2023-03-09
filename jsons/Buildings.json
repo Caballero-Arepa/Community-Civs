@@ -191,4 +191,15 @@
 		"maintenance": 3,
 		"requiredTech": "Radio"
 	},
+//VividVale
+    {
+		"name": "Community Market",
+		"replaces": "Market",
+		"requiredTech": "Currency",
+		"uniqueTo": "VividVale",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 30,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Production] from [Bonus Resource] tiles [in this city]"]
+	},
         ]
