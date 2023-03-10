@@ -124,11 +124,11 @@
 		"replaces": "Lighthouse",
 		"uniqueTo": "Penguinesia",
 		"cost": 75,
-		"science": 2,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+                "percentStatBonus": {"science": 15},
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Science] from [Water resource] tiles [in this city]"],
 		"requiredTech": "Optics"
 	},
 	{
@@ -158,12 +158,11 @@
 		"name": "Katorga",
 		"uniqueTo":"Aleksandria",
 		"cost":100,
-		"production": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Copper", "Coal", "Aluminum"],
 		"requiredTech": "Metal Casting",
-		"uniques": ["Must be next to [Tundra]", "[-5]% tile improvement construction time", "[+1 Production] [in all cities]",
+		"uniques": ["Must be next to [Tundra]", "[-5]% tile improvement construction time", "[+2 Production] [in all cities]",
 			    "[+10]% [Production] [in this city] <when below [0] Happiness>"]
 	},
 	//Ketonia
