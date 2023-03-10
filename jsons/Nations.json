@@ -239,7 +239,7 @@
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
 	"outerColor": [255, 255, 255],
-	"innerColor": [255, 188, 0],
+	"innerColor": [255, 200, 0],
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
@@ -366,7 +366,7 @@
 "uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>","[2] free [Stormer] units appear <after discovering [Plastics]>","Cannot build [Settler] units"],
 "cities": ["San Andor"],
  },
-	//TCube
+	//VividVale 
     {
         "name": "VividVale",
         "leaderName": "TCube",
@@ -389,7 +389,7 @@
         "innerColor": [9, 46, 107],
 
         "uniqueName": "Southern Stars",
-        "uniques": ["[+1 Culture, +1 Production] [in all costal cities]"],
+        "uniques": ["[+1 Culture, +1 Production] [in costal cities]"],
         "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
             "Liaia", "Finea","Sharonia","Brittany","Madisonia","Raeland","Anahitanni","Dannyland",
             "Sydney","Shanthill","Taliania","Beauburgia",
