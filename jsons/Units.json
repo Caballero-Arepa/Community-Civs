@@ -225,10 +225,11 @@
 		"uniqueTo":"VividVale",
 		"requiredTech":"Bronze Working",
 		"obsoleteTech":"Civil Service",
-		"cost":56,
+		"cost":75,
                 "movement":3,
 		"strength":11,
 		"upgradesTo":"Pikeman",
-		"uniques":["[+50]% Strength <vs [Mounted] units>", "[1] Movement point to disembark"]
+		"uniques":["[+50]% Strength <vs [Mounted] units>"],
+                "promotions": ["Charge"]
 	},
 ]
