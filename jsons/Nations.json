@@ -239,7 +239,7 @@
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
 	"outerColor": [255, 255, 255],
-	"innerColor": [255, 215, 0],
+	"innerColor": [255, 210, 0],
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
@@ -389,7 +389,7 @@
         "innerColor": [210, 136, 7],
 
         "uniqueName": "Southern Stars",
-        "uniques": ["[+2 Culture, +2 Production] [in all coastal cities]"],
+        "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
         "cities": ["Vividstrone","Railak","Daybo River","Coleston","Narravale","Sveg",
             "Ngurri", "Bensberg","Manstown","Once-Upon-Time","Lacoa","Good-City"]
 }
