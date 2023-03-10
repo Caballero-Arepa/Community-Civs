@@ -200,6 +200,6 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 30,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+1 Production] from [Bonus Resource] tiles [in this city]"]
+		"uniques": ["[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
         ]
