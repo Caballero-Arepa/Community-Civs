@@ -392,5 +392,36 @@
         "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
         "cities": ["Vividstrone","Railak","Daybo River","Coleston","Narravale","Sveg",
             "Ngurri", "Bensberg","Manstown","Once-Upon-Time","Lacoa","Good-City"]
+},
+        //Rakhvia
+	{
+		"name": "Rakhvia",
+		"leaderName": "Grason",
+		"adjective": ["Rakhvian"],
+		"startBias": ["Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [38, 181, 25],
+		"innerColor": [0, 43, 4],
+		"favoredReligion": "",
+		"uniqueName": "Race with the clock",
+		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"]
+		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
 }
 ]
