@@ -202,4 +202,18 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
+	//Rakhvia
+    {
+		"name": "Military Lab",
+		"replaces": "Research lab",
+		"requiredTech": "Plastics",
+	        "uniqueTo": "Rakhvia",
+	        "hurryCostModifier": 30,
+		"science": 4,
+	        "percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+	        "maintenance": 3,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"]
+	}
         ]
