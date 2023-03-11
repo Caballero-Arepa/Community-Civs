@@ -226,7 +226,7 @@
 		"uniqueTo":"VividVale",
 		"requiredTech":"Bronze Working",
 		"obsoleteTech":"Civil Service",
-		"cost":57,
+		"cost":56,
                 "movement":3,
 		"strength":11,
 		"upgradesTo":"Pikeman",
