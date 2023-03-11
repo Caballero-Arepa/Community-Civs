@@ -210,9 +210,10 @@
   "movement": 6,
   "strength": 50,
   "cost": 300,
+  "requiredResource": "Oil",
   "requiredTech": "Combustion",
   "promotions": ["Shock I","Great Generals I"]
-"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking","Consume [1] [Oil]"],
+"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking"],
   "attackSound": "shot",
   "upgradesTo": "Modern Armor",
 "obsoleteTech": "Lasers",
@@ -232,4 +233,19 @@
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
                 "promotions": ["Charge"]
 	},
+{
+  "name": "Round Tank",
+  "replaces": "Modern Armor",
+"uniqueTo": "Rakhvia",
+"unitType": "Armored",
+  "movement": 5,
+  "strength": 110,
+  "cost": 425,
+  "requiredResource": "Aluminum",
+  "requiredTech": "Lasers",
+  "promotions": ["March"]
+"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+  "attackSound": "tankshot",
+  "upgradesTo": "Giant Death Robot"
+ }
 ]
