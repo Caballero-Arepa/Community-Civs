@@ -226,12 +226,12 @@
 		"uniqueTo":"VividVale",
 		"requiredTech":"Bronze Working",
 		"obsoleteTech":"Civil Service",
-		"cost":75,
+		"cost":57,
                 "movement":3,
 		"strength":11,
 		"upgradesTo":"Pikeman",
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
-                "promotions": ["Charge"]
+                "promotions": ["Shock I"]
 	},
 {
   "name": "Round Tank",
