@@ -205,7 +205,7 @@
 	//Rakhvia
     {
 		"name": "Military Lab",
-		"replaces": "Research lab",
+		"replaces": "Research Lab",
 		"requiredTech": "Plastics",
 	        "uniqueTo": "Rakhvia",
 	        "hurryCostModifier": 30,
