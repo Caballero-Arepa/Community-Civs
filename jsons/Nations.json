@@ -319,7 +319,7 @@
 		"name": "Thuntopia",
 		"leaderName": "Thunder Crims",
 		"adjective": ["Thuntopian"],
-		"startBias": ["Avoid [Snow]"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
