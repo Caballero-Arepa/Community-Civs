@@ -18,7 +18,7 @@ Here's our discord server: https://discord.com/channels/586194543280390151/10668
 - it is whished to all the community members to have a fun time creating their civ, and it is suggested them to make a free use of all their creativity and passion in    this project. Try to make real the most bizzarre ideas that your mind suggest.
 
 
-# Here are the Users who contributed to the project with their respective Civilizations
+# Here are the Users with their respective Civilizations
 
 - A1y0sh4 of Aleksandria
 - Bamboolord of The Bamboo Kingdom
