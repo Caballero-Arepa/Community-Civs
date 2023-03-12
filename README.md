@@ -9,7 +9,7 @@ You can contribute to the project creating your own civilization creating a pull
 Here's our discord server: https://discord.com/channels/586194543280390151/1066831737394565201.
 
 
-# Which parameters should my civilization respect in order to see its addition to the mod?
+# Which parameters should my civilization respect?
 
 - The civilization should be based around the User (NO: Danubian empire, YES: Username's Userian empire)
 - The civilization doesn't have to be OP. Most of the civs in this mod are around the A tier, we still want them to be balanced in the vanilla game.
