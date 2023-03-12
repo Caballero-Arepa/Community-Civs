@@ -160,6 +160,7 @@
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
 		"promotions":["Cover I"],
 		"movement":2,
+                "attackSound": "metalhit"
 	},
 	{
 		"name":"Field Gun",
@@ -231,7 +232,8 @@
 		"strength":11,
 		"upgradesTo":"Pikeman",
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
-                "promotions": ["Shock I"]
+                "promotions": ["Shock I"],
+                "attackSound": "metalhit"
 	},
 {
   "name": "Round Tank",
@@ -247,5 +249,21 @@
 "uniques": ["Can move after attacking", "No defensive terrain bonus"],
   "attackSound": "tankshot",
   "upgradesTo": "Giant Death Robot"
- }
+ },
+        //Thuntopia 
+	{
+		"name": "Swordshocker",
+		"uniqueTo": "Thuntopia",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+                "requiredResource": "Iron",
+                "requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"uniques" : ["[+10]% Strength <vs [Sword] units>"],
+                "attackSound": "metalhit"
+	}
 ]
