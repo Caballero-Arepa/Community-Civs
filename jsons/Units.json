@@ -54,11 +54,11 @@
   "rangedStrength": 25,
   "requiredTech": "Metallurgy",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus"],
   "promotions": ["Formation I"],
   "upgradesTo": "Anti-Tank Gun",
   "obsoleteTech": "Combined Arms",
-  "attackSound": "horse"
+  "attackSound": "arrow"
 },
 //Belias
 {
