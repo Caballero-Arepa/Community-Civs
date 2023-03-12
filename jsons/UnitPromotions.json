@@ -9,9 +9,9 @@
 		"name": "[Comrade] ability",
 		"uniques": ["[+15]% Strength bonus for [Wounded] units within [1] tiles"]
 	},
-        //Hankunesia
+        //Thuntopia 
 	{
 		"name": "Unrelenting",
-		"uniques": ["Heal this unit by [25] HP" <upon conquering a city>]
+		"uniques": ["Heal this unit by [25] HP <upon conquering a city>", "This Unit gains [10] XP <upon conquering a city>"]
 	},
 ]
