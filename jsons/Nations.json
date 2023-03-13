@@ -239,7 +239,7 @@
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
 	"outerColor": [255, 255, 255],
-	"innerColor": [255, 205, 0],
+	"innerColor": [178, 143, 0],
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
@@ -414,12 +414,12 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [38, 181, 25],
+		"outerColor": [250, 0, 200],
 		"innerColor": [0, 43, 4],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Race with the clock",
 		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"]
-		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
+		"cities":["Rakhvia1","Rakhvia2","Rakhvia3","Rakhvia4","Rakhvia5","Rakhvia6","Rakhvia7","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
