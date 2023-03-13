@@ -264,7 +264,7 @@
                 "requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques" : ["[+10]% Strength <vs [Sword] units>"],
+		"uniques" : ["[+15]% Strength <vs [Sword] units>"],
                 "attackSound": "metalhit"
 	}
 ]
