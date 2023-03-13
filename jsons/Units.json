@@ -258,7 +258,7 @@
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 21,
+		"strength": 22,
 		"cost": 120,
                 "requiredResource": "Iron",
                 "requiredTech": "Steel",
