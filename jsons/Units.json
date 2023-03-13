@@ -258,13 +258,14 @@
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 22,
+		"strength": 21,
 		"cost": 120,
                 "requiredResource": "Iron",
                 "requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques" : ["[+15]% Strength <vs [Sword] units>"],
+		"uniques" : ["[+10]% Strength <vs [Sword] units>"],
+                "promotions": ["Shock I"],
                 "attackSound": "metalhit"
 	}
 ]
