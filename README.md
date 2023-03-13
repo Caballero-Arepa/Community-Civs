@@ -5,7 +5,7 @@ This is a community project first launched by Caballero Arepa in January 22th of
 
 # How can I create my own civilization?
 
-You can contribute to the project creating your own civilization creating a pull request to the mod or just describing to the modders how you would shape it creating a dedicated issue and we shall provide adding it among the other ones. Still not satysfied or looking for a further feedbacks?
+You can contribute to the project creating your own civilization creating a pull request to the mod or just describing to the modders how you would shape it creating a dedicated issue and we shall provide adding it among the other ones. Still not satysfied or looking for further feedbacks?
 Here's our discord server: https://discord.com/channels/586194543280390151/1066831737394565201.
 
 
@@ -15,7 +15,7 @@ Here's our discord server: https://discord.com/channels/586194543280390151/10668
 - The civilization doesn't have to be OP. Most of the civs in this mod are around the A tier, we still want them to be balanced in the vanilla game.
 - The rest of the community shall influence your civ, maybe in order to balance it further or maybe just for making it even more original.
 - It is suggested (but not mandatory) to follow the vanilla scheme for creating new civs: give them a unique ability, a unique building, and a unique unit.
-- it is whished to all the community members to have a fun time creating their civ, and it is suggested them to make a free use of all their creativity and passion in    this project. Try to make real the most bizzarre ideas that your mind suggest.
+- It is whished to all the community members to have a fun time creating their civ, and it is suggested them to make a free use of all their creativity and passion in    this project. Try to make real the most bizzarre ideas that your mind suggest.
 
 
 # Here are the Users with their respective Civilizations
