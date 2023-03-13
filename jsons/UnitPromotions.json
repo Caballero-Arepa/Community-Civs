@@ -12,6 +12,6 @@
         //Thuntopia 
 	{
 		"name": "Unrelenting",
-		"uniques": ["Heal this unit by [33] HP <upon declaring war with a major Civilization>", "This Unit gains [10] XP <upon declaring war with a major Civilization>"]
+		"uniques": ["Heal this unit by [25] HP <upon defeating a [Military] unit>", "Heal this unit by [50] HP <upon conquering a city>"]
 	},
 ]
