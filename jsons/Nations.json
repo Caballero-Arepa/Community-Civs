@@ -335,7 +335,7 @@
 		"tradeRequest": "I think you'll like this deal.",
 
 		"outerColor": [106, 62, 49],
-		"innerColor": [0, 43, 4],
+		"innerColor": [70, 92, 45],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
 		"uniques":["Empire enters golden age <upon conquering a city>", "[Military] units gain the [Unrelenting] promotion"]
