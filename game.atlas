@@ -82,7 +82,7 @@ BuildingIcons/Arepa Guild
   index: -1
 BuildingIcons/Battle Fortress
   rotate: false
-  xy: 1309, 416
+  xy: 1309, 308
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -145,9 +145,16 @@ BuildingIcons/Monument to the Builders
   index: -1
 BuildingIcons/Reactor Tower
   rotate: false
-  xy: 1507, 422
+  xy: 1534, 422
   size: 85, 85
   orig: 85, 85
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sparring Grounds
+  rotate: false
+  xy: 1102, 355
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Rainbow Plantation
@@ -215,7 +222,21 @@ NationIcons/Penguinesia
   index: -1
 NationIcons/The Reactors
   rotate: false
-  xy: 1102, 355
+  xy: 1318, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Thuntopia
+  rotate: false
+  xy: 1426, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unrelenting
+  rotate: false
+  xy: 1426, 407
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -250,28 +271,28 @@ ImprovementIcons/Arepa Stand
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon
   rotate: false
-  xy: 1282, 352
+  xy: 1699, 454
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-1
   rotate: false
-  xy: 1354, 352
+  xy: 1017, 15
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-2
   rotate: false
-  xy: 1672, 454
+  xy: 1089, 15
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
-  xy: 1744, 478
+  xy: 1160, 315
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -285,42 +306,42 @@ TileSets/FantasyHex/Units/Comrade
   index: -1
 TileSets/FantasyHex/Units/Iron Dragon
   rotate: false
-  xy: 945, 43
+  xy: 1699, 418
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1160, 319
+  xy: 2002, 939
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1426, 344
+  xy: 1627, 382
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Comrade
   rotate: false
-  xy: 1210, 352
+  xy: 1627, 454
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Iron Dragon
   rotate: false
-  xy: 1600, 446
+  xy: 945, 7
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
   rotate: false
-  xy: 1210, 416
+  xy: 1210, 308
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -341,7 +362,7 @@ UnitIcons/Comrade
   index: -1
 UnitIcons/Field Gun
   rotate: false
-  xy: 1408, 416
+  xy: 1408, 308
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -386,6 +407,13 @@ UnitIcons/Ruanero
   xy: 726, 238
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Swordshoker
+  rotate: false
+  xy: 1210, 407
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Worker of the Motherland
