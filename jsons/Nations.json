@@ -26,9 +26,9 @@
     	"tradeRequest": "Wanna some aditional... *white coffee*?",
 		
 		"uniqueName": "Arepa Economy",
-		"uniques": ["[+1 Food] from all [Gold] buildings","[+1 Gold] from all [Culture] buildings"],
+		"uniques": ["[+1 Gold] from [Arepa Stand] tiles [in all cities] <within [1] tiles of a [Great Improvement]>","[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa Stand]>","[-57]% Food consumption by specialists [in all cities]","Provides [6] [Flour]"],
 
-		"cities": ["Central Arepa","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
+		"cities": ["Central Arepa","Puerto Aguapanela","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
   },
 	
 	//Ace Hank of Hankunesia

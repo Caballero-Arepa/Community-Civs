@@ -3,13 +3,18 @@
 	{
 		"name": "Arepa",
 		"resourceType": "Luxury",
-		"uniques": ["[+1 Food] [in all cities]","[+5]% [Culture] [in all cities]",
+		"uniques": ["[+5]% [Food] [in all cities]","[+5]% [Culture] [in all cities]",
 					"Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "White Coffee",
 		"resourceType": "Luxury",
-		"uniques": ["[+1 Happiness] [in all cities]","[-15]% [Production] [in all cities]",
+		"uniques": ["[+10]% [Happiness] [in all cities]","[-10]% [Production] [in all cities]",
 					"Will not be displayed in Civilopedia"]
+	},
+	{
+		"name": "Flour",
+		"resourceType": "Strategic",
+		"uniques": ["Will not be displayed in Civilopedia"]
 	},
 ]
