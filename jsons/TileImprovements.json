@@ -1,13 +1,15 @@
 [
 	{
 		"name": "Arepa Stand",
+		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
-			    "Limited to [3] per Civilization",
-			    "Pillaging this improvement yields approximately [+15 Gold]"]
+			    "Limited to [4] per Civilization",
+			    "Pillaging this improvement yields approximately [+25 Gold]"]
 	},
 	{
 		"name": "Rainbow Plantation",
+		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Can be built outside your borders",
 			    "Limited to [3] per Civilization",

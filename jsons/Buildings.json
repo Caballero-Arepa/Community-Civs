@@ -2,14 +2,15 @@
 //Arepandia
     {
 		"name": "Arepa Guild",
-		"replaces": "Market",
-		"requiredTech": "Currency",
-		"production": 1,
+		"replaces": "Bank",
 		"uniqueTo": "Duchy of Arepandia",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 30,
+		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[1] Unit Supply per [10] population [in this city]"]
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniques": ["Creates a [Arepa Stand] improvement on a specific tile","Only available <with [1] to [6] neighboring [Farm] tiles>","[+1 Food] from [Arepa Stand] tiles [in all cities] <starting from the [Industrial era]>"]
 	},
 // Lasty's Kazakhstan
 {
