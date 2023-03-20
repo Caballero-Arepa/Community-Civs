@@ -12,9 +12,4 @@
 		"uniques": ["[+10]% [Happiness] [in all cities]","[-10]% [Production] [in all cities]",
 					"Will not be displayed in Civilopedia"]
 	},
-	{
-		"name": "Flour",
-		"resourceType": "Strategic",
-		"uniques": ["Will not be displayed in Civilopedia"]
-	},
 ]
