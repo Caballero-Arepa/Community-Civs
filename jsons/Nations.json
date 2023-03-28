@@ -423,5 +423,33 @@
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+},
+        //Sharded
+	{
+		"name": "The Sharded Civ",
+		"leaderName": "Alpha2",
+		"adjective": ["Former Galactic"],
+		"startBias": ["Tundra","Snow"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "greetings im alpha2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+		"startIntroPart2": "so we have to survive to rebuild our empire back.",
+
+		"declaringWar": "i need to attack u sorry",
+		"attacked": "why why are u doin this?\nso u have chosen death\ni just want a peace bro why are u doing this?*",
+		"defeated": "nooooo:(",
+		"afterPeace": "finnaly peace\ni dont like u",
+		"introduction": "wanna be friend with me?",
+
+		"neutralHello": "hello my friend,wanna trade with me?",
+		"hateHello": "what do u want now?!",
+
+		"tradeRequest": "hi wanna trade?",
+
+		"outerColor": [87, 113, 108],
+		"innerColor": [69, 204, 48],
+		"uniqueName": "Type 3 Civilization",
+		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"]
+		"cities":["Etrafort", "Outtr", "Sha Hiti", "Blikarins", "Kanling", "Alpha", "Uhlik", "Serplupo", "Elrekir", "Runningoutofidea"]
 }
 ]
