@@ -448,8 +448,8 @@
 
 		"outerColor": [87, 113, 108],
 		"innerColor": [69, 204, 48],
-		"uniqueName": "Type 3 Civilization",
-		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"]
+		"uniqueName": "Learning from the Past",
+		"uniques":["Earn [10]% of killed [Military] unit's [Strength] as [Science]","May buy [Science] buildings with [Faith] for [2] times their normal Production cost"]
 		"cities":["Etrafort", "Outtr", "Sha Hiti", "Blikarins", "Kanling", "Alpha", "Uhlik", "Serplupo", "Elrekir", "Runningoutofidea"]
 }
 ]
