@@ -4,7 +4,7 @@
 		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
-			    "Limited to [4] per Civilization",
+			    "Consumes [1] [Flour]",
 			    "Pillaging this improvement yields approximately [+25 Gold]"]
 	},
 	{
@@ -12,7 +12,7 @@
 		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Can be built outside your borders",
-			    "Limited to [3] per Civilization",
+			    "Consumes [1] [Flour]",
 			    "Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
 	}
 ]
