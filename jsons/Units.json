@@ -68,7 +68,7 @@
 		"uniqueTo": "Wonderland",
 		"replaces": "Great General",
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	 },
 
@@ -181,9 +181,9 @@
         "uniqueTo": "The Reactors",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [8]-turn golden age", //I don't see a reason to lower it to 6
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
-			"Can construct [Academy]",
+			"Can instantly construct a [Academy] improvement <by consuming this unit>",
             "Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"
