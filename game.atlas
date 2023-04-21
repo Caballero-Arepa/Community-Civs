@@ -4,7 +4,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Navel Forge
+BuildingIcons/Naval Forge
   rotate: false
   xy: 791, 636
   size: 633, 633
@@ -297,6 +297,13 @@ TileSets/AbsoluteUnits/Units/Iron Dragon-2
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Iron Dragon-The Imperium of Fire
+  rotate: false
+  xy: 532, 27
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
   xy: 2002, 952
@@ -313,21 +320,21 @@ TileSets/FantasyHex/Units/Comrade
   index: -1
 TileSets/FantasyHex/Units/Iron Dragon
   rotate: false
-  xy: 604, 55
+  xy: 676, 39
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 604, 19
+  xy: 2002, 916
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 532, 19
+  xy: 604, 19
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
