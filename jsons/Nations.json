@@ -190,7 +190,7 @@
 		"outerColor": [41, 41, 41],    
                 "innerColor": [213, 112, 3],
 
-		"startBias": ["Desert"],
+		"startBias": ["Coast","Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "The Church of the Daring Flame",
 	  
