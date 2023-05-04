@@ -418,10 +418,41 @@
 		"innerColor": [0, 43, 4],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Race with the clock",
-		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"]
+		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"],
 		"cities":["Rakhvia1","Rakhvia2","Rakhvia3","Rakhvia4","Rakhvia5","Rakhvia6","Rakhvia7","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
 }
+//What should everyone calk you?
+{
+        "name": "Sharded  civ",
+        "leaderName": "Alpha-2",
+        "adjective": ["Former Galactic"],
+	"startBias": ["Tundra"],
+	"preferredVictoryType": "Scientific",
+
+
+        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+
+        "introduction": "Hi.",
+        "declaringWar": "Die!",
+         "attacked": "Why why are u doin this?\nSo u have chosen death.",
+        "afterPeace": "Finnaly peace\nI dont like u.",
+        "defeated": "Nooooo :(",
+         "neutralHello": "Hello my friend, wanna trade with me?",
+        "hateHello": "Get lost!",
+        "tradeRequest": "Hi, wanna trade?",
+	
+	"outerColor": [87, 113, 108],
+        "innerColor": [69, 204, 48],
+        
+        "uniqueName": "Type 3 civilization",
+        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
+	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+  },
 ]
