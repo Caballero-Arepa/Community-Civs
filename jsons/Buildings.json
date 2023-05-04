@@ -161,7 +161,7 @@
 		"maintenance": 1,
 		"production": 1,
 		"hurryCostModifier": 25,
-		"requiredNearbyImprovedResources": ["Copper", "Coal", "Aluminum"],
+		"requiredNearbyImprovedResources": ["Copper", "Salt", "Coal", "Aluminum"],
 		"requiredTech": "Metal Casting",
 		"uniques": ["Must be next to [Tundra]", "[-5]% tile improvement construction time", "[+1 Production] [in all cities]",
 			    "[+10]% [Production] [in this city] <when below [0] Happiness>"]
