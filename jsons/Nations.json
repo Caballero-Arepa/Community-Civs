@@ -376,14 +376,14 @@
         "favoredReligion": "Christianity",
 
         "startIntroPart1": "Do good.",
-        "startIntroPart2": "Will you build a civilization that stands the test of time?",
+        "startIntroPart2": "Can you protect cultures? Will you build a civilization that stands the test of time?",
         "declaringWar": "I'm sorry, but you threaten the peace and balance of this world.",
         "attacked": "Aha! Look at that little leader with their war declaration! Good job mate, show how really evil you are.",
         "defeated": "VividVale has collapsed. We will respect you if you respect us.",
         "introduction": "Henala! We are VividVale and we hope to make many allies",
         "neutralHello": "Hello mate.",
         "hateHello": "Syth do Erha Ubhun!",
-        "tradeRequest": "Do we have a deal?",
+        "tradeRequest": "Want to make a deal?",
 
         "outerColor": [29, 92, 17],
         "innerColor": [210, 136, 7],
