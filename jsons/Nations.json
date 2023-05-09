@@ -423,7 +423,7 @@
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
-}
+},
 //What should everyone calk you?
 {
         "name": "Sharded  Civ",
@@ -455,4 +455,36 @@
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
   },
+  
+    {
+		"name": "Absolute Union",
+		"leaderName": "Letstalkaboutdune",
+		"adjective": ["Absolutist"],
+		"outerColor": [47, 23, 69],
+		"innerColor": [210, 194, 155],
+		"style": "Absolutist",
+
+		"startBias": ["Forest","Jungle"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Absolute Aesthetics",
+	  
+		"startIntroPart1": "Greetings, leader Dune of your prosperous commune. A hub for all things aesthetic, your civilization emerged as a haven for producing great artists and their works.",
+		"startIntroPart2": "Can you stand tall against the uncultured hordes who hope to crush your precious peace? The worms rest deep in their burrows, ready to be called upon if needed to protect your path to victory.",
+ 
+	    "introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
+	    "declaringWar": "My giant worms will turn you into compost!",
+     	"attacked": "Curse your sudden, but inevitable betrayal!",
+		"afterPeace": "Finally, I can get back to my pixels.",
+		"defeated": "Guess I should've built more units.",
+
+     	"neutralHello": "Hi there.",
+    	"hateHello": "You again?",
+
+    	"tradeRequest": "May I interest you in these fine pieces?",
+		
+		"uniqueName": "Absolute Artists",
+		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]", "[Great Artist] is earned [50]% faster"],
+
+		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
+  }
 ]

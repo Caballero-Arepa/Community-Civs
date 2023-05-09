@@ -268,5 +268,20 @@
 		"uniques" : ["[+15]% Strength <vs [Sword] units>"],
                 "promotions": ["Shock I"],
                 "attackSound": "metalhit"
+	},
+	{
+		"uniqueTo": "Absolute Union",
+		"name": "Giant Earthworm",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 180,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]","Invisible to non-adjacent units","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": [],
+		"attackSound": "nonmetalhit",
 	}
 ]
