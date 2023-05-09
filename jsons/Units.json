@@ -270,7 +270,7 @@
                 "attackSound": "metalhit"
 	},
 	{
-		"uniqueTo": "Absolute Art Commune",
+		"uniqueTo": "Absolute Union",
 		"name": "Giant Earthworm",
 		"replaces": "Knight",
 		"unitType": "Mounted",

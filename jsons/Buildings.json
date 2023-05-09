@@ -229,7 +229,7 @@
 	{
 		"name": "Ancient Gallery",
 		"replaces": "Shrine",
-		"uniqueTo": "Absolute Art Commune",
+		"uniqueTo": "Absolute Union",
 		"faith": 1,
 		"cost": 50,
 		"maintenance": 1,
