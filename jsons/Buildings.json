@@ -193,14 +193,14 @@
 	},
 //VividVale
     {
-		"name": "Community Market",
-		"replaces": "Market",
-		"requiredTech": "Currency",
+		"name": "Campsite",
+		"replaces": "Garden",
 		"uniqueTo": "VividVale",
-		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Theology",
+		"maintenance": 1,
 		"hurryCostModifier": 30,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+1 Production] from [Bonus resource] tiles [in this city]"]
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]",
+			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
 	//Rakhvia
     {
