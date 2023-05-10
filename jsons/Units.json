@@ -1,4 +1,19 @@
 [
+	//Arepandia
+	{
+		"uniqueTo": "Arepandia",
+		"name": "Ruanero Mapper",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Berraco",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects","[50]% Strength <vs [Barbarian] units>","May enter foreign tiles without open borders"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit",
+	},
 	{
 		"uniqueTo": "Duchy of Arepandia",
 		"name": "Ruanero",

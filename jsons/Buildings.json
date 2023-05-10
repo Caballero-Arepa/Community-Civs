@@ -1,6 +1,21 @@
 [
 //Arepandia
     {
+		"name": "Arepa Hub",
+		"replaces": "Bank",
+		"uniqueTo": "Arepandia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniques": ["[-50]% Food consumption by specialists [in this city]","Creates a [Arepa House] improvement on a specific tile",
+		"[+2 Food, +2 Culture, +1 Gold] from [Arepa House] tiles [in this city]","[+1 Food, +1 Happiness] from [Arepa House] tiles [in this city] <with [Sugar]>",
+		"[+1 Gold] from [Arepa House] tiles [in this city] <within [1] tiles of a [Great Improvement]>",
+		"[+1 Food, +1 Production] from [Arepa House] tiles [in this city] <starting from the [Industrial era]>"]
+	},
+    {
 		"name": "Arepa Guild",
 		"replaces": "Bank",
 		"uniqueTo": "Duchy of Arepandia",
