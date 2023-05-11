@@ -9,10 +9,9 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"upgradesTo": "Berraco",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects","[50]% Strength <vs [Barbarian] units>","May enter foreign tiles without open borders"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects","[20]% Strength <vs [Barbarian] units>","May enter foreign tiles without open borders"],
 		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit",
+		"attackSound": "metalhit",
 	},
 	{
 		"uniqueTo": "Duchy of Arepandia",
