@@ -1,5 +1,41 @@
 [
-  {
+  { //New
+		"name": "Arepandia",
+		"leaderName": "Caballero Arepa",
+		"adjective": ["Arepino"],
+		"outerColor": [74, 64, 58],
+		"innerColor": [255, 192, 105],
+
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Arepas Supremas",
+	  
+		"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
+		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph we shall have.",
+ 
+		"introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
+		"declaringWar": "*Alright God, please not another Stalingrad battle*",
+     		"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
+		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
+		"defeated": "I HATE YOU!",
+
+		"neutralHello": "Quiubo",
+		"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
+
+		"tradeRequest": "Wanna some aditional arepas?",
+		
+		"uniqueName": "Arepa Economy",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills <with [Arepa]>",
+			"[-50]% maintenance on road & railroads <with [Arepa]>",
+			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
+
+		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Tumbabudare",
+			   "Patacón","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
+			   "Bogotana de Arepas","Finca Paisa","E'uevo","Santander","Casabe","Arepuela","Carioca","Chanfa",
+			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
+			  ]
+  },
+  { //Old
 		"name": "Duchy of Arepandia",
 		"leaderName": "Caballero Arepa",
 		"adjective": ["Arepino"],

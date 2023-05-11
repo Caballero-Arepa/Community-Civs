@@ -3,8 +3,7 @@
 	{
 		"name": "Arepa",
 		"resourceType": "Luxury",
-		"uniques": ["[+5]% [Food] [in all cities]","[+5]% [Culture] [in all cities]",
-					"Will not be displayed in Civilopedia"]
+		"uniques": ["[+5]% [Food] [in all cities]","[+5]% [Culture] [in all cities]"]
 	},
 	{
 		"name": "White Coffee",

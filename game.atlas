@@ -4,58 +4,65 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Aquarium
+  rotate: false
+  xy: 940, 33
+  size: 427, 427
+  orig: 427, 427
+  offset: 0, 0
+  index: -1
 BuildingIcons/Naval Forge
   rotate: false
-  xy: 791, 636
+  xy: 791, 468
   size: 633, 633
   orig: 633, 633
   offset: 0, 0
   index: -1
 LeaderIcons/Bamboolord
   rotate: false
-  xy: 4, 780
+  xy: 4, 612
   size: 779, 1142
   orig: 779, 1142
   offset: 0, 0
   index: -1
-LeaderIcons/Caballero Arepa
-  rotate: false
-  xy: 4, 4
-  size: 768, 768
-  orig: 768, 768
-  offset: 0, 0
-  index: -1
 NationIcons/The Imperium of Fire
   rotate: false
-  xy: 1444, 1322
+  xy: 1444, 1154
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 NationIcons/Wonderland
   rotate: false
-  xy: 1300, 116
+  xy: 1432, 114
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
+UnitIcons/Floating Fortress
+  rotate: false
+  xy: 476, 4
+  size: 456, 456
+  orig: 456, 456
+  offset: 0, 0
+  index: -1
 UnitIcons/Iron Dragon
   rotate: false
-  xy: 791, 1277
+  xy: 791, 1109
   size: 645, 645
   orig: 645, 645
   offset: 0, 0
   index: -1
 UnitIcons/Kazakh Nomad
   rotate: false
-  xy: 1444, 845
+  xy: 4, 135
   size: 464, 469
   orig: 464, 469
   offset: 0, 0
   index: -1
 UnitIcons/Wonderful Commander
   rotate: false
-  xy: 780, 116
+  xy: 1444, 634
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
@@ -68,413 +75,399 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ancient Gallery
   rotate: false
-  xy: 1165, 528
+  xy: 995, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Aquarium
+BuildingIcons/Arepa Hub
   rotate: false
-  xy: 4, 125
-  size: 427, 427
-  orig: 427, 427
-  offset: 0, 0
-  index: -1
-BuildingIcons/Arepa Guild
-  rotate: false
-  xy: 1581, 531
+  xy: 1411, 556
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Battle Fortress
   rotate: false
-  xy: 1663, 432
+  xy: 1312, 228
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 BuildingIcons/Biev Courthouse
   rotate: false
-  xy: 468, 409
+  xy: 1624, 770
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Enlightenment House
   rotate: false
-  xy: 468, 667
+  xy: 430, 671
   size: 349, 349
   orig: 349, 349
   offset: 0, 0
   index: -1
 BuildingIcons/Great Bamboo Walls
   rotate: false
-  xy: 1350, 320
+  xy: 896, 324
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Katorga
   rotate: false
-  xy: 1350, 152
-  size: 160, 160
-  orig: 160, 160
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Katorga
-  rotate: false
-  xy: 1350, 152
+  xy: 1882, 860
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 1518, 104
+  xy: 1732, 662
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kreml'
   rotate: false
-  xy: 905, 143
+  xy: 1619, 554
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Builders
   rotate: false
-  xy: 1165, 736
+  xy: 787, 740
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
 BuildingIcons/Reactor Tower
   rotate: false
-  xy: 1589, 11
+  xy: 770, 331
   size: 85, 85
   orig: 85, 85
   offset: 0, 0
   index: -1
 BuildingIcons/Sparring Grounds
   rotate: false
-  xy: 1121, 4
+  xy: 1619, 338
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Rainbow Plantation
+LeaderIcons/Caballero Arepa
   rotate: false
-  xy: 1013, 160
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 602
+  size: 418, 418
+  orig: 418, 418
   offset: 0, 0
   index: -1
-ResourceIcons/White Coffee
+LeaderIcons/Letstalkaboutdune
   rotate: false
-  xy: 1013, 160
-  size: 100, 100
-  orig: 100, 100
+  xy: 4, 176
+  size: 418, 418
+  orig: 418, 418
   offset: 0, 0
   index: -1
 NationIcons/Absolute Union
   rotate: false
-  xy: 934, 476
+  xy: 787, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Aleksandria
   rotate: false
-  xy: 4, 17
+  xy: 144, 68
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Bamboo Kingdom
+NationIcons/Arepandia
   rotate: false
-  xy: 112, 17
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Duchy of Arepandia
-  rotate: false
-  xy: 934, 268
+  xy: 1411, 348
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Bamboo Kingdom
+  rotate: false
+  xy: 252, 68
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Hankunesia
   rotate: false
-  xy: 1518, 212
+  xy: 688, 15
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ketonia
   rotate: false
-  xy: 1738, 760
+  xy: 1360, 764
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Lasty's Kazakhstan
   rotate: false
-  xy: 439, 151
+  xy: 430, 73
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Penguinesia
   rotate: false
-  xy: 825, 684
+  xy: 430, 331
   size: 332, 332
   orig: 332, 332
   offset: 0, 0
   index: -1
 NationIcons/The Reactors
   rotate: false
-  xy: 439, 43
+  xy: 1619, 230
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Thuntopia
   rotate: false
-  xy: 547, 43
+  xy: 1727, 338
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unrelenting
   rotate: false
-  xy: 547, 43
+  xy: 1727, 338
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/VividVale
   rotate: false
-  xy: 1558, 421
+  xy: 1619, 123
   size: 97, 99
   orig: 97, 99
   offset: 0, 0
   index: -1
 ReligionIcons/Absolute Aesthetics
   rotate: false
-  xy: 726, 459
+  xy: 688, 123
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Arepas Supremas
   rotate: false
-  xy: 1789, 552
+  xy: 1203, 327
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+ReligionIcons/Humanism
+  rotate: false
+  xy: 1624, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/The Church of the Daring Flame
   rotate: false
-  xy: 1453, 739
+  xy: 1075, 743
   size: 277, 277
   orig: 277, 277
   offset: 0, 0
   index: -1
 ResourceIcons/Arepa
   rotate: false
-  xy: 1373, 528
+  xy: 1203, 535
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-ImprovementIcons/Arepa Stand
+ImprovementIcons/Arepa House
   rotate: false
-  xy: 1373, 528
+  xy: 1203, 535
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/White Coffee
+  rotate: false
+  xy: 1727, 230
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon
   rotate: false
-  xy: 1861, 488
+  xy: 216, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-1
   rotate: false
-  xy: 1762, 424
+  xy: 288, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-2
   rotate: false
-  xy: 1834, 424
+  xy: 1724, 166
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-The Imperium of Fire
   rotate: false
-  xy: 1906, 416
+  xy: 1312, 164
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
-  xy: 1626, 152
+  xy: 1724, 126
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Comrade
   rotate: false
-  xy: 655, 115
+  xy: 1990, 824
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Iron Dragon
   rotate: false
-  xy: 2002, 988
+  xy: 1840, 734
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 655, 79
+  xy: 796, 15
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1626, 250
+  xy: 1312, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Comrade
   rotate: false
-  xy: 1789, 488
+  xy: 144, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Iron Dragon
   rotate: false
-  xy: 1933, 480
+  xy: 796, 51
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
   rotate: false
-  xy: 1558, 322
+  xy: 1104, 433
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
-UnitIcons/Berraco
-  rotate: false
-  xy: 726, 251
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 UnitIcons/Comrade
   rotate: false
-  xy: 220, 17
+  xy: 770, 424
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Field Gun
   rotate: false
-  xy: 1490, 5
+  xy: 1104, 334
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
-UnitIcons/Floating Fortress
-  rotate: false
-  xy: 4, 560
-  size: 456, 456
-  orig: 456, 456
-  offset: 0, 0
-  index: -1
 UnitIcons/Floating Raft
   rotate: false
-  xy: 328, 17
+  xy: 1882, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ironchad
   rotate: false
-  xy: 328, 17
+  xy: 1882, 752
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Giant Earthworm
   rotate: false
-  xy: 1142, 320
+  xy: 1411, 140
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Penggarap
   rotate: false
-  xy: 905, 35
+  xy: 1619, 446
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Reactor
   rotate: false
-  xy: 1013, 52
+  xy: 1727, 554
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ruanero
+UnitIcons/Ruanero Mapper
   rotate: false
-  xy: 697, 43
+  xy: 896, 116
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Striker
   rotate: false
-  xy: 1142, 112
+  xy: 1104, 119
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Swordshoker
   rotate: false
-  xy: 1229, 4
+  xy: 1727, 446
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Worker of the Motherland
   rotate: false
-  xy: 1350, 12
+  xy: 4, 36
   size: 132, 132
   orig: 132, 132
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 1626, 192
+  xy: 360, 118
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

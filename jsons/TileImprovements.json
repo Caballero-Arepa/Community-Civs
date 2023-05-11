@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Arepa House",
+		"uniqueTo": "Arepandia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
+			    "Pillaging this improvement yields approximately [+25 Gold]"]
+	},
+	{
 		"name": "Arepa Stand",
 		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
