@@ -14,4 +14,9 @@
 		"name": "Unrelenting",
 		"uniques": ["Damage is ignored when determining unit Strength <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
 	},
+	//Arepandia
+	{
+		"name": "Botanic Expedition",
+		"uniques": ["Ignores terrain cost","[20]% Strength <vs [Barbarian] units>","May enter foreign tiles without open borders"]
+	},
 ]
