@@ -148,10 +148,26 @@
 	},
 	//Alyosha
 	{
-		"name": "Patriot", 
+		"name": "Comrade", 
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Aleksandria",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques":["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"],
+		"promotions": ["[Comrade] ability"],
+		"attackSound": "shot"
+	},
+	//Rize
+	{
+		"name": "Patriot",  
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Cadari Republique",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
@@ -159,22 +175,6 @@
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
 		"promotions": ["[Patriot] ability"],
-		"attackSound": "shot"
-	},
-	//Rize
-	{
-		"name": "Comrade",  
-		"unitType": "Gunpowder",
-		"replaces": "Rifleman",
-		"uniqueTo": "Aleksandria",
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"requiredTech": "Rifling",
-		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Replaceable Parts",
-                "uniques":["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"],
-		"promotions": ["[Comrade] ability"],
 		"attackSound": "shot"
 	},
 	//Ketonia
