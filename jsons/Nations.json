@@ -543,8 +543,8 @@
         "hateHello": "What brings you here? Make it quick.",
         "tradeRequest": "This is an offer you would certainly like, please consider it",
 	
-	"outerColor": [255, 255, 255],
-        "innerColor": [33, 239, 255],
+	"outerColor": [250, 250, 250],
+        "innerColor": [50, 200, 250],
         
         "uniqueName": "Nationalistic Fervor",
         "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
