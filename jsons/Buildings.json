@@ -241,15 +241,25 @@
                 "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
-	{
-		"name": "Ancient Gallery",
-		"replaces": "Shrine",
-		"uniqueTo": "Absolute Union",
-		"faith": 1,
-		"cost": 50,
+	{	"name": "Sparring Grounds",
+		"replaces": "Barracks",
+		"uniqueTo": "Thuntopia",
+		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"specialistSlots": {"Artist": 1},
-		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Pottery"
+		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
+		"New [Military] units start with [15] Experience [in this city]",
+                "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Mobilization Center",
+		"replaces": "Military Academy",
+		"uniqueTo": "Cadari Republik",
+		"cost": 300,
+		"maintenance": 1,
+		"uniques": ["[+25]% Production when constructing [Gunpowder] units [in this city]",
+		"New [Military] units start with [15] Experience [in this city]",
+                "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
 	},
         ]
