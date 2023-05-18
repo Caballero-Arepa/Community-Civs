@@ -9,6 +9,11 @@
 		"name": "[Comrade] ability",
 		"uniques": ["[+15]% Strength bonus for [Wounded] units within [1] tiles"]
 	},
+	//Cadari Republik
+	{
+		"name": "[Patriot] ability",
+		"uniques": ["[+10]% Strength <in [Friendly Land] tiles>", "Can move after attacking"]
+	},
         //Thuntopia 
 	{
 		"name": "Unrelenting",
@@ -17,6 +22,6 @@
 	//Arepandia
 	{
 		"name": "Botanic Expedition",
-		"uniques": ["Ignores terrain cost","[20]% Strength <vs [Barbarian] units>","May enter foreign tiles without open borders"]
+		"uniques": ["Ignores terrain cost", "[20]% Strength <vs [Barbarian] units>", "May enter foreign tiles without open borders"]
 	},
 ]
