@@ -148,7 +148,22 @@
 	},
 	//Alyosha
 	{
-		"name": "Comrade",  //name to rework I guess
+		"name": "Patriot", 
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Aleksandria",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["[Patriot] ability"],
+		"attackSound": "shot"
+	},
+	//Rize
+	{
+		"name": "Comrade",  
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Aleksandria",
