@@ -167,7 +167,7 @@
 		"name": "Patriot",  
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
-		"uniqueTo": "Cadari Republique",
+		"uniqueTo": "Cadari Republik",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
