@@ -525,7 +525,7 @@
   },
 //Rize
 {
-        "name": "Cadari Republique",
+        "name": "Cadari Republik",
         "leaderName": "Rize",
         "adjective": ["Cadarian"],
 	"startBias": ["Grassland"],
@@ -538,7 +538,7 @@
         "introduction": "Hi.",
         "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
          "attacked": "We will not falter nor surrender, we will fight for our nation.",
-        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republique.",
+        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
          "neutralHello": "Pleased to see you.",
         "hateHello": "What brings you here? Make it quick.",
         "tradeRequest": "This is an offer you would certainly like, please consider it",
