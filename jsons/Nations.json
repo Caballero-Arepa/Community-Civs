@@ -528,30 +528,26 @@
         "name": "Cadari Republique",
         "leaderName": "Rize",
         "adjective": ["Cadarian"],
-	"startBias": ["Tundra"],
-	"preferredVictoryType": "Scientific",
+	"startBias": ["Grassland"],
+	"preferredVictoryType": "Cultural",
 
 
-        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
-        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
 
         "introduction": "Hi.",
-        "declaringWar": "Die!",
-         "attacked": "Why why are u doin this?\nSo u have chosen death.",
-        "afterPeace": "Finnaly peace\nI dont like u.",
-        "defeated": "Nooooo :(",
-         "neutralHello": "Hello my friend, wanna trade with me?",
-        "hateHello": "Get lost!",
-        "tradeRequest": "Hi, wanna trade?",
+        "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
+         "attacked": "We will not falter nor surrender, we will fight for our nation.",
+        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republique.",
+         "neutralHello": "Pleased to see you.",
+        "hateHello": "What brings you here? Make it quick.",
+        "tradeRequest": "This is an offer you would certainly like, please consider it",
 	
 	"outerColor": [255, 255, 255],
         "innerColor": [33, 239, 255],
         
         "uniqueName": "Nationalistic Fervor",
         "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
-	"cities":["Rize-1","Rize-2","Rize-3","Rize-4","Rize-5","Rize-6","Rize-7","Rize-8","Rize-9","Rize-10",
-			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
-			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
-			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf"]
   },
 ]
