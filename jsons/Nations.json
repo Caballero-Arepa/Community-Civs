@@ -522,5 +522,36 @@
 		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]", "[Great Artist] is earned [50]% faster"],
 
 		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
-  }
+  },
+//Rize
+{
+        "name": "Cadari Republique",
+        "leaderName": "Rize",
+        "adjective": ["Cadarian"],
+	"startBias": ["Tundra"],
+	"preferredVictoryType": "Scientific",
+
+
+        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+
+        "introduction": "Hi.",
+        "declaringWar": "Die!",
+         "attacked": "Why why are u doin this?\nSo u have chosen death.",
+        "afterPeace": "Finnaly peace\nI dont like u.",
+        "defeated": "Nooooo :(",
+         "neutralHello": "Hello my friend, wanna trade with me?",
+        "hateHello": "Get lost!",
+        "tradeRequest": "Hi, wanna trade?",
+	
+	"outerColor": [255, 255, 255],
+        "innerColor": [33, 239, 255],
+        
+        "uniqueName": "Nationalistic Fervor",
+        "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+	"cities":["Rize-1","Rize-2","Rize-3","Rize-4","Rize-5","Rize-6","Rize-7","Rize-8","Rize-9","Rize-10",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+  },
 ]
