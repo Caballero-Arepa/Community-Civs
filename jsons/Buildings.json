@@ -217,6 +217,18 @@
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]",
 			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
+	//AU Dune
+	{
+		"name": "Ancient Gallery",
+		"replaces": "Shrine",
+		"uniqueTo": "Absolute Union",
+		"faith": 1,
+		"cost": 50,
+		"maintenance": 1,
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
 	//Rakhvia
     {
 		"name": "Military Lab",
