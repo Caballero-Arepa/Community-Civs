@@ -532,8 +532,8 @@
 	"preferredVictoryType": "Cultural",
 
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+        "startIntroPart1": "Greetings, President of the Republik.",
+        "startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
 
         "introduction": "Hi.",
         "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
@@ -548,6 +548,6 @@
         
         "uniqueName": "Nationalistic Fervor",
         "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
-	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf"]
+	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
   },
 ]
