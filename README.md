@@ -21,16 +21,17 @@ Here's our discord server: https://discord.com/channels/586194543280390151/10668
 # Here are the Users with their respective Civilizations
 
 - A1y0sh4 of Aleksandria
-- Bamboolord of The Bamboo Kingdom
-- Caballero Arepa of The Duchy of Arepandia
 - Ace Hank of Hankunesia
-- Lady Ferii of Ketonia
-- Lasty стратег of Lasty's Kazakhstan
-- Grason of Rakhvia
+- Bamboolord of The Bamboo Kingdom
+- Belias of Wonderland
+- Caballero Arepa of The Duchy of Arepandia
 - Commander Andrew of San Andor
 - Emperor Penguin of Penguinesia
+- Grason of Rakhvia
+- Lady Ferii of Ketonia
+- Lasty стратег of Lasty's Kazakhstan
+- Letstalkaboutdune of Absolute Union
 - Lord of Fire of The Imperium of Fire
 - Probably an FBE Reactor of The Reactors
-- Thunder Crims of Thuntopia
 - TCube of VividVale
-- Belias of Wonderland
+- Thunder Crims of Thuntopia
