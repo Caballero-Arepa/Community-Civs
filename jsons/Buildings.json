@@ -271,4 +271,22 @@
                 "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
-        ]
+
+// The Not Guy Fawkes
+	{
+		"name": "Paesan",
+		"replaces": "Mint",
+		"uniqueTo": "The Not Guy Fawkes",
+		"production": 2,
+		"maintenance": 0,
+		"uniques": ["Can be build in all cities", 
+					"[+2 Gold] from [Copper] tiles [in this city]", 
+					"[+2 Gold] from [Gems] tiles [in this city]", 
+					"[+2 Gold] from [Gold Ore] tiles [in this city]", 
+					"[+2 Gold] from [Silver] tiles [in this city]"],
+		"requiredTech": "Currency",
+		"civilopediaText": [
+			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di ngge piyambak."}
+		],
+	},
+]

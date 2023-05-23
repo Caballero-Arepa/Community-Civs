@@ -312,5 +312,27 @@
 		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]","Invisible to non-adjacent units","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": [],
 		"attackSound": "nonmetalhit",
-	}
+	},
+	
+	// The Not Guy Fawkes
+	{
+		"name": "Backswordsman",
+		"unitType": "Sword",
+		"uniqueTo": "The Not Guy Fawkes",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": -50,
+		"uniques": ["No movement cost to pillage", 
+					"[-100]% maintenance costs"],
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "Menawi angsal arta kanthi njarah mboten mbetahaken beaya obah, lan murah sanget menawi ditumbas."}
+		]
+	},
 ]
