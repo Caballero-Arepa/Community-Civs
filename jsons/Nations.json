@@ -24,7 +24,7 @@
 
 		"tradeRequest": "Wanna some aditional arepas?",
 		
-		"uniqueName": "Arepa Economy",
+		"uniqueName": "Uplifting Arepas",
 		"uniques": ["Units ignore terrain costs when moving into any tile with Hills <with [Arepa]>",
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
