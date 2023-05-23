@@ -111,7 +111,7 @@
 		"name": "Monument to the Builders",
 		"replaces": "Monument",
 		"uniqueTo": "Wonderland",
-		"culture": 1,
+		"culture": 2,
 		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
