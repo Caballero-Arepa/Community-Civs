@@ -355,70 +355,84 @@ ImprovementIcons/Arepa Stand
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon
   rotate: false
-  xy: 216, 4
+  xy: 288, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-1
   rotate: false
-  xy: 288, 4
+  xy: 1727, 82
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-2
   rotate: false
-  xy: 1727, 82
+  xy: 1209, 55
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-The Imperium of Fire
   rotate: false
-  xy: 1209, 55
+  xy: 1312, 164
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
-  xy: 1727, 42
+  xy: 1209, 15
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Comrade
+TileSets/FantasyHex/Units/Backswordsman
   rotate: false
   xy: 1990, 824
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Iron Dragon
+TileSets/FantasyHex/Units/Comrade
   rotate: false
   xy: 796, 15
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Iron Dragon
+  rotate: false
+  xy: 1727, 46
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 1209, 19
+  xy: 360, 82
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1312, 156
+  xy: 1312, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Comrade
+TileSets/HexaRealm/Units/Backswordsman
   rotate: false
   xy: 144, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Comrade
+  rotate: false
+  xy: 216, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

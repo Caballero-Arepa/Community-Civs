@@ -558,7 +558,7 @@
 		"adjective": ["Fauus"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "So why should I greet you? You aren't Guy Fawkes, nor are you a famous man. Why bother?",
+		"startIntroPart1": "So why should I greet you? Neither you're Guy Fawkes, nor are you a famous man. Why bother?",
 		"startIntroPart2": "Even so, you choose to play ain't you? So be it. Enjoy the game and good luck!",
 		
 		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Us, The NOT Guy Fawkes!",
@@ -574,7 +574,7 @@
 		"outerColor": [251,236,127],
 		"innerColor": [146, 74,  1],
 		"uniqueName": "Anuanuemas",
-		"uniqueText": "+50% Yield from every Luxury resource \n+1 [Gold] per each type of Luxury resources owned",
+		"uniqueText": "+50% Yield from every Luxury resource \n+1 [Gold] per each type of Luxury resource owned",
 		"uniques": ["[+50]% Yield from every [Luxury resource]", 
 					"[+1 Gold] <with [Citrus]>", 
 					"[+1 Gold] <with [Copper]>", 
