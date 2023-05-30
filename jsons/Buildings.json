@@ -131,6 +131,19 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","[+1 Culture] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
 	},
+//Aleksandria
+        {
+		"name": "Kreml'",
+		"replaces": "Walls",
+		"uniqueTo": "Aleksandria",
+		"greatPersonPoints": {"Great Artist": 1},
+		"cityStrength": 8,
+		"cityHealth": 50,
+		"cost": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 //EmperorPenguin civ
 {
 		"name": "Enlightenment House",
