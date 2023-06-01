@@ -137,13 +137,13 @@
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 28,
-		"cost": 240,
+		"cost": 200,
 		"requiredResource": "Iron",
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"promotions": ["Logistics"],
+		"promotions": ["Bombardment I","Supply"],
 		"attackSound": "cannon"
 	},
 	//Alyosha
