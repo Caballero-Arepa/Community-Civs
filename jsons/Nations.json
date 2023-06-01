@@ -248,7 +248,12 @@
 		"uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>",
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Classical era]>",
 			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Medieval era]>",
-			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Renaissance era]>"],
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Renaissance era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Industrial era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Modern era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Atomic era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Information era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Future era]>",],
 
 		"cities": ["Dragonheart","Caldera","ignis Castellon","Dardraca Crater","Ignatia","Pyropolis",
 					"Scorchtown","Ashenforge","Dragonspire","Infernocrest","Smolderhaven",
