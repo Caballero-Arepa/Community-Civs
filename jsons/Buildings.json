@@ -136,11 +136,11 @@
 		"name": "Kreml'",
 		"replaces": "Walls",
 		"uniqueTo": "Aleksandria",
-		"greatPersonPoints": {"Great Artist": 1},
 		"cityStrength": 8,
 		"cityHealth": 50,
 		"cost": 50,
 		"hurryCostModifier": 25,
+		"faith": 1,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
