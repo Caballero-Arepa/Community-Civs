@@ -136,11 +136,11 @@
 		"name": "Kreml'",
 		"replaces": "Walls",
 		"uniqueTo": "Aleksandria",
-		"greatPersonPoints": {"Great Artist": 1},
 		"cityStrength": 8,
 		"cityHealth": 50,
 		"cost": 50,
 		"hurryCostModifier": 25,
+		"faith": 1,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -175,7 +175,9 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]","[+15]% Production when constructing [Water] units [in this city]"],
+			"Connects trade routes over water","Must be next to [Coast]",
+			    "[+15]% Production when constructing [Water] units [in this city]",
+			   "[+10]% [Production] [in this city]"],
 		"requiredTech": "Compass"
 	},
 	//Alyosha
