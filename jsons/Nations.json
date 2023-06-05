@@ -172,14 +172,26 @@
 		"outerColor": [87, 233, 108],
 		"innerColor": [69, 114, 48],
 		"style": "Bamboo",
+	  
+		"startIntroPart1": "Moin Bamboolord, one of the most skilled and simultaneaously laziest modders out there.",
+		"startIntroPart2": "Can you build an empire more complete than you're planned mods? Will you crumble early on? No time for chatting, get your ass outta there and actually do something!",
+ 
+	        "introduction": "Hallo, I am Bamboolord, the king of all Bamboos in the world, I hope we can prosper in peace as neighbors",
+	        "declaringWar": "Don't worry, it's just defensive measurements",
+     	        "attacked": "This shall end quickly, if you either really know what you're doing or the literal opposite",
+		"afterPeace": "One front ends, another will follow",
+		"defeated": "You had an advantage from the start of the game, this was not fair",
+           	"neutralHello": "Moin, have a nice day",
+    	        "hateHello": "Get lost!",
+    	        "tradeRequest": "This is definately a good offer for you, no scam intended",
 
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
 		"uniqueName": "King of all Bamboo",
-		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [Jungle] tiles without [Trading post] [in all cities]"],
+		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route"],
 
-		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
+		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Jungle strikes first", "Science best stat", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Ninth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
 //EmperorPenguin
   {
