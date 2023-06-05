@@ -177,7 +177,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"uniqueName": "King of all Bamboo",
-		"uniques": ["[+1 Culture] from every [Scientist]","[+20]% Strength decreasing with distance from the capital <for [non-air] units>","[+3 Science] from each Trade Route"],
+		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route"],
 
 		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
