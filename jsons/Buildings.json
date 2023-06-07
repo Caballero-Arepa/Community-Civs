@@ -304,4 +304,15 @@
 			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di ngge piyambak."}
 		],
 	},
+// Ravignir
+    {
+		"name": "Clown Alley",
+		"replaces": "Circus",
+		"uniqueTo": "Clownish Commonwealth",
+		"happiness": 2,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping",
+		"uniques": ["Can be build anywhere"],
+	},
 ]
