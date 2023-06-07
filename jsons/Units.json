@@ -335,4 +335,31 @@
 			{"text": "Menawi angsal arta kanthi njarah mboten mbetahaken beaya obah, lan murah sanget menawi ditumbas."}
 		]
 	},
+// Ravignir	
+    {
+		"name": "Unicycle Clown",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Clownish Commonwealth",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Crossbowman",
+		"obsoleteTech": "Machinery",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit","Can transform to [Berserk Clown]"],
+		"attackSound": "elephant"
+	},
+    {
+		"name": "Berserk Clown",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 9,
+		"cost": 56,
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Unbuildable", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
+		"attackSound": "elephant"
+	},
 ]
