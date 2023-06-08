@@ -359,7 +359,7 @@
 		"cost": 56,
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Unbuildable", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
+		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
 		"attackSound": "elephant"
 	},
 ]
