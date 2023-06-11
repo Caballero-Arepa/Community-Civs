@@ -1,26 +1,41 @@
 [
+	//Arepandia
 	{
-  "uniqueTo": "Duchy of Arepandia",
-  "name": "Ruanero",
-  "replaces": "Settler",
-  "unitType": "Sword",
-  "movement": 2,
-	"strength": 7, //-10%
-	"cost": 106,
-  "uniqueText": "Founds a new city\nExcess Food converted to Production when under construction\nRequires at least [2] population\nIgnores terrain cost\nCan only attack Barbarian units\nStrength Increases over time",
-  "uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population","Ignores terrain cost","Can only attack [Barbarian] units","Can construct [Arepa Stand]",
-      //Strength Scaling 12 - 18 - 21 - 29 - 43 - 60 - 77
-      "[72]% Strength <after discovering [Iron Working]> <before discovering [Steel]>",
-      "[157]% Strength <after discovering [Steel]> <before discovering [Gunpowder]>",
-      "[200]% Strength <after discovering [Gunpowder]> <before discovering [Rifling]>",
-      "[314]% Strength <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
-      "[514]% Strength <after discovering [Replaceable Parts]> <before discovering [Plastics]>",
-      "[757]% Strength <after discovering [Plastics]> <before discovering [Mobile Tactics]>",
-      "[1000]% Strength <after discovering [Mobile Tactics]>","Can construct [Rainbow Plantation]",
-     ],
-	"hurryCostModifier": 20,
-	"attackSound": "metalhit"
+		"uniqueTo": "Arepandia",
+		"name": "Ruanero Mapper",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
+		"promotions": ["Botanic Expedition"],
+		"attackSound": "metalhit",
+	},
+	{
+		"uniqueTo": "Duchy of Arepandia",
+		"name": "Ruanero",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Berraco",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Survivalism I"],
+		"attackSound": "nonmetalhit",
+	},
+	{
+		"uniqueTo": "Duchy of Arepandia",
+		"name": "Berraco",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 10,
+		"requiredTech": "Calendar",
+		"attackSound": "metalhit",
+		"uniques": ["[50]% Strength <vs [Barbarian] units>","Can instantly construct a [Rainbow Plantation] improvement <by consuming this unit>","May enter foreign tiles without open borders"],
 	},
 
 	//Hankunesia
@@ -54,11 +69,11 @@
   "rangedStrength": 25,
   "requiredTech": "Metallurgy",
   "requiredResource": "Horses",
-  "uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit"],
+  "uniques": ["Can move after attacking","No defensive terrain bonus"],
   "promotions": ["Formation I"],
   "upgradesTo": "Anti-Tank Gun",
   "obsoleteTech": "Combined Arms",
-  "attackSound": "horse"
+  "attackSound": "arrow"
 },
 //Belias
 {
@@ -67,7 +82,7 @@
 		"uniqueTo": "Wonderland",
 		"replaces": "Great General",
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	 },
 
@@ -101,12 +116,13 @@
   		"replaces": "Battleship",
 		"unitType": "Ranged Water",
 		"movement": 5,
-		"strength": 70,
-		"rangedStrength": 70,
+		"strength": 65,
+		"rangedStrength": 65,
 		"range": 3,
 		"cost": 425,
+		"requiredResource": "Iron",
 		"requiredTech": "Electronics",
-		"uniques": ["Consumes [1] [Iron]","Upgrades to Missile Cruiser","Never appears as a Barbarian unit"],
+		"uniques": ["Upgrades to Missile Cruiser","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
   		"upgradesTo": "Missile Cruiser",
   		"obsoleteTech": "Robotics",
@@ -121,18 +137,18 @@
 		"movement": 5,
 		"strength": 25,
 		"rangedStrength": 28,
-		"cost": 240,
+		"cost": 200,
 		"requiredResource": "Iron",
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
-		"promotions": ["Logistics"],
+		"promotions": ["Bombardment I","Supply"],
 		"attackSound": "cannon"
 	},
 	//Alyosha
 	{
-		"name": "Comrade",  //name to rework I guess
+		"name": "Comrade", 
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Aleksandria",
@@ -142,8 +158,23 @@
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
-                "uniques":["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"],
+		"uniques":["Unit will heal every turn, even if it performs an action <in [Friendly Land] tiles>"],
 		"promotions": ["[Comrade] ability"],
+		"attackSound": "shot"
+	},
+	//Rize
+	{
+		"name": "Patriot",  
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Cadari Republik",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["[Patriot] ability"],
 		"attackSound": "shot"
 	},
 	//Ketonia
@@ -160,7 +191,7 @@
 		"uniques":["[+50]% Strength <vs [Mounted] units>"],
 		"promotions":["Cover I"],
 		"movement":2,
-		"upgradeTo":"Lancer"
+                "attackSound": "metalhit"
 	},
 	{
 		"name":"Field Gun",
@@ -179,9 +210,9 @@
         "uniqueTo": "The Reactors",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [8]-turn golden age", //I don't see a reason to lower it to 6
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
-			"Can construct [Academy]",
+			"Can instantly construct a [Academy] improvement <by consuming this unit>",
             "Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"
@@ -211,11 +242,124 @@
   "movement": 6,
   "strength": 50,
   "cost": 300,
+  "requiredResource": "Oil",
   "requiredTech": "Combustion",
   "promotions": ["Shock I","Great Generals I"]
-"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking","Consume [1] [Oil]"],
+"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking"],
   "attackSound": "shot",
   "upgradesTo": "Modern Armor",
 "obsoleteTech": "Lasers",
  },
+	//VividVale 
+	{
+		"name":"Striker",
+		"unitType":"Sword",
+		"replaces":"Spearman",
+		"uniqueTo":"VividVale",
+		"requiredTech":"Bronze Working",
+		"obsoleteTech":"Civil Service",
+		"cost":56,
+                "movement":3,
+		"strength":11,
+		"upgradesTo":"Pikeman",
+		"uniques":["[+50]% Strength <vs [Mounted] units>"],
+                "promotions": ["Shock I"],
+                "attackSound": "metalhit"
+	},
+{
+  "name": "Round Tank",
+  "replaces": "Modern Armor",
+"uniqueTo": "Rakhvia",
+"unitType": "Armored",
+  "movement": 5,
+  "strength": 110,
+  "cost": 425,
+  "requiredResource": "Aluminum",
+  "requiredTech": "Lasers",
+  "promotions": ["March"]
+"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+  "attackSound": "tankshot",
+  "upgradesTo": "Giant Death Robot"
+ },
+        //Thuntopia 
+	{
+		"name": "Swordshocker",
+		"uniqueTo": "Thuntopia",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+                "requiredResource": "Iron",
+                "requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"uniques" : ["[+15]% Strength <vs [Sword] units>"],
+                "promotions": ["Shock I"],
+                "attackSound": "metalhit"
+	},
+	{
+		"uniqueTo": "Absolute Union",
+		"name": "Giant Earthworm",
+		"replaces": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 180,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Double movement in [Forest]","Double movement in [Jungle]","Invisible to non-adjacent units","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": [],
+		"attackSound": "nonmetalhit",
+	},
+	
+	// The Not Guy Fawkes
+	{
+		"name": "Backswordsman",
+		"unitType": "Sword",
+		"uniqueTo": "The Not Guy Fawkes",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": -50,
+		"uniques": ["No movement cost to pillage", 
+					"[-100]% maintenance costs"],
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "Menawi angsal arta kanthi njarah mboten mbetahaken beaya obah, lan murah sanget menawi ditumbas."}
+		]
+	},
+// Ravignir	
+    {
+		"name": "Unicycle Clown",
+		"replaces": "Chariot Archer",
+		"uniqueTo": "Clownish Commonwealth",
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Crossbowman",
+		"obsoleteTech": "Machinery",
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit","Can transform to [Berserk Clown]"],
+		"attackSound": "elephant"
+	},
+    {
+		"name": "Berserk Clown",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 9,
+		"cost": 56,
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
+		"attackSound": "elephant"
+	},
 ]

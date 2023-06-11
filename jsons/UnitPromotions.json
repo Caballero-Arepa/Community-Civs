@@ -9,4 +9,19 @@
 		"name": "[Comrade] ability",
 		"uniques": ["[+15]% Strength bonus for [Wounded] units within [1] tiles"]
 	},
+	//Cadari Republik
+	{
+		"name": "[Patriot] ability",
+		"uniques": ["[+10]% Strength <in [Friendly Land] tiles>", "Can move after attacking"]
+	},
+        //Thuntopia 
+	{
+		"name": "Unrelenting",
+		"uniques": ["Damage is ignored when determining unit Strength <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
+	},
+	//Arepandia
+	{
+		"name": "Botanic Expedition",
+		"uniques": ["Ignores terrain cost", "[20]% Strength <vs [Barbarian] units>", "May enter foreign tiles without open borders"]
+	},
 ]

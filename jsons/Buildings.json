@@ -1,15 +1,28 @@
 [
 //Arepandia
     {
-		"name": "Arepa Guild",
-		"replaces": "Market",
-		"requiredTech": "Currency",
-		"production": 1,
-		"uniqueTo": "Duchy of Arepandia",
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 30,
+		"name": "Arepa Hub",
+		"replaces": "Bank",
+		"uniqueTo": "Arepandia",
+		"gold": 2,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[1] Unit Supply per [10] population [in this city]"]
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniques": ["Creates a [Arepa House] improvement on a specific tile"]
+	},
+    {
+		"name": "Arepa Guild",
+		"replaces": "Bank",
+		"uniqueTo": "Duchy of Arepandia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+		"uniques": ["Creates a [Arepa Stand] improvement on a specific tile","Only available <with [1] to [6] neighboring [Farm] tiles>","[+1 Food] from [Arepa Stand] tiles [in all cities] <starting from the [Industrial era]>"]
 	},
 // Lasty's Kazakhstan
 {
@@ -18,8 +31,8 @@
   "uniqueTo": "Lasty's Kazakhstan",
   "requiredTech": "Mathematics",
   "uniques": ["Remove extra unhappiness from annexed cities",
-	      "[-25]% Unhappiness from [Population] [in this city] <during We Love The King Day>",
-              "[+20]% [Culture] [in this city] <upon declaring friendship> <for [10] turns>"],
+	      "[-20]% Unhappiness from [Population] [in this city] <during We Love The King Day>",
+              "[+20]% [Culture] [in this city] <during a Golden Age>"],
   "cost": 100,
   "maintenance": 4,
 },
@@ -98,7 +111,7 @@
 		"name": "Monument to the Builders",
 		"replaces": "Monument",
 		"uniqueTo": "Wonderland",
-		"culture": 1,
+		"culture": 2,
 		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
@@ -118,39 +131,43 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","[+1 Culture] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
 	},
+//Aleksandria
+        {
+		"name": "Kreml'",
+		"replaces": "Walls",
+		"uniqueTo": "Aleksandria",
+		"cityStrength": 8,
+		"cityHealth": 50,
+		"cost": 50,
+		"hurryCostModifier": 25,
+		"faith": 1,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 //EmperorPenguin civ
 {
 		"name": "Enlightenment House",
 		"replaces": "Lighthouse",
 		"uniqueTo": "Penguinesia",
 		"cost": 75,
-		"science": 2,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]"],
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "[+1 Science] per [3] social policies adopted"],
 		"requiredTech": "Optics"
-	},
-	{
-		"name": "Aquarium",
-		"replaces": "Circus",
-		"uniqueTo": "Penguinesia",
-		"requiredNearbyImprovedResources": ["Fish","Pearls","Crab"],
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["Available with Fish, Pearls, Crab", "Unlocked at Sailing"],
-		"requiredTech": "Sailing"
 	},
 	//Firelord
 	{
-		"name": "Navel Forge",
+		"name": "Naval Forge",
   		"uniqueTo": "The Imperium of Fire",
 		"replaces": "Harbor",
 		"cost": 120,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]","[+15]% Production when constructing [Water] units [in this city]"],
+			"Connects trade routes over water","Must be next to [Coast]",
+			    "[+15]% Production when constructing [Water] units [in this city]",
+			   "[+10]% [Production] [in this city]"],
 		"requiredTech": "Compass"
 	},
 	//Alyosha
@@ -158,10 +175,10 @@
 		"name": "Katorga",
 		"uniqueTo":"Aleksandria",
 		"cost":100,
-		"production": 1,
 		"maintenance": 1,
+		"production": 1,
 		"hurryCostModifier": 25,
-		"requiredNearbyImprovedResources": ["Copper", "Coal", "Aluminum"],
+		"requiredNearbyImprovedResources": ["Copper", "Salt", "Coal", "Aluminum"],
 		"requiredTech": "Metal Casting",
 		"uniques": ["Must be next to [Tundra]", "[-5]% tile improvement construction time", "[+1 Production] [in all cities]",
 			    "[+10]% [Production] [in this city] <when below [0] Happiness>"]
@@ -191,4 +208,101 @@
 		"maintenance": 3,
 		"requiredTech": "Radio"
 	},
-        ]
+//VividVale
+    {
+		"name": "Campsite",
+		"replaces": "Garden",
+		"uniqueTo": "VividVale",
+		"requiredTech": "Theology",
+		"maintenance": 1,
+		"hurryCostModifier": 30,
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]",
+			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
+	},
+	//AU Dune
+	{
+		"name": "Ancient Gallery",
+		"replaces": "Shrine",
+		"uniqueTo": "Absolute Union",
+		"faith": 1,
+		"cost": 50,
+		"maintenance": 1,
+		"specialistSlots": {"Artist": 1},
+		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	//Rakhvia
+    {
+		"name": "Military Lab",
+		"replaces": "Research Lab",
+		"requiredTech": "Plastics",
+	        "uniqueTo": "Rakhvia",
+	        "hurryCostModifier": 30,
+		"science": 4,
+	        "percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+	        "maintenance": 3,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"]
+	},
+	{	"name": "Sparring Grounds",
+		"replaces": "Barracks",
+		"uniqueTo": "Thuntopia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
+		"New [Military] units start with [15] Experience [in this city]",
+                "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{	"name": "Sparring Grounds",
+		"replaces": "Barracks",
+		"uniqueTo": "Thuntopia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
+		"New [Military] units start with [15] Experience [in this city]",
+                "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Mobilization Center",
+		"replaces": "Military Academy",
+		"uniqueTo": "Cadari Republik",
+		"cost": 300,
+		"maintenance": 1,
+		"uniques": ["[+25]% Production when constructing [Gunpowder] units [in this city]",
+		"New [Military] units start with [15] Experience [in this city]",
+                "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
+
+// The Not Guy Fawkes
+	{
+		"name": "Paesan",
+		"replaces": "Mint",
+		"uniqueTo": "The Not Guy Fawkes",
+		"production": 2,
+		"maintenance": 0,
+		"uniques": ["Can be build in all cities", 
+					"[+2 Gold] from [Copper] tiles [in this city]", 
+					"[+2 Gold] from [Gems] tiles [in this city]", 
+					"[+2 Gold] from [Gold Ore] tiles [in this city]", 
+					"[+2 Gold] from [Silver] tiles [in this city]"],
+		"requiredTech": "Currency",
+		"civilopediaText": [
+			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di ngge piyambak."}
+		],
+	},
+// Ravignir
+    {
+		"name": "Clown Alley",
+		"replaces": "Circus",
+		"uniqueTo": "Clownish Commonwealth",
+		"happiness": 2,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping",
+		"uniques": ["Can be build anywhere"],
+	},
+]

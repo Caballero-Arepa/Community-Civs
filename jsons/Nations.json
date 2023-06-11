@@ -1,5 +1,41 @@
 [
-  {
+  { //New
+		"name": "Arepandia",
+		"leaderName": "Caballero Arepa",
+		"adjective": ["Arepino"],
+		"outerColor": [74, 64, 58],
+		"innerColor": [255, 192, 105],
+
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Arepas Supremas",
+	  
+		"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
+		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph we shall have.",
+ 
+		"introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
+		"declaringWar": "*Alright God, please not another Stalingrad battle*",
+     		"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
+		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
+		"defeated": "I HATE YOU!",
+
+		"neutralHello": "Quiubo",
+		"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
+
+		"tradeRequest": "Wanna some aditional arepas?",
+		
+		"uniqueName": "Uplifting Arepas",
+		"uniques": ["Units ignore terrain costs when moving into any tile with Hills <with [Arepa]>",
+			"[-50]% maintenance on road & railroads <with [Arepa]>",
+			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
+
+		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Tumbabudare",
+			   "Patacón","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
+			   "Bogotana de Arepas","Finca Paisa","E'uevo","Santander","Casabe","Arepuela","Carioca","Chanfa",
+			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
+			  ]
+  },
+  { //Old
 		"name": "Duchy of Arepandia",
 		"leaderName": "Caballero Arepa",
 		"adjective": ["Arepino"],
@@ -26,9 +62,9 @@
     	"tradeRequest": "Wanna some aditional... *white coffee*?",
 		
 		"uniqueName": "Arepa Economy",
-		"uniques": ["[+1 Food] from all [Gold] buildings","[+1 Gold] from all [Culture] buildings"],
+		"uniques": ["[+1 Gold] from [Arepa Stand] tiles [in all cities] <within [1] tiles of a [Great Improvement]>","[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa Stand]>","[-57]% Food consumption by specialists [in all cities]","Provides [6] [Flour]"],
 
-		"cities": ["Central Arepa","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
+		"cities": ["Central Arepa","Puerto Aguapanela","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
   },
 	
 	//Ace Hank of Hankunesia
@@ -136,14 +172,26 @@
 		"outerColor": [87, 233, 108],
 		"innerColor": [69, 114, 48],
 		"style": "Bamboo",
+	  
+		"startIntroPart1": "Moin Bamboolord, one of the most skilled and simultaneaously laziest modders out there.",
+		"startIntroPart2": "Can you build an empire more complete than you're planned mods? Will you crumble early on? No time for chatting, get your ass outta there and actually do something!",
+ 
+	        "introduction": "Hallo, I am Bamboolord, the king of all Bamboos in the world, I hope we can prosper in peace as neighbors",
+	        "declaringWar": "Don't worry, it's just defensive measurements",
+     	        "attacked": "This shall end quickly, if you either really know what you're doing or the literal opposite",
+		"afterPeace": "One front ends, another will follow",
+		"defeated": "You had an advantage from the start of the game, this was not fair",
+           	"neutralHello": "Moin, have a nice day",
+    	        "hateHello": "Get lost!",
+    	        "tradeRequest": "This is definately a good offer for you, no scam intended",
 
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
 		"uniqueName": "King of all Bamboo",
-		"uniques": ["[+1 Culture] from every [Scientist]","[+1 Gold, +1 Production] from [Jungle] tiles without [Trading post] [in all cities]"],
+		"uniques": ["[+1 Culture] from every [Scientist]","Starts with [Honor] adopted","[+3 Science] from each Trade Route"],
 
-		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Doing Science don't distract", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Eighth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
+		"cities": ["Bamboodail", "Bambooport", "Walled Community", "Jungle strikes first", "Science best stat", "Defensive Measurements", "Maybe an Airstrip", "Deutscher Stadtname", "Ninth City", "Runninglowonideas", "Still Standing", "Who needs this", "many cities"]
   },
 //EmperorPenguin
   {
@@ -173,7 +221,7 @@
 		"tradeRequest": "I've got a deal for you:",
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Each city founded increases culture cost of policies [33]% less than normal"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Gold] from every [Fishing Boats]"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
 				"Blizzard Heights","Penguin Key","Pelican Point","Sandy Shores","Palm Penguin",
@@ -190,7 +238,7 @@
 		"outerColor": [41, 41, 41],    
                 "innerColor": [213, 112, 3],
 
-		"startBias": ["Desert"],
+		"startBias": ["Coast","Desert"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "The Church of the Daring Flame",
 	  
@@ -209,7 +257,15 @@
     	"tradeRequest": "This trade is beneficial to both of us",
 		
 		"uniqueName": "Fruit of the Badlands",
-		"uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>"],
+		"uniques": ["[+1 Food] from [Desert] tiles [in all cities] <in tiles without [Flood plains]> <in tiles without [Oasis]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Classical era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Medieval era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Renaissance era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Industrial era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Modern era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Atomic era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Information era]>",
+			   "[+1 Production] [in all cities] <in [Desert] tiles> <starting from the [Future era]>",],
 
 		"cities": ["Dragonheart","Caldera","ignis Castellon","Dardraca Crater","Ignatia","Pyropolis",
 					"Scorchtown","Ashenforge","Dragonspire","Infernocrest","Smolderhaven",
@@ -238,10 +294,10 @@
 	"hateHello": "Are you still in this side of the Acheron?\nWhat do you want?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
-	"outerColor": [255, 188, 0],
-	"innerColor": [255, 255, 255],
+	"outerColor": [255, 255, 255],
+	"innerColor": [255, 188, 32],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>"],
+	"uniques": ["[+1 Science] from every [Mine] <in [Tundra] tiles>", "[+1 Science] from every [Quarry] <in [Tundra] tiles>", "[+1 Culture] from every [Camp] <in [Tundra] tiles>", "[+1 Culture] from every [Pasture] <in [Tundra] tiles>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
@@ -278,7 +334,7 @@
 	"innerColor":[255,255,255],
 	
 	"uniqueName":"Colonial Trading",
-	"uniques":["[+2 Happiness][in puppeted cities]","[+10]% [Gold][in puppeted cities]","[+25]% [Gold] from Trade Routes","[+1 Science] from each Trade Route"],
+	"uniques":["[+2 Happiness] [in puppeted cities]","[+10]% [Gold] [in puppeted cities]","[+25]% [Gold] from Trade Routes","[+1 Science] from each Trade Route"],
 	"cities":["Varinsburg","Elcontaran","Fort Nortea","Fort Klive",
 		"Althersburg","Semiran","Fort Ironstone","Fort Ygnaz","Boran"
 		,"Fort Gorianea","Heerburg","Helian","Fort Outer-Terion","Fort Ferii"]
@@ -319,7 +375,7 @@
 		"name": "Thuntopia",
 		"leaderName": "Thunder Crims",
 		"adjective": ["Thuntopian"],
-		"startBias": ["Avoid [Snow]"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
@@ -334,11 +390,11 @@
 
 		"tradeRequest": "I think you'll like this deal.",
 
-		"outerColor": [38, 181, 25],
-		"innerColor": [0, 43, 4],
+		"outerColor": [106, 62, 49],
+		"innerColor": [0, 71, 1],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
-		"uniques":["[+33]% [Production] [in all cities] <for [10] turns> <upon declaring war with a major Civilization>"]
+		"uniques":["Empire enters golden age <upon conquering a city>", "[Sword] units gain the [Unrelenting] promotion"]
 		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
 			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
@@ -365,5 +421,232 @@
 "uniqueName": "Last ditch",
 "uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>","[2] free [Stormer] units appear <after discovering [Plastics]>","Cannot build [Settler] units"],
 "cities": ["San Andor"],
- }
+ },
+	//VividVale 
+    {
+        "name": "VividVale",
+        "leaderName": "TCube",
+        "adjective": ["VividValian"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Scientific",
+        "favoredReligion": "Christianity",
+
+        "startIntroPart1": "Do good.",
+        "startIntroPart2": "Can you protect cultures? Will you build a civilization that stands the test of time?",
+        "declaringWar": "I'm sorry, but you threaten the peace and balance of this world.",
+        "attacked": "Aha! Look at that little leader with their war declaration! Good job mate, show how really evil you are.",
+        "defeated": "VividVale has collapsed. We will respect you if you respect us.",
+        "introduction": "Henala! We are VividVale and we hope to make many allies",
+        "neutralHello": "Hello mate.",
+        "hateHello": "Syth do Erha Ubhun!",
+        "tradeRequest": "Want to make a deal?",
+
+        "outerColor": [29, 92, 17],
+        "innerColor": [210, 136, 7],
+
+        "uniqueName": "Southern Stars",
+        "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
+        "cities": ["Vividstrone","Railak","Daybo River","Coleston","Narravale","Sveg",
+            "Ngurri", "Bensberg","Manstown","Once-Upon-Time","Lacoa","Good-City"]
+},
+        //Rakhvia
+	{
+		"name": "Rakhvia",
+		"leaderName": "Grason",
+		"adjective": ["Rakhvian"],
+		"startBias": ["Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [250, 0, 100],
+		"innerColor": [0, 43, 4],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Race with the clock",
+		"uniques":["All newly-trained [relevant] units [in all cities] receive the [Mobility] promotion"],
+		"cities":["Rakhvia1","Rakhvia2","Rakhvia3","Rakhvia4","Rakhvia5","Rakhvia6","Rakhvia7","Jaminishian","Dunsmaeyer","Hexor",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+},
+//What should everyone calk you?
+{
+        "name": "Sharded  Civ",
+        "leaderName": "Alpha-2",
+        "adjective": ["Former Galactic"],
+	"startBias": ["Tundra"],
+	"preferredVictoryType": "Scientific",
+
+
+        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+
+        "introduction": "Hi.",
+        "declaringWar": "Die!",
+         "attacked": "Why why are u doin this?\nSo u have chosen death.",
+        "afterPeace": "Finnaly peace\nI dont like u.",
+        "defeated": "Nooooo :(",
+         "neutralHello": "Hello my friend, wanna trade with me?",
+        "hateHello": "Get lost!",
+        "tradeRequest": "Hi, wanna trade?",
+	
+	"outerColor": [87, 113, 108],
+        "innerColor": [69, 204, 48],
+        
+        "uniqueName": "Type 3 civilization",
+        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
+	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
+			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+  },
+  
+    {
+		"name": "Absolute Union",
+		"leaderName": "Letstalkaboutdune",
+		"adjective": ["Absolutist"],
+		"outerColor": [47, 23, 69],
+		"innerColor": [210, 194, 155],
+		"style": "Absolutist",
+
+		"startBias": ["Forest","Jungle"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Absolute Aesthetics",
+	  
+		"startIntroPart1": "Greetings, leader Dune of your prosperous commune. A hub for all things aesthetic, your civilization emerged as a haven for producing great artists and their works.",
+		"startIntroPart2": "Can you stand tall against the uncultured hordes who hope to crush your precious peace? The worms rest deep in their burrows, ready to be called upon if needed to protect your path to victory.",
+ 
+	    "introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
+	    "declaringWar": "My giant worms will turn you into compost!",
+     	"attacked": "Curse your sudden, but inevitable betrayal!",
+		"afterPeace": "Finally, I can get back to my pixels.",
+		"defeated": "Guess I should've built more units.",
+
+     	"neutralHello": "Hi there.",
+    	"hateHello": "You again?",
+
+    	"tradeRequest": "May I interest you in these fine pieces?",
+		
+		"uniqueName": "Absolute Artists",
+		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]", "[Great Artist] is earned [50]% faster"],
+
+		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
+  },
+//Rize
+{
+        "name": "Cadari Republik",
+        "leaderName": "Rize",
+        "adjective": ["Cadarian"],
+	"startBias": ["Grassland"],
+	"preferredVictoryType": "Cultural",
+
+
+        "startIntroPart1": "Greetings, President of the Republik.",
+        "startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
+
+        "introduction": "Hi.",
+        "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
+         "attacked": "We will not falter nor surrender, we will fight for our nation.",
+        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
+         "neutralHello": "Pleased to see you.",
+        "hateHello": "What brings you here? Make it quick.",
+        "tradeRequest": "This is an offer you would certainly like, please consider it",
+	
+	"outerColor": [250, 250, 250],
+        "innerColor": [50, 200, 250],
+        
+        "uniqueName": "Nationalistic Fervor",
+        "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
+  },
+
+// Faw of The Not Guy Fawkes
+	{
+		"name": "The Not Guy Fawkes",
+		"leaderName": "Faw",
+		"adjective": ["Fauus"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "So why should I greet you? Neither you're Guy Fawkes, nor are you a famous man. Why bother?",
+		"startIntroPart2": "Even so, you choose to play ain't you? So be it. Enjoy the game and good luck!",
+		
+		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Us, The NOT Guy Fawkes!",
+		"attacked": "Peace was never an option.",
+		"defeated": "Heleh.. Yo wis.",
+		"afterPeace": "Are we done? If we done, we done.",
+		"introduction": "No system is safe. But worry not, I can safe your money if you want to.",
+		
+		"neutralHello": "Sae kabare?",
+		"hateHello": "Mbuh ra ruh.",
+		"tradeRequest": "I'm a fair man, this is a fair offer.",
+		
+		"outerColor": [251,236,127],
+		"innerColor": [146, 74,  1],
+		"uniqueName": "Anuanuemas",
+		"uniqueText": "+50% Yield from every Luxury resource \n+1 [Gold] per each type of Luxury resource owned",
+		"uniques": ["[+50]% Yield from every [Luxury resource]", 
+					"[+1 Gold] <with [Citrus]>", 
+					"[+1 Gold] <with [Copper]>", 
+					"[+1 Gold] <with [Cotton]>", 
+					"[+1 Gold] <with [Dyes]>", 
+					"[+1 Gold] <with [Furs]>", 
+					"[+1 Gold] <with [Gems]>", 
+					"[+1 Gold] <with [Gold Ore]>", 
+					"[+1 Gold] <with [Incense]>", 
+					"[+1 Gold] <with [Ivory]>", 
+					"[+1 Gold] <with [Marble]>", 
+					"[+1 Gold] <with [Salt]>", 
+					"[+1 Gold] <with [Silk]>", 
+					"[+1 Gold] <with [Silver]>", 
+					"[+1 Gold] <with [Spices]>", 
+					"[+1 Gold] <with [Sugar]>", 
+					"[+1 Gold] <with [Truffles]>", 
+					"[+1 Gold] <with [Wine]>", 
+					"[+1 Gold] <with [Crab]>", 
+					"[+1 Gold] <with [Pearls]>", 
+					"[+1 Gold] <with [Whales]>", 
+					"[+1 Gold] <with [Jewelry]>", 
+					"[+1 Gold] <with [Porcelain]>", 
+					"[+1 Gold] <with [Arepa]>", 
+					"[+1 Gold] <with [White Coffee]>"],
+		"cities": ["Guy Not Fawkes","Regalia","Alion","Gatland","Vinia","Sibisia","Mogrim","Khemul","Ekh-krak","Suulak",
+			"Srandal","La Wang","Klosso","Pi-Ring","Sentir"],
+	},
+// Ravignir
+    {
+        "name": "Clownish Commonwealth",
+        "leaderName": "Ravignir",
+        "adjective": ["Funny"],
+		"startBias": ["Avoid [Coast]"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "Welcome, O'Great Conqueror, the Destroyer of Hopes, the Unstoppable Scientist and amongst all - the Master of Clowns.",
+        "startIntroPart2": "You'are trully a legend, Your name causes people to tremble. Can you live up to it? Can you reign supreme over the world?",
+
+        "introduction": "Good day, let's be friends uWu",
+        "declaringWar": "Sorry, I had to XDDD",
+        "attacked": "Lol, just die XDDD",
+        "defeated": "Do I look like a clown?. Apparently, so.",
+         "neutralHello": "Yes?",
+        "hateHello": "!?!?!",
+        "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
+	
+		"outerColor": [39, 17, 51],
+        "innerColor": [181, 211, 255],
+        
+        "uniqueName": "Clownfiesta",
+        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
+        "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
+    },
 ]

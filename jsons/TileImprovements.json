@@ -1,16 +1,29 @@
 [
 	{
+		"name": "Arepa House",
+		"uniqueTo": "Arepandia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"[+2 Food, +2 Culture, +1 Gold]",
+			"[+1 Gold] <within [1] tiles of a [Great Improvement]>",
+			"[+1 Food, +1 Production] <starting from the [Industrial era]>"
+			"Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
+			    "Pillaging this improvement yields approximately [+25 Gold]"]
+	},
+	{
 		"name": "Arepa Stand",
+		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
-			    "Limited to [3] per Civilization",
-			    "Pillaging this improvement yields approximately [+15 Gold]"]
+			    "Consumes [1] [Flour]",
+			    "Pillaging this improvement yields approximately [+25 Gold]"]
 	},
 	{
 		"name": "Rainbow Plantation",
+		"uniqueTo": "Duchy of Arepandia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Great Improvement", "Provides [1] [White Coffee]","Can be built outside your borders",
-			    "Limited to [3] per Civilization",
+			    "Consumes [1] [Flour]",
 			    "Does not need removal of [Jungle]","Pillaging this improvement yields approximately [+50 Gold]"]
 	}
 ]
