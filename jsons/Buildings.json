@@ -151,7 +151,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Must be on [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities] <when below [0] Happiness>"]
+		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities] <when below [0] Happiness>"]
 	},
 //EmperorPenguin civ
 {
