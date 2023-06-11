@@ -148,7 +148,7 @@
 		"name": "Katorga",
 		"uniqueTo":"Aleksandria",
 		"cost": 120,
-		"maintenance": 1,
+		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
 		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities] <when below [0] Happiness>"]
