@@ -165,16 +165,6 @@
 			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "[+1 Science] per [3] social policies adopted"],
 		"requiredTech": "Optics"
 	},
-	{
-		"name": "Aquarium",
-		"replaces": "Circus",
-		"uniqueTo": "Penguinesia",
-		"requiredNearbyImprovedResources": ["Fish","Pearls","Crab"],
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"uniques": ["Available with Fish, Pearls, Crab", "Unlocked at Sailing"],
-		"requiredTech": "Sailing"
-	},
 	//Firelord
 	{
 		"name": "Naval Forge",
