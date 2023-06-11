@@ -221,7 +221,7 @@
 		"tradeRequest": "I've got a deal for you:",
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","Each city founded increases culture cost of policies [33]% less than normal"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Gold] from every [Fishing Boats]"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
 				"Blizzard Heights","Penguin Key","Pelican Point","Sandy Shores","Palm Penguin",
@@ -238,7 +238,7 @@
 		"outerColor": [41, 41, 41],    
                 "innerColor": [213, 112, 3],
 
-		"startBias": ["Coast","Desert"],
+		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "The Church of the Daring Flame",
 	  
@@ -251,7 +251,7 @@
 		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
 		"defeated": "The Imperiums ambitions were too daring, now our flame has been extinguished...",
 
-     	"neutralHello": "greetings",
+     	"neutralHello": "Greetings",
     	"hateHello": "Are you here to pay tribute?",
 
     	"tradeRequest": "This trade is beneficial to both of us",
