@@ -619,8 +619,7 @@
 					"[+1 Gold] <with [Whales]>", 
 					"[+1 Gold] <with [Jewelry]>", 
 					"[+1 Gold] <with [Porcelain]>", 
-					"[+1 Gold] <with [Arepa]>", 
-					"[+1 Gold] <with [White Coffee]>"],
+					"[+1 Gold] <with [Arepa]>"],
 		"cities": ["Guy Not Fawkes","Regalia","Alion","Gatland","Vinia","Sibisia","Mogrim","Khemul","Ekh-krak","Suulak",
 			"Srandal","La Wang","Klosso","Pi-Ring","Sentir"],
 	},
@@ -649,5 +648,38 @@
         "uniqueName": "Clownfiesta",
         "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
         "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
+    },
+// PrussiAcid
+    {
+        	"name": "New Prussia",
+        	"leaderName": "PrussiAcid",
+        	"adjective": ["New Prussian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+        	"startIntroPart1": "Ashes to Ashes, Dust to Dust. We won't let the legasy of Germania turn to Rust.",
+        	"startIntroPart2": "Even so, Omega has failed. It's time to deside, whether you will krumble or prevail...",
+
+        	"introduction": "A new face, pertshanse?",
+        	"declaringWar": "The Konskript's bloodlust has taken shape, prepare yourself for war!",
+        	"attacked": "Boah! I will beat you 'til yer eyes glaze over!",
+        	"defeated": "You may think yerself safe, but be it in this life, or the next, or the one after that; I'll have your head, and I'll have it on a plate!",
+         	"neutralHello": "Go for it.",
+        	"hateHello": "Do I need Koershion?",
+        	"tradeRequest": "This is a fair trade, review it as sutsh.",
+	
+		"outerColor": [23, 16, 9],
+		"innerColor": [249, 200, 86],
+        
+        	"uniqueName": "Kaiser and Konquest",
+        	"uniques": ["Units of the Modern Era have 75% more strength against units of the Atomic Era and 150% more strength against units in the Information Era or later. (Not implemented)"],
+        "cities": ["Trentsh Town","Ravensmear","Kranberri","Fernesi","Königsberg","Akkenheimer","Krieg","Kampfflieger","Rote","Breslau","Wroklaw",
+			"Kurtzberg","Fort Tundra","Dreston","Brandt","NeuBrandenburg","Ragenteeg","Karbrow","Fegalkiete","Aubernbury",
+			"Montagerburt","Rohbenheit","Kirentagh","Linderhielle","Kiarglin","Drieb","Berße","Ilkert","Wuntingkraut","Krinterhaus",
+			"Greatahn","Karkk","Kastell","Notsh","Hammville","Nogger","NeuKranberri","Dylan's Haus","Hotters","Drusselstein",
+			"Brick","Hueterkönig","Point Alpha","Point Beta","Point Gamma","Point Delta","Point Epsilon","Point Theta","Point Psi",
+			"Point Kurtz","Point Zeta","Point Pi","Point Omicron","Point Omega","Iturnil Suhfaring"],
+        "spyNames": ["Josh", "Dylan", "Wilhelm", "Kriegan", "Hans", "Horst", "Rehpostin", "Kaleb", "Nickerson", "Tshighur"]
     },
 ]
