@@ -5,15 +5,4 @@
 		"resourceType": "Luxury",
 		"uniques": ["[+5]% [Food] [in all cities]","[+5]% [Culture] [in all cities]"]
 	},
-	{
-		"name": "White Coffee",
-		"resourceType": "Luxury",
-		"uniques": ["[+10]% [Happiness] [in all cities]","[-10]% [Production] [in all cities]",
-					"Will not be displayed in Civilopedia"]
-	},
-	{
-		"name": "Flour",
-		"resourceType": "Bonus",
-		"uniques": ["Use this Flour based on Corn to make either delicious, nutritive and glorious Arepas, or extravagant, joyful and entertaining coke"]
-	},
 ]
