@@ -673,7 +673,7 @@
 		"innerColor": [249, 200, 86],
         
         	"uniqueName": "Kaiser and Konquest",
-        	"uniques": ["Units of the Modern Era have 75% more strength against units of the Atomic Era and 150% more strength against units in the Information Era or later. (Not implemented)"],
+        	"uniques": ["[75]% Strenght <for [Modern era] units> <vs [Atomic era] units>","[150]% Strenght <for [Modern era] units> <vs [Information era] units>"],
         "cities": ["Trentsh Town","Ravensmear","Kranberri","Fernesi","Königsberg","Akkenheimer","Krieg","Kampfflieger","Rote","Breslau","Wroklaw",
 			"Kurtzberg","Fort Tundra","Dreston","Brandt","NeuBrandenburg","Ragenteeg","Karbrow","Fegalkiete","Aubernbury",
 			"Montagerburt","Rohbenheit","Kirentagh","Linderhielle","Kiarglin","Drieb","Berße","Ilkert","Wuntingkraut","Krinterhaus",
