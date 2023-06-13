@@ -25,7 +25,7 @@
 		"tradeRequest": "Wanna some aditional arepas?",
 		
 		"uniqueName": "Uplifting Arepas",
-		"uniques": ["[+1] Movement <for [Land] units> <with [Arepa]>"
+		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>"
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
 
