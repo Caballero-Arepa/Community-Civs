@@ -362,4 +362,32 @@
 		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
 		"attackSound": "elephant"
 	},
+// New Prussia
+	{
+		"name": "Konskript",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "New Prussia",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hirudinea",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "New Prussia",
+		"movement": 3,
+		"strength": 200,
+		"cost": 450,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"promotions": ["March"],
+		"attackSound": "gdrAttack"
+	},
 ]
