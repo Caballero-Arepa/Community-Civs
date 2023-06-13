@@ -293,12 +293,12 @@
 // Ravignir
     {
 		"name": "Clown Alley",
-		"replaces": "Circus",
+		"replaces": "Colosseum",
 		"uniqueTo": "Clownish Commonwealth",
 		"happiness": 2,
 		"gold": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Trapping",
-		"uniques": ["Can be build anywhere"],
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"requiredTech": "Construction",
 	},
 ]
