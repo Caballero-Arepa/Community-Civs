@@ -25,12 +25,12 @@
 		"tradeRequest": "Wanna some aditional arepas?",
 		
 		"uniqueName": "Uplifting Arepas",
-		"uniques": ["[+1] Movement <in [Hill] tiles> <with [Arepa]>",
+		"uniques": [
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
 
-		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Tumbabudare",
-			   "Patacón","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
+		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
+			   "Tumbabudare","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Santander","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
 			  ]
