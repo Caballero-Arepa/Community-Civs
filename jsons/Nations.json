@@ -649,6 +649,31 @@
         "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
         "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
     },
+	{
+        "name": "Principality of Vinroth",
+        "leaderName": "Veldreth",
+        "adjective": ["Vinrothian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "All hail, Veldreth, Prince Stalwart of Principality of Vinroth, realm shrouded in darkness and despair. In the face of overwhelming adversity, you have risen to power, defying the odds with unmatched determination. Your intellect and understanding of your people's fears and flaws made you the beacon of hope they desperately sought. It is your resilient spirit that brought light to this shadowed realm. While the world around you faltered and struggled, your principality thrived amidst the desolation and sorrow as the last bastion of humanity. Without your guidance, your people were doomed to succumb to terrors of the world around. ",
+        "startIntroPart2": "The world looks upon you with anticipation. Will you rise above the despair that engulfs us, defy the odds and forge a civilization that will stand the test of time? ",
+
+        "introduction": "Fear not, I am Veldreth, Prince of Vinroth. I am here to lead people through the shadows into a brighter future.",
+        "declaringWar": "Beware, for I shall unleash all my fury upon you!",
+        "attacked": "Prepare to face my wrath! We will defend with unwavering resolve!",
+        "defeated": "The spirit of resilience burns within us still. We shall rise again, from the ashes of defeat, and reclaim what is rightfully ours!",
+         "neutralHello": "Do you need anything?",
+        "hateHello": "What do you want, be quick!",
+        "tradeRequest": "I bring you light! Together, we can overcome the darkness that engulfs us.",
+	
+		"outerColor": [11, 33, 28],
+        "innerColor": [167, 153, 186],
+        
+        "uniqueName": "We Bring the Light",
+        "uniques": ["[+1 Happiness] in cities on [Fresh Water] tiles", "[Civilian] units gain the [Ignore terrain cost] promotion", "[+1] Sight <for [{Civilian} {Land}] units>"],
+        "cities":["Grimtown","Ashmore","Whipstead","Doomsreach","Harshgard","Mournburg","Plaguehelm","Dreadmoor","Sorrowdale","Filthlair","Cindergate","Screamvile","Bloodcreek","Duskfall","Blightfen","Scumhaven","Hopeleap","Wraithtall","Gloombridge"],
+    },
 // PrussiAcid
     {
         	"name": "New Prussia",

@@ -24,4 +24,9 @@
 		"name": "Botanic Expedition",
 		"uniques": ["Ignores terrain cost", "[20]% Strength <vs [Barbarian] units>", "May enter foreign tiles without open borders"]
 	},
+	// Principality of Vinroth
+	{
+		"name": "[Bounty Hunter] ability", // only for Bounty Hunter and subsequent upgrades
+		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+	},
 ]
