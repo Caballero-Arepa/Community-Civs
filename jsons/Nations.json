@@ -222,13 +222,13 @@
 		"tradeRequest": "I've got a deal for you.",
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+2 Gold] from every [Fishing Boats]"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Production] from every [Fishing Boats]"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
-				"Blizzard Heights","Penguin Key","Pelican Point","Sandy Shores","Palm Penguin",
-				"Fisherman's Flats","Blue Lagoon","Sunspot City","Penguinport","Flapflats",
+				"Blizzard Heights","Flipper Beach","Penguinport","Sandy Shores","Palm Penguin","Antarctic Bay",
+				"Fisherman's Flats","Blue Lagoon","Pelican Point","Sunspot City","Penguin Key","Flapflats",
 				"Seaside Sands","Flamingo Bay","Waddleton","Archipenguine","Snowsquall",
-				"Tundratropolis","Iceberg City","Surfside City","Antarctic Bay","Flipper Beach",
+				"Tundratropolis","Iceberg City","Surfside City",
 				"Glacierside","Penguintopia","Coral Cove","Tropicool","Icicletown"]
   },
   //Firelord
