@@ -212,7 +212,7 @@
 		"requiredTech": "Theology",
 		"maintenance": 1,
 		"hurryCostModifier": 30,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]",
+		"uniques": ["[+25]% Great Person generation [in this city]",
 			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
 	//AU Dune
