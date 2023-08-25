@@ -404,4 +404,22 @@
 		"promotions": ["March"],
 		"attackSound": "gdrAttack"
 	},
+	//Arkistia
+	{
+		"name": "Raptor Rider",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"uniqueTo": "Arkistia",
+		"movement": 4,
+		"strength": 12,
+		"cost": 90,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+5] Strenght <when fighting in [Jungle] tiles>","Double movement in [Jungle]",
+		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]

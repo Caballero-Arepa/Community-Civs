@@ -301,4 +301,17 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Construction",
 	},
+	//Arkistia
+	{
+		"name": "Fossil Market",
+		"replaces": "Bank",
+		"uniqueTo": "Arkistia",
+		"gold": 3,
+		"science": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 ]

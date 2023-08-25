@@ -708,4 +708,17 @@
 			"Point Kurtz","Point Zeta","Point Pi","Point Omicron","Point Omega","Iturnil Suhfaring"],
         "spyNames": ["Josh", "Dylan", "Wilhelm", "Kriegan", "Hans", "Horst", "Rehpostin", "Kaleb", "Nickerson", "Tshighur"]
     },
+	//Gafaszt2
+    {
+        	"name": "Arkistia",
+        	"leaderName": "Gafaszt2",
+		"startBias": ["Jungle"],
+		"outerColor": [79, 0, 158],
+		"innerColor": [233, 92, 170],
+        
+        	"uniqueName": "Fury of the Arks",
+        	"uniques": ["[+10]% tile improvement construction time",
+			"[+15]% Golden Age length","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
+        "cities": ["Arkistia","Paeolitic","Grandpas House","Jurassic Park","Ark Base","Megalodon"]
+    },
 ]
