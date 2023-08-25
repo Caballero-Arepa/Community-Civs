@@ -139,7 +139,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities] <when below [0] Happiness>"]
+		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+10]% [Production] [in all cities] <when below [0] Happiness>"]
 	},
 //EmperorPenguin civ
 {
@@ -200,7 +200,7 @@
 		"requiredTech": "Theology",
 		"maintenance": 1,
 		"hurryCostModifier": 30,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]",
+		"uniques": ["[+25]% Great Person generation [in this city]",
 			    "[+1 Production] from [Bonus resource] tiles [in this city]"]
 	},
 	//AU Dune
@@ -281,12 +281,25 @@
 // Ravignir
     {
 		"name": "Clown Alley",
-		"replaces": "Circus",
+		"replaces": "Colosseum",
 		"uniqueTo": "Clownish Commonwealth",
 		"happiness": 2,
 		"gold": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Trapping",
-		"uniques": ["Can be build anywhere"],
+		"maintenance": 0,
+		"hurryCostModifier": 0,
+		"requiredTech": "Construction",
+	},
+	//Arkistia
+	{
+		"name": "Fossil Market",
+		"replaces": "Bank",
+		"uniqueTo": "Arkistia",
+		"gold": 3,
+		"science": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	},
 ]

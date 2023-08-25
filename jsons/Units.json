@@ -337,4 +337,64 @@
 		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
 		"attackSound": "elephant"
 	},
+	{
+		"name": "Bounty Hunter",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Principality of Vinroth",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["[Bounty Hunter] ability", "Mobility"],
+		"attackSound": "shot"
+	},
+// New Prussia
+	{
+		"name": "Konskript",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "New Prussia",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 50,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hirudinea",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "New Prussia",
+		"movement": 3,
+		"strength": 200,
+		"cost": 450,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"promotions": ["March"],
+		"attackSound": "gdrAttack"
+	},
+	//Arkistia
+	{
+		"name": "Raptor Rider",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"uniqueTo": "Arkistia",
+		"movement": 4,
+		"strength": 12,
+		"cost": 90,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+5] Strenght <when fighting in [Jungle] tiles>","Double movement in [Jungle]",
+		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]

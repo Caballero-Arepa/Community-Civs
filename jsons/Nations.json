@@ -25,13 +25,13 @@
 		"tradeRequest": "Wanna some aditional arepas?",
 		
 		"uniqueName": "Uplifting Arepas",
-		"uniques": ["Units ignore terrain costs when moving into any tile with Hills <with [Arepa]>",
+		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>"
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
 
-		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Tumbabudare",
-			   "Patacón","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
-			   "Bogotana de Arepas","Finca Paisa","E'uevo","Santander","Casabe","Arepuela","Carioca","Chanfa",
+		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
+			   "Mogolla","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
+			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
 			  ]
   },
@@ -190,13 +190,13 @@
 		"tradeRequest": "I've got a deal for you.",
 		
 		"uniqueName": "Sovereign of the Seven Seas",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+2 Gold] from every [Fishing Boats]"],
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>","[+1 Production] from every [Fishing Boats]"],
 
 		"cities": ["Penguinville","Chillhaven","Penguino Bay","Frostfjord","Pebblebeach",
-				"Blizzard Heights","Penguin Key","Pelican Point","Sandy Shores","Palm Penguin",
-				"Fisherman's Flats","Blue Lagoon","Sunspot City","Penguinport","Flapflats",
+				"Blizzard Heights","Flipper Beach","Penguinport","Sandy Shores","Palm Penguin","Antarctic Bay",
+				"Fisherman's Flats","Blue Lagoon","Pelican Point","Sunspot City","Penguin Key","Flapflats",
 				"Seaside Sands","Flamingo Bay","Waddleton","Archipenguine","Snowsquall",
-				"Tundratropolis","Iceberg City","Surfside City","Antarctic Bay","Flipper Beach",
+				"Tundratropolis","Iceberg City","Surfside City",
 				"Glacierside","Penguintopia","Coral Cove","Tropicool","Icicletown"]
   },
   //Firelord
@@ -451,7 +451,7 @@
 },
 //What should everyone calk you?
 {
-        "name": "Sharded  Civ",
+        "name": "Sharded Civ",
         "leaderName": "Alpha-2",
         "adjective": ["Former Galactic"],
 	"startBias": ["Tundra"],
@@ -587,8 +587,7 @@
 					"[+1 Gold] <with [Whales]>", 
 					"[+1 Gold] <with [Jewelry]>", 
 					"[+1 Gold] <with [Porcelain]>", 
-					"[+1 Gold] <with [Arepa]>", 
-					"[+1 Gold] <with [White Coffee]>"],
+					"[+1 Gold] <with [Arepa]>"],
 		"cities": ["Guy Not Fawkes","Regalia","Alion","Gatland","Vinia","Sibisia","Mogrim","Khemul","Ekh-krak","Suulak",
 			"Srandal","La Wang","Klosso","Pi-Ring","Sentir"],
 	},
@@ -617,5 +616,77 @@
         "uniqueName": "Clownfiesta",
         "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
         "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
+    },
+	{
+        "name": "Principality of Vinroth",
+        "leaderName": "Veldreth",
+        "adjective": ["Vinrothian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "All hail, Veldreth, Prince Stalwart of Principality of Vinroth, realm shrouded in darkness and despair. In the face of overwhelming adversity, you have risen to power, defying the odds with unmatched determination. Your intellect and understanding of your people's fears and flaws made you the beacon of hope they desperately sought. It is your resilient spirit that brought light to this shadowed realm. While the world around you faltered and struggled, your principality thrived amidst the desolation and sorrow as the last bastion of humanity. Without your guidance, your people were doomed to succumb to terrors of the world around. ",
+        "startIntroPart2": "The world looks upon you with anticipation. Will you rise above the despair that engulfs us, defy the odds and forge a civilization that will stand the test of time? ",
+
+        "introduction": "Fear not, I am Veldreth, Prince of Vinroth. I am here to lead people through the shadows into a brighter future.",
+        "declaringWar": "Beware, for I shall unleash all my fury upon you!",
+        "attacked": "Prepare to face my wrath! We will defend with unwavering resolve!",
+        "defeated": "The spirit of resilience burns within us still. We shall rise again, from the ashes of defeat, and reclaim what is rightfully ours!",
+         "neutralHello": "Do you need anything?",
+        "hateHello": "What do you want, be quick!",
+        "tradeRequest": "I bring you light! Together, we can overcome the darkness that engulfs us.",
+	
+		"outerColor": [11, 33, 28],
+        "innerColor": [167, 153, 186],
+        
+        "uniqueName": "We Bring the Light",
+        "uniques": ["[+1 Happiness] in cities on [Fresh Water] tiles", "[Civilian] units gain the [Ignore terrain cost] promotion", "[+1] Sight <for [{Civilian} {Land}] units>"],
+        "cities":["Grimtown","Ashmore","Whipstead","Doomsreach","Harshgard","Mournburg","Plaguehelm","Dreadmoor","Sorrowdale","Filthlair","Cindergate","Screamvile","Bloodcreek","Duskfall","Blightfen","Scumhaven","Hopeleap","Wraithtall","Gloombridge"],
+    },
+// PrussiAcid
+    {
+        	"name": "New Prussia",
+        	"leaderName": "PrussiAcid",
+        	"adjective": ["New Prussian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+        	"startIntroPart1": "Ashes to Ashes, Dust to Dust. We won't let the legasy of Germania turn to Rust.",
+        	"startIntroPart2": "Even so, Omega has failed. It's time to deside, whether you will krumble or prevail...",
+
+        	"introduction": "A new face, pertshanse?",
+        	"declaringWar": "The Konskript's bloodlust has taken shape, prepare yourself for war!",
+        	"attacked": "Boah! I will beat you 'til yer eyes glaze over!",
+        	"defeated": "You may think yerself safe, but be it in this life, or the next, or the one after that; I'll have your head, and I'll have it on a plate!",
+         	"neutralHello": "Go for it.",
+        	"hateHello": "Do I need Koershion?",
+        	"tradeRequest": "This is a fair trade, review it as sutsh.",
+	
+		"outerColor": [23, 16, 9],
+		"innerColor": [249, 200, 86],
+        
+        	"uniqueName": "Kaiser and Konquest",
+        	"uniques": ["[+75]% Strength <for [Modern era] units> <vs [Atomic era] units>",
+			"[+150]% Strength <for [Modern era] units> <vs [Information era] units>"],
+        "cities": ["Trentsh Town","Ravensmear","Kranberri","Fernesi","Königsberg","Akkenheimer","Krieg","Kampfflieger","Rote","Breslau","Wroklaw",
+			"Kurtzberg","Fort Tundra","Dreston","Brandt","NeuBrandenburg","Ragenteeg","Karbrow","Fegalkiete","Aubernbury",
+			"Montagerburt","Rohbenheit","Kirentagh","Linderhielle","Kiarglin","Drieb","Berße","Ilkert","Wuntingkraut","Krinterhaus",
+			"Greatahn","Karkk","Kastell","Notsh","Hammville","Nogger","NeuKranberri","Dylan's Haus","Hotters","Drusselstein",
+			"Brick","Hueterkönig","Point Alpha","Point Beta","Point Gamma","Point Delta","Point Epsilon","Point Theta","Point Psi",
+			"Point Kurtz","Point Zeta","Point Pi","Point Omicron","Point Omega","Iturnil Suhfaring"],
+        "spyNames": ["Josh", "Dylan", "Wilhelm", "Kriegan", "Hans", "Horst", "Rehpostin", "Kaleb", "Nickerson", "Tshighur"]
+    },
+	//Gafaszt2
+    {
+        	"name": "Arkistia",
+        	"leaderName": "Gafaszt2",
+		"startBias": ["Jungle"],
+		"outerColor": [79, 0, 158],
+		"innerColor": [233, 92, 170],
+        
+        	"uniqueName": "Fury of the Arks",
+        	"uniques": ["[+10]% tile improvement construction time",
+			"[+15]% Golden Age length","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
+        "cities": ["Arkistia","Paeolitic","Grandpas House","Jurassic Park","Ark Base","Megalodon"]
     },
 ]

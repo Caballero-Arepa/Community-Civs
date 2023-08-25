@@ -10,4 +10,21 @@
 			"Great Improvement","Provides [1] [Arepa]", "Does not need removal of [All]",
 			    "Pillaging this improvement yields approximately [+25 Gold]"]
 	},
+	{
+		"name": "Hamlet",
+		"uniqueTo": "Principality of Vinroth",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 1,
+		"turnsToBuild": 9,
+		"uniques": ["Cannot be built on [Bonus resource] tiles",
+					"Cannot be built on [Luxury resource] tiles",
+					"Cannot be built on [Strategic resource] tiles",
+					"[+1 Food] for each adjacent [Bonus resource]",
+					"[+1 Gold] for each adjacent [Luxury resource]",
+					"[+1 Production] for each adjacent [Strategic resource]",
+					"[+1 Science] <after adopting [Free Thought]>",
+					"Pillaging this improvement yields approximately [+36 Gold]"],
+		"techRequired": "Engineering",
+		"shortcutKey": "H"
+	},
 ]
