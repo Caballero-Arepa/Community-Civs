@@ -35,38 +35,6 @@
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
 			  ]
   },
-  { //Old
-		"name": "Duchy of Arepandia",
-		"leaderName": "Caballero Arepa",
-		"adjective": ["Arepino"],
-		"outerColor": [74, 64, 58],
-		"innerColor": [255, 192, 105],
-		"style": "Arepino",
-
-		"startBias": ["Mountain"],
-		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Arepas Supremas",
-	  
-		"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
-		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph you shall have.",
- 
-	    "introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
-	    "declaringWar": "*Alright God, please not another Stalingrad battle*",
-     	"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
-		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
-		"defeated": "I HATE YOU!",
-
-     	"neutralHello": "Quiubo",
-    	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
-
-    	"tradeRequest": "Wanna some aditional... *white coffee*?",
-		
-		"uniqueName": "Arepa Economy",
-		"uniques": ["[+1 Gold] from [Arepa Stand] tiles [in all cities] <within [1] tiles of a [Great Improvement]>","[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa Stand]>","[-57]% Food consumption by specialists [in all cities]","Provides [6] [Flour]"],
-
-		"cities": ["Central Arepa","Puerto Aguapanela","Villa Chóclo","Puerto Boyacense","Bogotana de Arepas","Finca Paisa","Cundinamarca","Rellenas de Sulemaida","Plaza Harinapan","Venezolanas","Macheteadas","La Paila","La Candela","Las Fusagasugas"]
-  },
-	
 	//Ace Hank of Hankunesia
 	{
 		"name": "Hankunesia",

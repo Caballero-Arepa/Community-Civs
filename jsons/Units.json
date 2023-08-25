@@ -13,31 +13,6 @@
 		"promotions": ["Botanic Expedition"],
 		"attackSound": "metalhit",
 	},
-	{
-		"uniqueTo": "Duchy of Arepandia",
-		"name": "Ruanero",
-		"replaces": "Scout",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 5,
-		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"upgradesTo": "Berraco",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost","Survivalism I"],
-		"attackSound": "nonmetalhit",
-	},
-	{
-		"uniqueTo": "Duchy of Arepandia",
-		"name": "Berraco",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 10,
-		"requiredTech": "Calendar",
-		"attackSound": "metalhit",
-		"uniques": ["[50]% Strength <vs [Barbarian] units>","Can instantly construct a [Rainbow Plantation] improvement <by consuming this unit>","May enter foreign tiles without open borders"],
-	},
-
 	//Hankunesia
 	{
 		"name": "Penggarap",
