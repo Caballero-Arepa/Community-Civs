@@ -128,7 +128,6 @@
 		"cityHealth": 50,
 		"cost": 60,
 		"hurryCostModifier": 25,
-		"culture": 1,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
