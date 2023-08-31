@@ -126,9 +126,9 @@
 		"uniqueTo": "Aleksandria",
 		"cityStrength": 8,
 		"cityHealth": 50,
-		"cost": 50,
+		"cost": 60,
 		"hurryCostModifier": 25,
-		"faith": 1,
+		"culture": 1,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -139,7 +139,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+10]% [Production] [in all cities] <when below [0] Happiness>"]
+		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+5]% [Production] [in all cities]"]
 	},
 //EmperorPenguin civ
 {
