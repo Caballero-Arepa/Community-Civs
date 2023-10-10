@@ -394,6 +394,7 @@
 	//VividVale 
     {
         "name": "VividVale",
+	"style": "VividValean",
         "leaderName": "TCube",
         "adjective": ["VividValian"],
         "startBias": ["Coast"],
