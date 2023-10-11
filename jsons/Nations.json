@@ -3,6 +3,7 @@
 		"name": "Arepandia",
 		"leaderName": "Caballero Arepa",
 		"adjective": ["Arepino"],
+	  	"style": "Arepino",
 		"outerColor": [74, 64, 58],
 		"innerColor": [255, 192, 105],
 
@@ -104,6 +105,7 @@
 {
 		"name": "Wonderland",
 		"leaderName": "Belias",
+	  	"style": "Arepino",
 		"adjective": ["Maravillense"],
 		"outerColor": [39,126,205],
 		"innerColor": [255,255,255],
