@@ -263,7 +263,7 @@
 	"hateHello": "Are you still in this side of the Acheron?\nWhat do you want?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
-	"outerColor": [248, 248, 255],
+	"outerColor": [245, 245, 245],
 	"innerColor": [255, 205, 0],
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-20]% tile improvement construction time <within [1] tiles of a [Tundra]>"],
