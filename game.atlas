@@ -75,7 +75,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Ancient Gallery
   rotate: false
-  xy: 928, 1436
+  xy: 927, 1436
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -89,105 +89,98 @@ BuildingIcons/Aquarium
   index: -1
 BuildingIcons/Arepa Hub
   rotate: false
-  xy: 1818, 1556
+  xy: 1812, 1559
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Battle Fortress
   rotate: false
-  xy: 795, 1111
+  xy: 646, 847
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 BuildingIcons/Biev Courthouse
   rotate: false
-  xy: 1560, 1454
+  xy: 1296, 1454
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Clown Alley
   rotate: false
-  xy: 646, 695
+  xy: 855, 1002
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Enlightenment House
-  rotate: false
-  xy: 4, 376
-  size: 349, 349
-  orig: 349, 349
-  offset: 0, 0
-  index: -1
 BuildingIcons/Fossil Market
   rotate: false
-  xy: 962, 388
+  xy: 1895, 919
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Bamboo Walls
   rotate: false
-  xy: 625, 71
+  xy: 1479, 1038
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Katorga
   rotate: false
-  xy: 430, 735
+  xy: 292, 37
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 ImprovementIcons/Katorga
   rotate: false
-  xy: 430, 735
+  xy: 292, 37
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 BuildingIcons/Keraton
   rotate: false
-  xy: 452, 76
+  xy: 568, 97
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kreml'
   rotate: false
-  xy: 1062, 912
+  xy: 1271, 722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Builders
   rotate: false
-  xy: 1636, 1764
+  xy: 4, 105
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
 BuildingIcons/Paesan
   rotate: false
-  xy: 1062, 804
+  xy: 1379, 722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reactor Tower
   rotate: false
-  xy: 1070, 227
+  xy: 460, 4
   size: 85, 85
   orig: 85, 85
   offset: 0, 0
   index: -1
 BuildingIcons/Sparring Grounds
   rotate: false
-  xy: 1278, 924
+  xy: 430, 835
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -201,21 +194,21 @@ BuildingIcons/Star Gazing Spot
   index: -1
 ImprovementIcons/Hamlet
   rotate: false
-  xy: 833, 71
+  xy: 1687, 1143
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Penguin Preserve
   rotate: false
-  xy: 1296, 1712
+  xy: 4, 393
   size: 332, 332
   orig: 332, 332
   offset: 0, 0
   index: -1
 ImprovementIcons/Rainbow Plantation
   rotate: false
-  xy: 1170, 924
+  xy: 430, 1051
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -236,770 +229,770 @@ LeaderIcons/Letstalkaboutdune
   index: -1
 LeaderIcons/Ravignir
   rotate: false
-  xy: 1296, 1448
+  xy: 344, 205
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Absolute Union
   rotate: false
-  xy: 720, 1418
+  xy: 719, 1418
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Aleksandria
   rotate: false
-  xy: 1924, 1944
+  xy: 1921, 1944
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Arepandia
   rotate: false
-  xy: 1818, 1348
+  xy: 1812, 1351
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Arkistia
   rotate: false
-  xy: 854, 496
+  xy: 1895, 1243
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bamboo Kingdom
   rotate: false
-  xy: 854, 388
+  xy: 1921, 1836
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Clownish Commonwealth
   rotate: false
-  xy: 646, 487
+  xy: 1063, 1020
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Hankunesia
   rotate: false
-  xy: 962, 280
+  xy: 1895, 811
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ketonia
   rotate: false
-  xy: 361, 184
+  xy: 344, 469
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Lasty's Kazakhstan
   rotate: false
-  xy: 462, 1368
+  xy: 1554, 1454
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/New Prussia
   rotate: false
-  xy: 439, 1111
+  xy: 462, 1369
   size: 249, 249
   orig: 249, 249
   offset: 0, 0
   index: -1
 NationIcons/Penguinesia
   rotate: false
-  xy: 4, 36
+  xy: 1296, 1712
   size: 332, 332
   orig: 332, 332
   offset: 0, 0
   index: -1
 NationIcons/Principality of Vinroth
   rotate: false
-  xy: 928, 1020
+  xy: 1687, 935
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Not Guy Fawkes
   rotate: false
-  xy: 1278, 816
+  xy: 646, 1053
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Reactors
   rotate: false
-  xy: 1386, 924
+  xy: 538, 945
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Thuntopia
   rotate: false
-  xy: 1278, 708
+  xy: 538, 837
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Unrelenting
   rotate: false
-  xy: 1278, 708
+  xy: 538, 837
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/VividVale
   rotate: false
-  xy: 1386, 817
+  xy: 646, 946
   size: 97, 99
   orig: 97, 99
   offset: 0, 0
   index: -1
 ReligionIcons/Absolute Aesthetics
   rotate: false
-  xy: 430, 903
+  xy: 439, 1161
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Arepas Supremas
   rotate: false
-  xy: 720, 1210
+  xy: 855, 1210
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Humanism
   rotate: false
-  xy: 344, 76
+  xy: 1895, 703
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Church of the Daring Flame
   rotate: false
-  xy: 361, 448
+  xy: 1636, 1767
   size: 277, 277
   orig: 277, 277
   offset: 0, 0
   index: -1
 ResourceIcons/Arepa
   rotate: false
-  xy: 638, 903
+  xy: 647, 1161
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Arepa House
   rotate: false
-  xy: 638, 903
+  xy: 647, 1161
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Berserk Clown
   rotate: false
-  xy: 1062, 607
+  xy: 1687, 1365
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hirudinea
   rotate: false
-  xy: 1386, 728
+  xy: 4, 16
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon
   rotate: false
-  xy: 416, 12
+  xy: 1595, 766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-1
   rotate: false
-  xy: 846, 1047
+  xy: 608, 585
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-2
   rotate: false
-  xy: 1041, 163
+  xy: 553, 33
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon-The Imperium of Fire
   rotate: false
-  xy: 1041, 99
+  xy: 608, 521
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Konskript
   rotate: false
-  xy: 1070, 518
+  xy: 430, 746
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Katorga
   rotate: false
-  xy: 1161, 7
+  xy: 648, 229
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Arepino
   rotate: false
-  xy: 1636, 1728
+  xy: 1636, 1731
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Arepino
   rotate: false
-  xy: 598, 867
+  xy: 719, 1382
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Belias
   rotate: false
-  xy: 1136, 1468
+  xy: 292, 357
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-VividValean
   rotate: false
-  xy: 1113, 119
+  xy: 1595, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Arepino
   rotate: false
-  xy: 560, 90
+  xy: 625, 61
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Backswordsman
   rotate: false
-  xy: 1676, 1728
+  xy: 608, 413
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Catapult-Arepino
   rotate: false
-  xy: 598, 831
+  xy: 1676, 1731
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Arepino
   rotate: false
-  xy: 1176, 1468
+  xy: 759, 1382
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Belias
   rotate: false
-  xy: 560, 54
+  xy: 292, 321
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Arepino
   rotate: false
-  xy: 1716, 1728
+  xy: 608, 377
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Arepino
   rotate: false
-  xy: 598, 795
+  xy: 1716, 1731
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Belias
   rotate: false
-  xy: 1216, 1468
+  xy: 799, 1382
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Comrade
   rotate: false
-  xy: 1256, 1468
+  xy: 292, 285
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Arepino
   rotate: false
-  xy: 560, 18
+  xy: 608, 341
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Belias
   rotate: false
-  xy: 1756, 1728
+  xy: 1756, 1731
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Civilian-Industrial era-Arepino
   rotate: false
-  xy: 598, 759
+  xy: 292, 249
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/EmbarkedUnit-Dirigible
   rotate: false
-  xy: 598, 759
+  xy: 292, 249
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Arepino
   rotate: false
-  xy: 1996, 1800
+  xy: 608, 305
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-VividValean
   rotate: false
-  xy: 1996, 1764
+  xy: 292, 213
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Arepino
   rotate: false
-  xy: 1041, 60
+  xy: 608, 266
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Arepino
   rotate: false
-  xy: 1153, 119
+  xy: 608, 230
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-VividValean
   rotate: false
-  xy: 1081, 63
+  xy: 707, 712
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Arepino
   rotate: false
-  xy: 1386, 692
+  xy: 707, 676
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-VividValean
   rotate: false
-  xy: 1426, 692
+  xy: 1993, 1800
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helicopter Gunship-Arepino
   rotate: false
-  xy: 1466, 692
+  xy: 1635, 730
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Arepino
   rotate: false
-  xy: 1121, 83
+  xy: 625, 25
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Belias
   rotate: false
-  xy: 1161, 83
+  xy: 648, 413
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-VividValean
   rotate: false
-  xy: 1121, 47
+  xy: 648, 377
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Arepino
   rotate: false
-  xy: 1161, 47
+  xy: 648, 341
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-VividValean
   rotate: false
-  xy: 1081, 27
+  xy: 648, 305
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Iron Dragon
   rotate: false
-  xy: 1121, 11
+  xy: 648, 269
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Arepino
   rotate: false
-  xy: 1170, 672
+  xy: 707, 640
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Knight-Belias
   rotate: false
-  xy: 1210, 672
+  xy: 2003, 1315
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Arepino
   rotate: false
-  xy: 1250, 672
+  xy: 2003, 1279
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Arepino
   rotate: false
-  xy: 1290, 672
+  xy: 2003, 1243
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Arepino
   rotate: false
-  xy: 1330, 672
+  xy: 2003, 1207
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Belias
   rotate: false
-  xy: 1165, 636
+  xy: 2003, 1171
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-VividValean
   rotate: false
-  xy: 1205, 636
+  xy: 2003, 1135
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Arepino
   rotate: false
-  xy: 1245, 636
+  xy: 2003, 1099
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Arepino
   rotate: false
-  xy: 1285, 636
+  xy: 2003, 1063
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Missionary-Arepino
   rotate: false
-  xy: 1325, 636
+  xy: 2003, 1027
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Arepino
   rotate: false
-  xy: 600, 35
+  xy: 2003, 991
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Arepino
   rotate: false
-  xy: 640, 35
+  xy: 2003, 955
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Musketman-Belias
   rotate: false
-  xy: 680, 35
+  xy: 2003, 919
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paileador
   rotate: false
-  xy: 720, 35
+  xy: 2003, 883
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Arepino
   rotate: false
-  xy: 760, 35
+  xy: 2003, 847
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Arepino
   rotate: false
-  xy: 800, 35
+  xy: 2003, 811
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-VividValean
   rotate: false
-  xy: 840, 35
+  xy: 2003, 775
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Raptor Rider
   rotate: false
-  xy: 880, 35
+  xy: 2003, 739
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Reactor
   rotate: false
-  xy: 920, 35
+  xy: 2003, 703
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Arepino
   rotate: false
-  xy: 960, 35
+  xy: 754, 1026
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Belias
   rotate: false
-  xy: 1000, 35
+  xy: 794, 1026
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ruanero Mapper
   rotate: false
-  xy: 1040, 24
+  xy: 751, 990
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Arepino
   rotate: false
-  xy: 1494, 896
+  xy: 751, 953
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Arepino
   rotate: false
-  xy: 1534, 897
+  xy: 791, 990
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Striker
   rotate: false
-  xy: 1491, 860
+  xy: 791, 954
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Arepino
   rotate: false
-  xy: 1491, 824
+  xy: 831, 966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Belias
   rotate: false
-  xy: 1574, 897
+  xy: 871, 966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-VividValean
   rotate: false
-  xy: 1173, 600
+  xy: 911, 966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Arepino
   rotate: false
-  xy: 1173, 564
+  xy: 951, 966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Belias
   rotate: false
-  xy: 1213, 600
+  xy: 991, 966
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Arepino
   rotate: false
-  xy: 1173, 528
+  xy: 831, 930
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Belias
   rotate: false
-  xy: 1213, 564
+  xy: 871, 930
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-VividValean
   rotate: false
-  xy: 1253, 600
+  xy: 911, 930
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Arepino
   rotate: false
-  xy: 1213, 528
+  xy: 951, 930
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Industrial era-VividValean
   rotate: false
-  xy: 1253, 564
+  xy: 991, 930
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-VividValean
   rotate: false
-  xy: 1293, 600
+  xy: 791, 918
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Katorga
   rotate: false
-  xy: 1113, 155
+  xy: 608, 449
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Backswordsman
   rotate: false
-  xy: 1924, 1772
+  xy: 1135, 1440
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Comrade
   rotate: false
-  xy: 344, 12
+  xy: 1921, 1772
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Iron Dragon
   rotate: false
-  xy: 488, 4
+  xy: 206, 33
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Auxilia
   rotate: false
-  xy: 696, 1111
+  xy: 754, 1062
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 UnitIcons/Backswordsman
   rotate: false
-  xy: 1924, 1836
+  xy: 460, 97
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Berserk Clown
   rotate: false
-  xy: 928, 1228
+  xy: 1063, 1228
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Bounty Hunter
   rotate: false
-  xy: 1344, 1240
+  xy: 1479, 1246
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bounty Hunter ability
   rotate: false
-  xy: 1344, 1240
+  xy: 1479, 1246
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Comrade
   rotate: false
-  xy: 854, 280
+  xy: 1895, 1135
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Field Gun
   rotate: false
-  xy: 1070, 419
+  xy: 107, 6
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
@@ -1013,105 +1006,105 @@ UnitIcons/Fire Archer
   index: -1
 UnitIcons/Floating Raft
   rotate: false
-  xy: 962, 496
+  xy: 1895, 1027
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ironchad
   rotate: false
-  xy: 962, 496
+  xy: 1895, 1027
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Giant Earthworm
   rotate: false
-  xy: 646, 279
+  xy: 1271, 1038
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Hirudinea
   rotate: false
-  xy: 1070, 320
+  xy: 646, 748
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 UnitIcons/Konskript
   rotate: false
-  xy: 1494, 933
+  xy: 608, 649
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 UnitIcons/Penggarap
   rotate: false
-  xy: 1062, 696
+  xy: 1487, 722
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Raptor Rider
   rotate: false
-  xy: 1136, 1032
+  xy: 1063, 812
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Reactor
   rotate: false
-  xy: 1170, 816
+  xy: 430, 943
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ruanero Mapper
   rotate: false
-  xy: 1344, 1032
+  xy: 1271, 830
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Striker
   rotate: false
-  xy: 854, 812
+  xy: 1479, 830
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Swordshoker
   rotate: false
-  xy: 1170, 708
+  xy: 538, 1053
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Unicycle Clown
   rotate: false
-  xy: 854, 604
+  xy: 1687, 727
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Worker of the Motherland
   rotate: false
-  xy: 1136, 1504
+  xy: 1135, 1504
   size: 132, 132
   orig: 132, 132
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Botanic Expedition
   rotate: false
-  xy: 1136, 1240
+  xy: 1271, 1246
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Petani
   rotate: false
-  xy: 560, 126
+  xy: 1207, 1446
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
