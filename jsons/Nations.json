@@ -266,7 +266,7 @@
 	"outerColor": [255, 250, 255],
 	"innerColor": [255, 205, 0],
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-20]% tile improvement construction time <within [1] tiles of a [Tundra]>"],
+	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% tile improvement construction time <within [1] tiles of a [Tundra]>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
