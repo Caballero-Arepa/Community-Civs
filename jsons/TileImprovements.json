@@ -27,4 +27,18 @@
 		"techRequired": "Engineering",
 		"shortcutKey": "H"
 	},
+	{
+		"name": "Penguin Preserve",
+		"uniqueTo": "Penguinesia",
+		"terrainsCanBeBuiltOn": ["Snow","Tundra"],
+		"faith": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+			"[+1 Food] from [Snow] tiles",
+			"[+2 Science] for each adjacent [Academy]",
+			"[+2 Culture] for each adjacent [Landmark]",
+			"Tile provides yield without assigned population",
+			"Unlocked at Education"],
+		"techRequired": "Education"
+	},
 ]

@@ -140,18 +140,6 @@
 		"requiredTech": "Metal Casting",
 		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+10]% [Production] [in this city]"]
 	},
-//EmperorPenguin civ
-{
-		"name": "Enlightenment House",
-		"replaces": "Lighthouse",
-		"uniqueTo": "Penguinesia",
-		"cost": 75,
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "[+1 Science] per [3] social policies adopted"],
-		"requiredTech": "Optics"
-	},
 	//Firelord
 	{
 		"name": "Naval Forge",
