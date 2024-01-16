@@ -94,7 +94,7 @@
 		"strength": 65,
 		"rangedStrength": 65,
 		"range": 3,
-		"cost": 400,
+		"cost": 375,
 		"requiredResource": "Iron",
 		"requiredTech": "Electronics",
 		"uniques": ["Upgrades to Missile Cruiser","Never appears as a Barbarian unit"],
@@ -392,7 +392,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+5] Strenght <when fighting in [Jungle] tiles>","Double movement in [Jungle]",
+		"uniques": ["[+50]% Strength <when fighting in [Jungle] tiles>","Double movement in [Jungle]",
 		"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"

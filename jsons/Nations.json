@@ -263,10 +263,12 @@
 	"hateHello": "Are you still in this side of the Acheron?\nWhat do you want?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
 	"favoredReligion": "Christianity",
+
 	"outerColor": [255, 250, 255],
 	"innerColor": [255, 205, 0],
+
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% tile improvement construction time <within [1] tiles of a [Tundra]>"],
+	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% construction time for [All] improvements <within [1] tiles of a [Tundra]>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Yekateringrad","Peterinburg","Medvedorod","Ruthensk","Vostgorod",
 		"Lyoshasburg","Tovarivsk","Pobedigrad","Aleksisburg","Novaleksandria","Lyoshagrad","Veliksey","kholodnisburg","Veliksandria","Rekasburg",
 		"Veragrad","Morozburg","Varkutinsk"]
@@ -509,7 +511,7 @@
     	"tradeRequest": "May I interest you in these fine pieces?",
 		
 		"uniqueName": "Absolute Artists",
-		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]", "[Great Artist] is earned [50]% faster"],
+		"uniques": ["Free[Great Artist] appears <upon discovering [Drama and Poetry]>", "[Great Artist] is earned [50]% faster"],
 
 		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
   },
@@ -686,7 +688,7 @@
 		"innerColor": [233, 92, 170],
         
         	"uniqueName": "Fury of the Arks",
-        	"uniques": ["[+10]% tile improvement construction time",
+        	"uniques": ["[+10]% construction time for [All] improvements",
 			"[+15]% Golden Age length","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
         "cities": ["Arkistia","Paeolitic","Grandpas House","Jurassic Park","Ark Base","Megalodon"]
     },
