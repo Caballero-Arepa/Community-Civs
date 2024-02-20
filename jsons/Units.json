@@ -397,4 +397,21 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	//Fast Doubloon
+	{
+		"name": "Trade Boats",
+		"uniqueTo": "The Fast Economists",
+		"replaces": "Ironclad",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 45,
+		"cost": 375,
+		"hurryCostModifier": 25,
+		"requiredTech": "Steam Power",
+		"requiredResource": "Coal",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Can undertake a trade mission with City-State, giving a large sum of gold and [25] Influence"],
+		"attackSound": "shipguns"
+	},
 ]

@@ -1,5 +1,6 @@
 [
-  { //New
+	//Don Arepa
+  {
 		"name": "Arepandia",
 		"leaderName": "Caballero Arepa",
 		"adjective": ["Arepino"],
@@ -692,4 +693,30 @@
 			"[+15]% Golden Age length","[+10]% Strength <when fighting in [Friendly Land] tiles>"],
         "cities": ["Arkistia","Paeolitic","Grandpas House","Jurassic Park","Ark Base","Megalodon"]
     },
+	//Fast Doubloon
+	{
+		"name": "The Fast Economists",
+		"leaderName": "Fast Doubloon",
+		"startBias": ["Coast"],
+		"outerColor": [52, 30, 4],
+		"innerColor": [229, 181, 25],
+
+		"uniqueName": "Growth over Force",
+		"uniques": ["[Gold] cost of purchasing items in cities [-15]%",
+		"[+1 Culture] from every [Mint] <after discovering [Economics]>",
+		"[+1 Culture] from every [Market] <after discovering [Economics]>",
+		"[+1 Culture] from every [Bank] <after discovering [Economics]>",
+		"[+1 Culture] from every [Stock Exchange] <after discovering [Economics]>",
+
+		"[+50]% [Gold] [in all cities] <during the [Ancient era]>",
+		"[+25]% [Gold] [in all cities] <during the [Classical era]>",
+		"[+20]% [Gold] [in all cities] <during the [Medieval era]>",
+		"[+15]% [Gold] [in all cities] <during the [Renaissance era]>",
+		"[+10]% [Gold] [in all cities] <during the [Industrial era]>",
+
+		"[+10]% [Gold] from Trade Routes <after adopting [Commerce]>",
+		
+		"Gifts of Gold to City-States generate [+20]% more Influence"],
+		"cities": ["Doubloon City","Coin city","Free Zone","Baboon City"]
+	}
 ]
