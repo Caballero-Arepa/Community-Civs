@@ -301,4 +301,18 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
+	//Tyrumas
+	{
+		"name": "Food House",
+		"replaces": "Opera House",
+		"uniqueTo": "Sylvanor",
+		"culture": 4,
+		"food": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["[40]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
+	},
 ]

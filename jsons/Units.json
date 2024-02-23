@@ -57,8 +57,7 @@
 		"uniqueTo": "Wonderland",
 		"replaces": "Great General",
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat","Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	 },
 
@@ -221,8 +220,7 @@
   "requiredResource": "Oil",
   "requiredTech": "Combustion",
   "promotions": ["Shock I","Great Generals I"]
-"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>",
-	"Can be earned through combat","No defensive terrain bonus","Can move after attacking"],
+"uniques": ["[-20]% Strength <vs [Gunpowder] units>","[+20]% Strength <vs [Ranged Gunpowder] units>","No defensive terrain bonus","Can move after attacking"],
   "attackSound": "shot",
   "upgradesTo": "Modern Armor",
 "obsoleteTech": "Lasers",
@@ -415,5 +413,16 @@
 		"obsoleteTech": "Combustion",
 		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Can undertake a trade mission with City-State, giving a large sum of gold and [25] Influence"],
 		"attackSound": "shipguns"
+	},
+	//Tyrumas
+	{
+		"name": "Ent-tenette",
+		"uniqueTo": "Sylvanor",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 35,
+		"uniques": [
+			"Turn this tile into a [Forest] tile <by consuming this unit>",
+			"Cost increases by [10] per owned city","Cost increases by [15] when built"]
 	},
 ]

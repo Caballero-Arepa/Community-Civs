@@ -718,5 +718,31 @@
 		
 		"Gifts of Gold to City-States generate [+20]% more Influence"],
 		"cities": ["Doubloon City","Coin city","Free Zone","Baboon City"]
+	},
+	{ //Tyrumas
+		"name": "Sylvanor",
+		"leaderName": "Elara Evergreen",
+		"outerColor": [255, 255, 102],
+		"innerColor": [34, 139, 34],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Nature's Harmony",
+		
+		"startIntroPart1": "Greetings, esteemed ruler. As we step into the verdant embrace of Sylvanor, know that our roots run deep, intertwined with the ancient trees that whisper the secrets of our land.",
+		"startIntroPart2": "Our path is guided by the wisdom of the forest, and our destiny lies in unlocking the mysteries of nature itself.",
+		
+		"introduction": "Welcome to Sylvanor, where the leaves dance in harmony with the wind and the rivers sing tales of old.",
+		"declaringWar": "The tranquility of the woods shall not be disturbed, but should you seek conflict, prepare to face the wrath of nature herself.",
+		"attacked": "The forests shall shelter us, and the spirits of the wild shall rise to defend our lands! For Sylvanor!",
+		"afterPeace": "May the peace of the forest return, and may our hearts find solace in the tranquil embrace of Sylvanor.",
+		"defeated": "The boughs may bend, but they shall never break. Sylvanor will endure, even in the face of defeat.",
+		
+		"neutralHello": "Hail, traveler. What whispers does the wind bring from distant lands?",
+		"hateHello": "Begone, disruptor of nature's balance. Your presence here soils the sanctity of our realm.",
+		"tradeRequest": "Shall we exchange the bounty of our forests for the treasures of your realm?",
+
+		"uniqueName": "",
+		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [6] neighboring [Forest] tiles>","[+1 Production] from [Forest] tiles without [Lumber Mill] [in all cities]"],
+		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
 	}
 ]
