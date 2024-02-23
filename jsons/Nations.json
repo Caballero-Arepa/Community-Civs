@@ -741,8 +741,9 @@
 		"hateHello": "Begone, disruptor of nature's balance. Your presence here soils the sanctity of our realm.",
 		"tradeRequest": "Shall we exchange the bounty of our forests for the treasures of your realm?",
 
-		"uniqueName": "",
-		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [6] neighboring [Forest] tiles>","[+1 Production] from [Forest] tiles without [Lumber Mill] [in all cities]"],
+		"uniqueName": "The Tune of the Leafage",
+		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [1] neighboring [Forest] tiles>","[+2 Happiness] [in all cities] <with [2] to [3] neighboring [Forest] tiles>","[+3 Happiness] [in all cities] <with [4] to [6] neighboring [Forest] tiles>",
+			"[+1 Production] from [Forest] tiles without [Lumber Mill] [in all cities]"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
 	}
 ]
