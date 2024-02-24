@@ -57,7 +57,8 @@
 		"uniqueTo": "Wonderland",
 		"replaces": "Great General",
 		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"All adjacent units heal [+15] HP when healing", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat","Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3,
 	 },
 
@@ -188,7 +189,7 @@
 			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Great Person - [War]",
+            "Great Person - [War]","Can be earned through combat",
 			"Unbuildable",
 			"Uncapturable"
 		],
