@@ -3,7 +3,7 @@
   {
 		"name": "Arepandia",
 		"leaderName": "Caballero Arepa",
-		"adjective": ["Arepino"],
+		"adjective": ["Areperro"],
 	  	"style": "Arepino",
 		"outerColor": [74, 64, 58],
 		"innerColor": [255, 192, 105],
@@ -12,27 +12,27 @@
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Arepas Supremas",
 	  
-		"startIntroPart1": "Buenas sumercé! Great leader of the independent duchy, your multiple public proyects that you started brought prosperity to the nation, when they were finished, that is...\nBut the will of the people makes the nation move foward and keep up with the strongest of oponents.",
-		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph we shall have.",
+		"startIntroPart1": "Here we are, although it's hard to believe,\nNo need to thank us when you see our army of relief.\nWe sure can attack, we sure will protect, but most important of all, we never step back.\nI will spare you out of grief, when I reach my friendship hand.\nIf you accept, then I'll let you try the greatest food you've ever had.\n\nWith the food of the gods, I only need HarinaPAN,\nWe can lean back, as we don't depend on anyone,\nWith whatever is at hand, and with water and maize,\nStuffed with meat and corn, or simply a chocolate,\nWe can build a soft and crunchy arepa to amaze.\n\nThe jummy jummy smell of the arepa will reach so far,\nYou'll ask me once for one, and eating it you'll be glad,\nIt'll leave your mouth so watery that you'll want more of that.\nIf you spit at my hand, and reject my offer back,\nFrom Peru to Japan, I will smack you with my pan.\n\nDon't try to fool me; I won't fall into any trap of sh*t,\nFor if you do me dirty, it'll cost you a high price,\nA simple excuse will not cut it, as we never forgive,\nDon't come pleading at me when I conduct my Revenge of the Sith.",
+		"startIntroPart2": "We'll defend from the attack\nAltough our nation may be halved\nWe'll resist the whack\n'Til Triumph we shall have.\n\nWith my trusty rusty old machete, be careful with your knee,\nTake care, as its poisonous, less it gets infected.\nI'm sorry, you made me do it, how dare you bring me tee?!\nWe dislike that bushy tree, and maybe you disagree,\nI don't want anything British, only supreme Colombian coffee.",
  
-		"introduction": "Buenas sumercé, how are ya? Wanna a tad bit of coffee?",
-		"declaringWar": "*Alright God, please not another trench warfare war...*",
-     		"attacked": "I have the highground!\n...\n*heeeeeeelpp!!*",
-		"afterPeace": "So uncivilized...\noh wait... that's da name of the game...",
-		"defeated": "I HATE YOU!",
+		"introduction": "Here we are, although it's hard to believe,\nNo need to thank us when you see our army of relief.\nI will spare you out of grief, when I reach my friendship hand.\nIf you accept, then I'll let you try the greatest food you've ever had.",
+		"declaringWar": "From Peru to Japan, I'll smack you with my pan,\nprepare your guts, and feel the power of HarinaPAN",
+     		"attacked": "I'm sorry, you made me do it, how dare you bring me tee?!\nDon't come at me pleading when I conduct my revenge of the Sith.",
+		"afterPeace": "Don't try to fool me, I won't fall into any trap of sh*t,\nIt'll cost you a high price if you do me dirty.",
+		"defeated": "By my trusty rusty old machete, be careful with your knee\nLess it gets infected, as its poisonous. I won't say 'sorry'.",
 
-		"neutralHello": "Quiubo",
-		"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
+		"neutralHello": "Quiubo, the jummy smell of the arepa has reached so far,\nYou'll ask me once for one, and eating it you'll be glad,\nIt'll leave your mouth so watery that you'll want more of that.",
+		"hateHello": "We sure can attack, we sure will protect, but most important of all, we never step back.",
 
-		"tradeRequest": "Wanna some aditional arepas?",
+		"tradeRequest": "With whatever is at hand, and with water and maize,\nStuffed with meat and corn, or simply a chocolate,\nWe can build a soft and crunchy arepa to amaze.",
 		
 		"uniqueName": "Uplifting Arepas",
-		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>"
+		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
 			"[-50]% maintenance on road & railroads <with [Arepa]>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
 
 		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
-			   "Mogolla","Candelaria","Rellenas","Quesillo","Harinapan","Panela",
+			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
 			  ]
