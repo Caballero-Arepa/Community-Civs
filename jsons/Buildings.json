@@ -120,25 +120,17 @@
 		"uniques": ["Destroyed when the city is captured","[+2]% growth [in all cities]","[+1 Culture] <after discovering [Steam Power]>","[+1 Food] <after discovering [Biology]>"]
 	},
 //Aleksandria
-        {
-		"name": "Kreml'",
-		"replaces": "Walls",
-		"uniqueTo": "Aleksandria",
-		"cityStrength": 8,
-		"cityHealth": 50,
-		"cost": 60,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
 	{
 		"name": "Katorga",
+		"replaces": "Workshop",
 		"uniqueTo":"Aleksandria",
-		"cost": 120,
-		"maintenance": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["Must be next to [Tundra]", "[+1 Production] from [Mine] tiles [in this city]", "[+10]% [Production] [in this city]"]
+		"uniques": ["[+1 Production] [in all cities connected to capital]", "[+1 Happiness, +1 Culture, +1 Science] <within [1] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
