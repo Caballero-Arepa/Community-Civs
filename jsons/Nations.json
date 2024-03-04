@@ -260,9 +260,17 @@
 	"attacked": "Finally someone ambitious enough to try to win me over.\nMay you succeed or die under my triumph.",
 	"defeated": "I know nothing about what I ignore, there's not much that I can do about it,\nand yet my latest realization burns my soul almost as much, in pride, I have burnt till now.",
 	"introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious Motherland,\nbut you can call me Alyosha.",
-	"neutralHello": "Zdravstvuyte!",
+	"neutralHello": "Zdravstvuyte.",
+	"neutralLetsHearIt":["What shall we discuss now?","Interesting..."],
+	"neutralYes":["Our people are eager to accept.","So be it."],
+	"neutralNo":["I must respectfully decline.","This doesn't look like a good option to me."],
+	"hateLetsHearIt":["Speak!","What do you want NOW?"],
+	"hateNo":["Have you come here for joking?","Never!"],
+	"hateYes":["We might not agree on everything, but still have my respect."],
+	"afterPeace":"Do you fear the power of the ketonian arms?",
 	"hateHello": "Are you still in this side of the Acheron?\nWhat do you want?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
+	  
 	"favoredReligion": "Christianity",
 
 	"outerColor": [250, 252, 255],
