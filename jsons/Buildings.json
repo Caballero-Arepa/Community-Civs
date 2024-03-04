@@ -124,13 +124,15 @@
 		"name": "Katorga",
 		"replaces": "Workshop",
 		"uniqueTo":"Aleksandria",
+		"production": 2,
+		"culture": 1,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+1 Production] [in all cities connected to capital]", "[+1 Happiness, +1 Culture, +1 Science] <within [1] tiles of a [Tundra]>"]
+		"uniques": ["[+2 Happiness] <within [1] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
