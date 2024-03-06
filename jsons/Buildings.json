@@ -132,7 +132,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+1 Happiness] [in this city] <within [1] tiles of a [Tundra]>"]
+		"uniques": ["[+1 Happiness, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
