@@ -2,7 +2,7 @@
 	//Hankunesia
 	{
 		"name": "Petani",
-		"uniques": ["Can build [Farm] improvements on tiles"]
+		"uniques": ["Can build [Farm] improvements on tiles <in [Land] tiles>"]
 	},
 	//Aleksandria
 	{
