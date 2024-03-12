@@ -301,7 +301,7 @@
 		"replaces": "Opera House",
 		"uniqueTo": "Sylvanor",
 		"culture": 4,
-		"food": 3,
+		"food": 1,
 		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
