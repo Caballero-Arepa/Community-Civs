@@ -3,6 +3,6 @@
 	{
 		"name": "Arepa",
 		"resourceType": "Luxury",
-		"uniques": ["[+5]% [Food] [in all cities]","[+5]% [Culture] [in all cities]"]
-	},
+		"civilopediaText": [{"text": "The main preparation is made with cooked corn, then grinded shapping it in clasical circle, to be cooked in a pan or a grill."}]
+	}
 ]
