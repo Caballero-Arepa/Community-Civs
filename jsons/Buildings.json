@@ -2,15 +2,13 @@
 //Arepandia
     {
 		"name": "Arepa Hub",
-		"replaces": "Bank",
 		"uniqueTo": "Arepandia",
-		"gold": 2,
-		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking",
-		"uniques": ["Creates a [Arepa House] improvement on a specific tile"]
+		"replaces": "Aqueduct",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]",
+					"Creates a [Arepa House] improvement on a specific tile"],
+		"requiredTech": "Engineering"
 	},
 // Lasty's Kazakhstan
 {

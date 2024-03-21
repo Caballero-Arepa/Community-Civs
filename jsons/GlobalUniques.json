@@ -1,0 +1,7 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[+10]% [Food] [in all cities] <with [Arepa]>",
+		"[+10]% [Culture] [in all cities] <with [Arepa]>"
+    ]
+}
