@@ -274,7 +274,7 @@
 	  
 	"favoredReligion": "Christianity",
 
-	"outerColor": [12, 22, 24],
+	"outerColor": [128, 0, 0],
 	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
