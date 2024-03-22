@@ -1,5 +1,5 @@
 [
-	//Don Arepa
+	//Caballero Arepa
   {
 		"name": "Arepandia",
 		"leaderName": "Arepa Lord",
@@ -707,6 +707,7 @@
 	{
 		"name": "The Fast Economists",
 		"leaderName": "Fast Doubloon",
+		"personality": "Fast Doubloon",
 		"startBias": ["Coast"],
 		"outerColor": [52, 30, 4],
 		"innerColor": [229, 181, 25],
