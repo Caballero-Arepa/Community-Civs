@@ -56,20 +56,23 @@
 	{
 		"name": "Fast Doubloon",
 		"preferredVictoryType": "Diplomatic",
-		"culture": 5,
-		"faith": 1,
-		"food": 5,
+		"culture": 6,
+		"faith": 2,
+		"food": 7,
 		"gold": 10,
-		"happiness": 6,
-		"production": 6,
-		"science": 7,
+		"happiness": 7,
+		"production": 7,
+		"science": 8,
 		"military": 4,
 		"priorities": {
-			"Commerce": 40,
+			"Tradition": 21,
+			"Liberty": 20,
+			"Commerce": 45,
 			"Patronage": 10,
-			"Rationalism": 40,
-			"Freedom": 20,
-			"Order": 20
+			"Rationalism": 50,
+			"Freedom": 30,
+			"Autocracy": 30,
+			"Order": 30
 		},
 		"warMongering": 4
 	},
