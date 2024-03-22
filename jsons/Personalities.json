@@ -73,4 +73,30 @@
 		},
 		"warMongering": 4
 	},
+{
+		"name": "A1y0sh4",
+		"preferredVictoryType": "Scientific",
+		"culture": 8,
+		"faith": 4,
+		"food": 7,
+		"gold": 7,
+		"happiness": 6,
+		"production": 10,
+		"science": 9,
+		"military": 7,
+		"priorities": {
+			"Tradition": 30,
+			"Liberty": 10,
+			"Honor": 30,
+			"Commerce": 30,
+			"Patronage": 20,
+			"Piety": 10,
+			"Rationalism": 50,
+			"Freedom": 20,
+			"Autocracy": 40,
+			"Order": 40
+		},
+		"warMongering": 8,
+		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+	}
 ]
