@@ -1,0 +1,56 @@
+[
+	/*
+	{
+		"name": "Template",
+		"preferredVictoryType": "Victory",
+		"culture": ,
+		"faith": ,
+		"food": ,
+		"gold": ,
+		"happiness": ,
+		"production": ,
+		"science": ,
+		"military": ,
+		"priorities": {
+			"Tradition": ,
+			"Liberty": ,
+			"Honor": ,
+			"Commerce": ,
+			"Patronage": ,
+			"Piety": ,
+			"Rationalism": ,
+			"Freedom": ,
+			"Autocracy": ,
+			"Order": 
+		},
+		"warMongering": ,
+		"uniques": ["Will not build [baseUnitFilter/buildingFilter]"],
+		"civilopediaText": [
+			{"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
+		]
+	},
+	*/
+	{
+		"name": "Caballero Arepa",
+		"preferredVictoryType": "Dipplomatic",
+		"culture": 10,
+		"faith": 7,
+		"food": 8,
+		"gold": 5,
+		"happiness": 5,
+		"production": 6,
+		"science": 5,
+		"military": 5,
+		"priorities": {
+			"Tradition": 10,
+			"Liberty": 30,
+			"Honor": 10,
+			"Piety": 20,
+			"Rationalism": 20,
+			"Freedom": 30,
+			"Order": 30
+		},
+		"warMongering": 4,
+		"uniques": ["Will not build [Manhattan Project]"]
+	}
+]

@@ -5,11 +5,12 @@
 		"leaderName": "Arepa Lord",
 		"adjective": ["Areperro"],
 	  	"style": "Arepino",
-		"outerColor": [74, 64, 58],
-		"innerColor": [255, 192, 105],
+		"outerColor": [80, 37, 20],
+		"innerColor": [238, 215, 181],
 
 		"startBias": ["Mountain"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Caballero Arepa",
 		"favoredReligion": "Arepas Supremas",
 	  
 		"startIntroPart1": "Here we are, although it's hard to believe,\nNo need to thank us when you see our army of relief.\nWe sure can attack, we sure will protect, but most important of all, we never step back.\nI will spare you out of grief, when I reach my friendship hand.\nIf you accept, then I'll let you try the greatest food you've ever had.\n\nWith the food of the gods, I only need HarinaPAN,\nWe can lean back, as we don't depend on anyone,\nWith whatever is at hand, and with water and maize,\nStuffed with meat and corn, or simply a chocolate,\nWe can build a soft and crunchy arepa to amaze.\n\nThe jummy jummy smell of the arepa will reach so far,\nYou'll ask me once for one, and eating it you'll be glad,\nIt'll leave your mouth so watery that you'll want more of that.\nIf you spit at my hand, and reject my offer back,\nFrom Peru to Japan, I will smack you with my pan.\n\nDon't try to fool me; I won't fall into any trap of sh*t,\nFor if you do me dirty, it'll cost you a high price,\nA simple excuse will not cut it, as we never forgive,\nDon't come pleading at me when I conduct my Revenge of the Sith.",
@@ -34,7 +35,7 @@
 		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
-			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado",
+			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
 			  ]
   },
 	//Ace Hank of Hankunesia
