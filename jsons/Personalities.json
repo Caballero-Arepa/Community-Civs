@@ -54,6 +54,26 @@
 		"uniques": ["Will not build [Manhattan Project]"]
 	},
 	{
+		"name": "Fast Doubloon",
+		"preferredVictoryType": "Diplomatic",
+		"culture": 5,
+		"faith": 1,
+		"food": 5,
+		"gold": 10,
+		"happiness": 6,
+		"production": 6,
+		"science": 7,
+		"military": 4,
+		"priorities": {
+			"Commerce": 40,
+			"Patronage": 10,
+			"Rationalism": 40,
+			"Freedom": 20,
+			"Order": 20
+		},
+		"warMongering": 4
+	},
+{
 		"name": "A1y0sh4",
 		"preferredVictoryType": "Scientific",
 		"culture": 8,
