@@ -59,11 +59,11 @@
 		"culture": 8,
 		"faith": 4,
 		"food": 7,
-		"gold": 6,
+		"gold": 7,
 		"happiness": 6,
 		"production": 10,
 		"science": 9,
-		"military": 8,
+		"military": 7,
 		"priorities": {
 			"Tradition": 30,
 			"Liberty": 10,
