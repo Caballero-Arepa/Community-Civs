@@ -102,4 +102,30 @@
 		"warMongering": 8,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	}
+		{
+		"name": "Emperor Penguin",
+		"preferredVictoryType": "Scientific",
+		"culture": 5,
+		"faith": 6,
+		"food": 7,
+		"gold": 4,
+		"happiness": 8,
+		"production": 10,
+		"science": 7,
+		"military": 7,
+		"priorities": {
+			"Tradition": 40,
+			"Liberty": 30,
+			"Honor": 20,
+			"Commerce": 20,
+			"Patronage": 10,
+			"Piety": 0,
+			"Rationalism": 50,
+			"Freedom": 40,
+			"Autocracy": 40,
+			"Order": 20
+		},
+		"warMongering": 8,
+		"uniques": ["Will not build [National Epic]","Will not build [The Great Library]","Will not build [Angkor Wat]"]
+	},
 ]
