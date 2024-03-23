@@ -407,30 +407,30 @@
 	//VividVale 
     {
         "name": "VividVale",
-	"style": "VividValean",
-        "leaderName": "TCube", 
-        "adjective": ["VividValian"],
-        "startBias": ["Coast"],
-        "personality": "BennieCUBED",
-        "favoredReligion": "Christianity",
+	 "style": "VividValean",
+             "adjective": ["VividValean"],               
+             "leaderName": "BennieCUBED",
+             "startBias": ["Coast","Avoid [Tundra]"],
+             "preferredVictoryType": "Scientific",
+	 "personality": "BennieCUBED",
+	 "favoredReligion": "Christianity",
 
-        "startIntroPart1": "Do good.",
-        "startIntroPart2": "Can you protect cultures? Will you build a civilization that stands the test of time?",
-        "declaringWar": "I'm sorry, but you threaten the peace and balance of this world.",
-        "attacked": "Aha! Look at that little leader with their war declaration! Good job mate, show how really evil you are.",
-        "defeated": "VividVale has collapsed. We will respect you if you respect us.",
-        "introduction": "Henala! We are VividVale and we hope to make many allies",
-        "neutralHello": "Hello mate.",
-        "hateHello": "Syth do Erha Ubhun!",
-        "tradeRequest": "Want to make a deal?",
+             "declaringWar": "Don't worry, if we win this war, I'll make sure to conserve your culture...",
+             "attacked": "Your allies won't look at you the same anymore...",
+             "defeated": "Future generations may not sing the same songs; or even speak the same language... But as long as these bloodlines continue, VividVale is still alive.",
+             "introduction": "Welcome! We are VividVale. So... What is your culture like..?",               
 
-        "outerColor": [29, 92, 17],
-        "innerColor": [210, 136, 7],
+             "neutralHello": "Hello mate.",
+             "hateHello": "Want anything?",
 
-        "uniqueName": "Southern Stars",
-        "uniques": ["[+1 Culture, +1 Production] [in all coastal cities]"],
-        "cities": ["Vividstrone","Railak","Daybo River","Coleston","Narravale","Sveg",
-            "Ngurri", "Bensberg","Manstown","Once-Upon-Time","Lacoa","Good-City"]
+             "tradeRequest": "Hey, Want to trade?",
+
+             "outerColor": [9, 92, 17],
+             "innerColor": [210, 136, 7],
+             "uniqueName": "Bombora",
+             "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
+             "cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galeborne","Cannervale","Koola","Waggaton","Sambay","Bunjitown",
+	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"]
 },
         //Rakhvia
 	{
