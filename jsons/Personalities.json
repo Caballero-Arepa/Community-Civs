@@ -94,7 +94,7 @@
 			"Commerce": 20,
 			"Patronage": 10,
 			"Piety": 10,
-			"Rationalism": 50,
+			"Rationalism": 80,
 			"Freedom": 20,
 			"Autocracy": 40,
 			"Order": 40
@@ -128,4 +128,26 @@
 		"warMongering": 8,
 		"uniques": ["Will not build [National Epic]","Will not build [The Great Library]","Will not build [Angkor Wat]"]
 	},
+	{
+"name": "BennieCUBED",
+"preferredVictoryType": "Scientific",
+"culture": 7,
+"faith": 1,
+"food": 3,
+"gold": 4,
+"happiness": 5,
+"production": 9,
+"science": 7,
+"military": 4,
+"priorities": {
+"Tradition": 20,
+"Liberty": 30,
+"Commerce": 20,
+"Rationalism": 30,
+"Freedom": 30,
+"Order": 20,
+},
+"warMongering": 2,
+"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
+},
 ]
