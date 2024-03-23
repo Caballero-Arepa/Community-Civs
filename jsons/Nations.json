@@ -408,10 +408,10 @@
     {
         "name": "VividVale",
 	"style": "VividValean",
-        "leaderName": "TCube",
+        "leaderName": "TCube", 
         "adjective": ["VividValian"],
         "startBias": ["Coast"],
-        "preferredVictoryType": "Scientific",
+        "personality": "BennieCUBED",
         "favoredReligion": "Christianity",
 
         "startIntroPart1": "Do good.",
