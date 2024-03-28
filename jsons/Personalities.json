@@ -90,8 +90,8 @@
 		"priorities": {
 			"Tradition": 30,
 			"Liberty": 10,
-			"Honor": 25,
-			"Commerce": 25,
+			"Honor": 30,
+			"Commerce": 20,
 			"Patronage": 10,
 			"Piety": 10,
 			"Rationalism": 80,
