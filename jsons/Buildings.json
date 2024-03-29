@@ -124,6 +124,7 @@
 		"uniqueTo":"Aleksandria",
 		"production": 2,
 		"culture": 1,
+		"cost": 110,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
