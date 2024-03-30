@@ -102,31 +102,31 @@
 		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	}
-		{
+{
 		"name": "Penguinesia_AI_optimised",
 		"preferredVictoryType": "Scientific",
-		"culture": 7,
+		"culture": 9,
 		"faith": 1,
 		"food": 10,
-		"gold": 3,
+		"gold": 4,
 		"happiness": 6,
-		"production": 9,
+		"production": 8,
 		"science": 5,
 		"military": 6,
 		"priorities": {
-			"Tradition": 20,
+			"Tradition": 0,
 			"Liberty": 40,
-			"Honor": 10,
-			"Commerce": 0,
+			"Honor": 20,
+			"Commerce": 10,
 			"Patronage": 0,
 			"Piety": 0,
 			"Rationalism": 30,
 			"Freedom": 0,
-			"Autocracy": 0,
-			"Order": 50
+			"Autocracy": 50,
+			"Order": 0
 		},
 		"warMongering": 7,
-		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Walls]","Will not build [Barracks]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [Haga Sophia]","Will not build [Kremlin]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
+		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Temple]","Will not build [Walls]","Will not build [Castle]","Will not build [Arsenal]","Will not build [Barracks] <before discovering [Replaceable Parts]>","Will not build [Stadium]","Will not build [Bomb Shelter]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [Haga Sophia]","Will not build [Kremlin]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
 	},
 	{
 "name": "BennieCUBED",
