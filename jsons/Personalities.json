@@ -126,7 +126,7 @@
 			"Order": 50
 		},
 		"warMongering": 7,
-		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Walls]","Will not build [Barracks]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [National Epic]","Will not build [Heroic Epic]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
+		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Walls]","Will not build [Barracks]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [Kremlin]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
 	},
 	{
 "name": "BennieCUBED",
