@@ -123,14 +123,15 @@
 		"replaces": "Workshop",
 		"uniqueTo":"Aleksandria",
 		"production": 2,
-		"culture": 1,
+		"happiness": 1,
+		"cost": 110,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+1 Happiness, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
+		"uniques": ["[+1 Culture, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{

@@ -1,0 +1,153 @@
+[
+	/*
+	{
+		"name": "Template",
+		"preferredVictoryType": "Victory",
+		"culture": ,
+		"faith": ,
+		"food": ,
+		"gold": ,
+		"happiness": ,
+		"production": ,
+		"science": ,
+		"military": ,
+		"priorities": {
+			"Tradition": ,
+			"Liberty": ,
+			"Honor": ,
+			"Commerce": ,
+			"Patronage": ,
+			"Piety": ,
+			"Rationalism": ,
+			"Freedom": ,
+			"Autocracy": ,
+			"Order": 
+		},
+		"warMongering": ,
+		"uniques": ["Will not build [baseUnitFilter/buildingFilter]"],
+		"civilopediaText": [
+			{"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
+		]
+	},
+	*/
+	{
+		"name": "Caballero Arepa",
+		"preferredVictoryType": "Dipplomatic",
+		"culture": 10,
+		"faith": 7,
+		"food": 8,
+		"gold": 5,
+		"happiness": 5,
+		"production": 6,
+		"science": 5,
+		"military": 5,
+		"priorities": {
+			"Tradition": 10,
+			"Liberty": 30,
+			"Honor": 10,
+			"Piety": 20,
+			"Rationalism": 20,
+			"Freedom": 30,
+			"Order": 30
+		},
+		"warMongering": 4,
+		"uniques": ["Will not build [Manhattan Project]"]
+	},
+	{
+		"name": "Fast Doubloon",
+		"preferredVictoryType": "Diplomatic",
+		"culture": 6,
+		"faith": 2,
+		"food": 7,
+		"gold": 10,
+		"happiness": 7,
+		"production": 7,
+		"science": 8,
+		"military": 4,
+		"priorities": {
+			"Tradition": 21,
+			"Liberty": 20,
+			"Commerce": 45,
+			"Patronage": 10,
+			"Rationalism": 50,
+			"Freedom": 30,
+			"Autocracy": 30,
+			"Order": 30
+		},
+		"warMongering": 4
+	},
+{
+		"name": "A1y0sh4",
+		"preferredVictoryType": "Scientific",
+		"culture": 8,
+		"faith": 3,
+		"food": 7,
+		"gold": 5,
+		"happiness": 5,
+		"production": 10,
+		"science": 9,
+		"military": 7,
+		"priorities": {
+			"Tradition": 30,
+			"Liberty": 10,
+			"Honor": 30,
+			"Commerce": 20,
+			"Patronage": 10,
+			"Piety": 10,
+			"Rationalism": 80,
+			"Freedom": 25,
+			"Autocracy": 40,
+			"Order": 40
+		},
+		"warMongering": 7,
+		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+	}
+		{
+		"name": "Penguinesia_AI_optimised",
+		"preferredVictoryType": "Scientific",
+		"culture": 7,
+		"faith": 0,
+		"food": 10,
+		"gold": 3,
+		"happiness": 7,
+		"production": 9,
+		"science": 5,
+		"military": 6,
+		"priorities": {
+			"Tradition": 20,
+			"Liberty": 40,
+			"Honor": 10,
+			"Commerce": 0,
+			"Patronage": 0,
+			"Piety": 0,
+			"Rationalism": 30,
+			"Freedom": 0,
+			"Autocracy": 0,
+			"Order": 50
+		},
+		"warMongering": 9,
+		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Walls]","Will not build [Barracks]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [National Epic]","Will not build [Heroic Epic]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
+	},
+	{
+"name": "BennieCUBED",
+"preferredVictoryType": "Scientific",
+"culture": 7,
+"faith": 1,
+"food": 3,
+"gold": 4,
+"happiness": 5,
+"production": 9,
+"science": 7,
+"military": 4,
+"priorities": {
+"Tradition": 20,
+"Liberty": 30,
+"Commerce": 20,
+"Rationalism": 30,
+"Freedom": 30,
+"Order": 20,
+},
+"warMongering": 2,
+"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
+},
+]
