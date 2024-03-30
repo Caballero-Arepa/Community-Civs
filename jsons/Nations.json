@@ -171,7 +171,7 @@
 		"outerColor": [30, 71, 133],
 		"innerColor": [255, 127, 0],
 
-		"startBias": ["Coast"],
+		//"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Penguinesia_AI_optimised",
 		"favoredReligion": "Humanism",
