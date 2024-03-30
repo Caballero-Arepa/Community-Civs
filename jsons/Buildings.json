@@ -7,7 +7,8 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["[40]% Food is carried over after population increases [in this city]",
-					"Creates a [Arepa House] improvement on a specific tile"],
+			"Creates a [Arepa House] improvement on a specific tile",
+			"[+1 Culture] from [Great Improvement] tiles [in this city] <within [1] tiles of a [Arepa House]>"],
 		"requiredTech": "Engineering"
 	},
 // Lasty's Kazakhstan
