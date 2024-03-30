@@ -103,30 +103,30 @@
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	}
 		{
-		"name": "Emperor Penguin",
+		"name": "Penguinesia_AI_optimised",
 		"preferredVictoryType": "Scientific",
-		"culture": 5,
-		"faith": 6,
-		"food": 7,
-		"gold": 4,
-		"happiness": 8,
-		"production": 10,
-		"science": 7,
-		"military": 7,
+		"culture": 7,
+		"faith": 0,
+		"food": 10,
+		"gold": 3,
+		"happiness": 7,
+		"production": 9,
+		"science": 5,
+		"military": 6,
 		"priorities": {
-			"Tradition": 40,
-			"Liberty": 30,
-			"Honor": 20,
-			"Commerce": 20,
-			"Patronage": 10,
+			"Tradition": 20,
+			"Liberty": 40,
+			"Honor": 10,
+			"Commerce": 0,
+			"Patronage": 0,
 			"Piety": 0,
-			"Rationalism": 50,
-			"Freedom": 40,
-			"Autocracy": 40,
-			"Order": 20
+			"Rationalism": 30,
+			"Freedom": 0,
+			"Autocracy": 0,
+			"Order": 50
 		},
-		"warMongering": 8,
-		"uniques": ["Will not build [National Epic]","Will not build [The Great Library]","Will not build [Angkor Wat]"]
+		"warMongering": 9,
+		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Walls]","Will not build [Great Library]","Will not build [Statue of Zeus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Library]","Will not build [Great Mosque of Djenne]","Will not build [National Epic]","Will not build [Heroic Epic]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
 	},
 	{
 "name": "BennieCUBED",
