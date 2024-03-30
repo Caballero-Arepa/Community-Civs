@@ -29,10 +29,10 @@
 		
 		"uniqueName": "Uplifting Arepas",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[-50]% maintenance on road & railroads <with [Arepa]>",
-			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
+			"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writting]>",
+			"[+5] HP when healing <within [2] tiles of a [Arepa House]>"],
 
-		"cities": ["Central Arepa","Aguapanela","Villa Chóclo","Puerto Boyacense","La Paila","Patacón",
+		"cities": ["Central Arepa","Aguapanela","Puerto Chóclo","Villa Boyacense","La Paila","Patacón",
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
