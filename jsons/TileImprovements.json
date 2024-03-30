@@ -36,10 +36,10 @@
 		"turnsToBuild": 7,
 		"uniques": [
 			"[+1 Food] from [Snow] tiles",
+			"[+1 Food] <after discovering [Civil Service]>",
 			"[+2 Science] for each adjacent [Academy]",
 			"[+2 Culture] for each adjacent [Landmark]",
-			"Tile provides yield without assigned population",
-			"Unlocked at Education"],
-		"techRequired": "Education"
+			"Tile provides yield without assigned population"],
+		"techRequired": "Construction"
 	},
 ]
