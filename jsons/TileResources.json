@@ -3,6 +3,12 @@
 	{
 		"name": "Arepa",
 		"resourceType": "Luxury",
+		"uniques": [
+        		"Comment: [+10% [Food] in all cities with [Arepa]]",
+			"Comment: [+10% [Culture] in all cities with [Arepa]]",
+			"Comment: [[+1 Culture] from each Trade Route with [Arepa] after discovering Writting]",
+			"Comment: [[-2 Happiness with [Arepa]]",
+    	],
 		"civilopediaText": [{"text": "The main preparation is made with cooked corn, then grinded shapping it in clasical circle, to be cooked in a pan or a grill."}]
 	}
 ]
