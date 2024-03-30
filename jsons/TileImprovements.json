@@ -5,7 +5,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
 		"uniques": [
-			"[+1 Gold] for each adjacent [Great Improvement]",
+			"[+1 Gold] <within [1] tiles of a [Great Improvement]>",
 			"[+1 Production] <after discovering [Machinery]>",
 			"[+1 Food] <after discovering [Biology]>",
 			"Great Improvement","Provides [1] [Arepa]",
