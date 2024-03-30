@@ -29,7 +29,6 @@
 		
 		"uniqueName": "Uplifting Arepas",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writting]>",
 			"[+5] HP when healing <within [2] tiles of a [Arepa House]>"],
 
 		"cities": ["Central Arepa","Aguapanela","Puerto Chóclo","Villa Boyacense","La Paila","Patacón",
