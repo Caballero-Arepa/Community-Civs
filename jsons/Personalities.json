@@ -101,7 +101,7 @@
 		},
 		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
-	}
+	},
 {
 		"name": "Penguinesia_AI_optimised",
 		"preferredVictoryType": "Scientific",
