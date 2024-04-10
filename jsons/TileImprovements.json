@@ -40,6 +40,6 @@
 			"[+2 Science] for each adjacent [Academy]",
 			"[+2 Culture] for each adjacent [Landmark]",
 			"Tile provides yield without assigned population"],
-		"techRequired": "Construction"
+		"techRequired": "Mathematics"
 	},
 ]
