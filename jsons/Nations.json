@@ -759,5 +759,16 @@
 		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [2] neighboring [Forest] tiles>","[+2 Happiness] [in all cities] <with [3] to [6] neighboring [Forest] tiles>",
 			"[+1 Production] from [Forest] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
+	},
+	{
+		"name": "Willosaur Tamaran",
+		"leaderName": "Will Wright",
+		"outerColor": [44, 120, 101],
+		"innerColor": [255, 152, 0],
+
+		"uniqueName": "Three-legged Tail Fighters",
+		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
+		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
+			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
 	}
 ]

@@ -249,7 +249,7 @@
 		"uniqueTo": "The Not Guy Fawkes",
 		"production": 2,
 		"maintenance": 0,
-		"uniques": ["Can be build in all cities", 
+		"uniques": ["Comment [Can be build in all cities]", 
 					"[+2 Gold] from [Copper] tiles [in this city]", 
 					"[+2 Gold] from [Gems] tiles [in this city]", 
 					"[+2 Gold] from [Gold Ore] tiles [in this city]", 
@@ -308,5 +308,17 @@
 		"maintenance": 2,
 		"requiredTech": "Acoustics",
 		"uniques": ["[20]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
+	},
+	{ //Willosaur Tamaran
+		"name": "Spice Mine",
+		"replaces": "Bank",
+		"uniqueTo": "Willosaur Tamaran",
+		"gold": 2,
+		"food": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	},
 ]
