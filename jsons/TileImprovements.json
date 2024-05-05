@@ -5,7 +5,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
 		"uniques": [
-			"[+1 Gold] for each adjacent [Great Improvement]",
+			"[+1 Gold] <within [1] tiles of a [Great Improvement]>",
 			"[+1 Production] <after discovering [Machinery]>",
 			"[+1 Food] <after discovering [Biology]>",
 			"Great Improvement","Provides [1] [Arepa]",
@@ -36,10 +36,10 @@
 		"turnsToBuild": 7,
 		"uniques": [
 			"[+1 Food] from [Snow] tiles",
+			"[+1 Food] <after discovering [Civil Service]>",
 			"[+2 Science] for each adjacent [Academy]",
 			"[+2 Culture] for each adjacent [Landmark]",
-			"Tile provides yield without assigned population",
-			"Unlocked at Education"],
-		"techRequired": "Education"
+			"Tile provides yield without assigned population"],
+		"techRequired": "Mathematics"
 	},
 ]

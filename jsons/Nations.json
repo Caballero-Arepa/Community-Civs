@@ -29,7 +29,6 @@
 		
 		"uniqueName": "Uplifting Arepas",
 		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writting]>",
 			"[+5] HP when healing <within [2] tiles of a [Arepa House]>"],
 
 		"cities": ["Central Arepa","Aguapanela","Puerto Chóclo","Villa Boyacense","La Paila","Patacón",
@@ -172,7 +171,7 @@
 		"outerColor": [30, 71, 133],
 		"innerColor": [255, 127, 0],
 
-		"startBias": ["Coast"],
+		//"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Penguinesia_AI_optimised",
 		"favoredReligion": "Humanism",
@@ -258,8 +257,8 @@
 "startBias": ["Tundra"],
 "personality": "A1y0sh4",
 
-	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring you countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. The fame of your virtues stretches far and wide, as the renown of your deeds amazes both friends and foes alike. Starting as the coalition of the northen tribes, Aleksandria managed to endure the challenges posed by artic life and succeded to thrive in the rigid land of the boreal lights. Now she stands bold in pride, as she leaps forward to forge her testament in the annals of time.",
-	"startIntroPart2": "O great emperor, your people - and your ambition - call you to power, for it's your own destinity to bring glory to the Motherland. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Will you rule Aleksandria with eagerness and keenness or with doubt and uncertainty? Can you build a civilization that will stand the test of time?",
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Starting as a humble coalition of the northern tribes, your people managed to endure the daring challenges posed by artic life. Through a fierce resilience and a blazing pride, they succeded to thrive under the sageful gaze of boreal lights. Now, the fame of Aleksandria stretches far and wide, as the renown of her deeds amazes both friends and foes alike.",
+	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
 	"attacked": "Finally someone ambitious enough to try to win me over. May you succeed or die under my triumph.",
@@ -284,7 +283,7 @@
 	"uniqueName": "Pearl of the North",
 	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% construction time for [All] improvements <within [1] tiles of a [Tundra]>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
-		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
+		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
 	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
 },
