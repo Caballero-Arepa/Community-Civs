@@ -78,7 +78,7 @@
                           "[+33]% Strength <vs cities>",
                           "[+33]% Strength <vs [Ranged Water] units>",
                           "Double movement in [Coast]",
-                          "Doesn't upgrade to Destroyer but gets it abilities after discovering Combustion",
+                          "Comment [Doesn't upgrade to Destroyer but gets it abilities after discovering Combustion]",
                           "Can see invisible [Submarine] units <after discovering [Combustion]>", "[66]% chance to intercept air attacks <after discovering [Combustion]>",
 			  "[+100]% Strength <vs [Submarine] units> <after discovering [Combustion]>", "[+33]% Strength <after discovering [Combustion]>",
                           "[+33]% Strength <after discovering [Lasers]>"
@@ -98,7 +98,7 @@
 		"cost": 375,
 		"requiredResource": "Iron",
 		"requiredTech": "Electronics",
-		"uniques": ["Upgrades to Missile Cruiser","Never appears as a Barbarian unit"],
+		"uniques": ["Comment [Upgrades to Missile Cruiser]","Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
   		"upgradesTo": "Missile Cruiser",
   		"obsoleteTech": "Robotics",
@@ -424,5 +424,21 @@
 		"uniques": [
 			"Turn this tile into a [Forest] tile <by consuming this unit>",
 			"Cost increases by [10] per owned city","Cost increases by [15] when built"]
+	},
+	
+	{ //Willosaur Tamaran
+		"name": "Tamaran Spaceship",
+		"replaces": "Stealth Bomber",
+		"uniqueTo": "Willosaur Tamaran",
+		"unitType": "Bomber",
+		"movement": 4,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 40,
+		"cost": 425,
+		"requiredTech": "Stealth",
+		"requiredResource": "Aluminum",
+		"uniques": ["[+25]% Strength <vs [Armored] units>","Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
+		"attackSound": "bombing"
 	},
 ]

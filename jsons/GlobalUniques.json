@@ -3,7 +3,7 @@
     "uniques": [
         "[+10]% [Food] [in all cities] <with [Arepa]>",
 	"[+10]% [Culture] [in all cities] <with [Arepa]>",
-	"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writting]>",
-	"[-2 Happiness] <with [Arepa]>",
+	"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writing]>",
+	"[-2 Happiness] <with [Arepa]>"
     ]
 }
