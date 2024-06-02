@@ -39,7 +39,7 @@
 			"[+1 Food] <after discovering [Civil Service]>",
 			"[+2 Science] for each adjacent [Academy]",
 			"[+2 Culture] for each adjacent [Landmark]",
-			"Tile provides yield without assigned population"],
-		"techRequired": "Mathematics"
+			"[+2 Faith] for each adjacent [Holy site]"],
+		"techRequired": "Calendar"
 	},
 ]
