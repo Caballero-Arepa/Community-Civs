@@ -281,8 +281,8 @@
 	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "+1 [Science] from every [Mine] adjacent to a [Tundra] tile\n+1 [Culture] from every [Camp] adjacent to a [Tundra] tile\n(these values double during a Golden Age)",
-	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
+	"uniqueText": "+1 [Culture] from every Resource in a [Tundra] tile\n+1 [Science] and [Production] from every [Tundra] during a Golden Age",
+	"uniques": ["[+1 Culture] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture] from every [Luxury resource] <in [Tundra] tiles>", "[+1 Culture] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Science, +1 Production] from every [Tundra] <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
