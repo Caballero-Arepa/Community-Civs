@@ -102,32 +102,42 @@
 		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	},
-{
-		"name": "Penguinesia_AI_optimised",
-		"preferredVictoryType": "Scientific",
-		"culture": 8,
-		"faith": 1,
-		"food": 10,
-		"gold": 4,
-		"happiness": 6,
-		"production": 9,
-		"science": 5,
-		"military": 6,
-		"priorities": {
-			"Tradition": 0,
-			"Liberty": 40,
-			"Honor": 20,
-			"Commerce": 10,
-			"Patronage": 0,
-			"Piety": 0,
-			"Rationalism": 30,
-			"Freedom": 0,
-			"Autocracy": 50,
-			"Order": 0
-		},
-		"warMongering": 7,
-		"uniques": ["Will not build [Catapult]","Will not build [Shrine]","Will not build [Temple]","Will not build [Walls]","Will not build [Arsenal]","Will not build [Barracks] <before discovering [Replaceable Parts]>","Will not build [Stadium]","Will not build [Bomb Shelter]","Will not build [The Great Library]","Will not build [Statue of Zeus]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Colossus]","Will not build [Great Mosque of Djenne]","Will not build [Hagia Sophia]","Will not build [Great Wall]","Will not build [Kremlin]","Will not build [Pentagon]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]"]
-	},
+  {
+      "name": "Penguinesia_AI_optimised",
+       // Stats focused personalities
+      "culture": 8,
+      "faith": 1,
+      "food": 10,
+      "gold": 6,
+      "happiness": 6,
+      "production": 9,
+      "science": 5,
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 6,
+      "diplomacy": 6,
+      "loyal": 6,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 0,
+          "Liberty": 40,
+          "Honor": 20,
+          "Commerce": 10,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 30,
+          "Freedom": 0,
+          "Autocracy": 50,
+          "Order": 0
+      },
+      "uniques": ["Will not build [Wonder] <in cities without a [Granary]>","Will not build [Worker] <in cities without a [Monument]>","Will not build [Granary] <in cities without a [Monument]>","Will not build [Amphitheater] <in cities without a [Market]>","Will not build [Market] <in cities without a [Granary]>","Will not build [Library] <in cities without a [Workshop]>","Will not build [Workshop] <in cities without a [Aqueduct]>","Will not build [Garden]","Will not build [Catapult]","Will not build [Shrine]","Will not build [Temple]","Will not build [Walls]","Will not build [Castle]","Will not build [Arsenal]","Will not build [Barracks] <in cities without a [University]>","Will not build [Armory] <in cities without a [Public School]>","Will not build [Military Academy] <in cities without a [Research Lab]>","Will not build [Stadium] <while the empire is happy>","Will not build [Bomb Shelter]","Will not build [Mausoleum of Helicarnassus]","Will not build [The Pyramids]","Will not build [Great Mosque of Djenne]","Will not build [Hagia Sophia]","Will not build [Great Wall]","Will not build [Kremlin]","Will not build [Pentagon]","Will not build [National Epic]","Will not build [Stonehenge]","Will not build [Angkor Wat]","Will not build [Rocket Artillery] <when below [3] [Aluminum]>","Will not build [Stealth Bomber] <when below [3] [Aluminum]>","Will not build [Jet Fighter] <when below [3] [Aluminum]>","Will not build [Jet Fighter] <when below [3] [Aluminum]>","Will not build [Spaceship Factory] <when below [3] [Aluminum]>","Will not build [Hydro Plant] <when below [3] [Aluminum]>","Will not build [Nuclear Plant]"],
+      "civilopediaText": [
+          {"text": "EmperorPenguin, the Scourge of the Seven Seas (and of every Unciv server:))"}
+      ]
+  },
 	{
 "name": "BennieCUBED",
 "preferredVictoryType": "Scientific",
