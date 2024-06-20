@@ -76,7 +76,7 @@
 		},
 		"warMongering": 4
 	},
-{
+	{
 		"name": "A1y0sh4",
 		"preferredVictoryType": "Scientific",
 		"culture": 8,
@@ -102,7 +102,7 @@
 		"warMongering": 7,
 		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
 	},
-  {
+	{
       "name": "Penguinesia_AI",
       // Stats focused personalities
       "culture": 8,
@@ -137,28 +137,66 @@
       "civilopediaText": [
           {"text": "EmperorPenguin, the Scourge of the Seven Seas (and of every Unciv server:))"}
       ]
-  },
+	},
 
 	{
-"name": "BennieCUBED",
-"preferredVictoryType": "Scientific",
-"culture": 7,
-"faith": 1,
-"food": 3,
-"gold": 4,
-"happiness": 5,
-"production": 9,
-"science": 7,
-"military": 4,
-"priorities": {
-"Tradition": 20,
-"Liberty": 30,
-"Commerce": 20,
-"Rationalism": 30,
-"Freedom": 30,
-"Order": 20,
-},
-"warMongering": 2,
-"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
-},
+		"name": "BennieCUBED",
+		"preferredVictoryType": "Scientific",
+		"culture": 7,
+		"faith": 1,
+		"food": 3,
+		"gold": 4,
+		"happiness": 5,
+		"production": 9,
+		"science": 7,
+		"military": 4,
+		"priorities": {
+			"Tradition": 20,
+			"Liberty": 30,
+			"Commerce": 20,
+			"Rationalism": 30,
+			"Freedom": 30,
+			"Order": 20,
+		},
+		"warMongering": 2,
+		"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
+	},
+
+	{
+		"name": "Guy Not Fawkes",
+		
+		"culture": 4,
+		"faith": 2,
+		"food": 7,
+		"gold": 8,
+		"happiness": 6,
+		"production": 7,
+		"science": 8,
+		
+		"military": 8,
+		"aggressive": 6,
+		"declareWar": 5,
+		"commerce": 6,
+		"diplomacy": 7,
+		"loyal": 6,
+		"expansion": 8,
+
+		"priorities": {
+			"Tradition": 10,
+			"Liberty": 40,
+			"Honor": 10,
+			"Commerce": 20,
+			"Patronage": 10,
+			"Piety": 0,
+			"Rationalism": 50,
+			"Freedom": 30,
+			"Autocracy": 30,
+			"Order": 0
+		},
+	"uniques": [
+		"Will not build [Temple]", "Will not build [Museum]", "Will not build [Stadium] <while the empire is happy>", "Will not build [Broadcast Tower]", "Will not build [Military Base]", "Will not build [Spaceship Factory] <when below [3] [Aluminum]>", 
+		"Will not build [Stonehnge]", "Will not build [The Pyramids]", "Will not build [Great Wall]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Angkor Wat]", "Will not build [Himeji Castle]", "Will not build [Kremlin]", "Will not build [Cristo Redentor]", "Will not build [Pentagon]", 
+		"Will not build [Catapult]"
+	],
+	},
 ]
