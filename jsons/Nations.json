@@ -364,6 +364,7 @@
 		"adjective": ["Thuntopian"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
+		"personality": "Thunder",
 
 		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
 
@@ -713,6 +714,7 @@
 		"name": "The Fast Economists",
 		"leaderName": "Fast Doubloon",
 		"personality": "Fast Doubloon",
+		"preferredVictoryType": "Scientific",
 		"startBias": ["Coast"],
 		"outerColor": [52, 30, 4],
 		"innerColor": [229, 181, 25],
