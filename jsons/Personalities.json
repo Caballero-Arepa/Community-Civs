@@ -32,7 +32,7 @@
 	*/
 	{
 		"name": "Caballero Arepa",
-		"preferredVictoryType": "Dipplomatic",
+		"preferredVictoryType": "Diplomatic",
 		"culture": 10,
 		"faith": 7,
 		"food": 8,
@@ -53,29 +53,71 @@
 		"warMongering": 4,
 		"uniques": ["Will not build [Manhattan Project]"]
 	},
-	{
-		"name": "Fast Doubloon",
-		"preferredVictoryType": "Diplomatic",
-		"culture": 6,
-		"faith": 2,
-		"food": 7,
-		"gold": 10,
-		"happiness": 7,
-		"production": 7,
-		"science": 8,
-		"military": 4,
-		"priorities": {
-			"Tradition": 21,
-			"Liberty": 20,
-			"Commerce": 45,
-			"Patronage": 10,
-			"Rationalism": 50,
-			"Freedom": 30,
-			"Autocracy": 30,
-			"Order": 30
+
+
+Uniques: 
+{
+      "name": "Fast Doubloon",
+      // Stats focused personalities
+      "culture": 6,
+      "faith": 2,
+      "food": 7,
+      "gold": 10,
+      "happiness": 7,
+      "production": 7,
+      "science": 8,
+      // Behaviour focused personalities
+      "military": 4,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 10, //high Commerce value as Diplomacy is intended to be the secondary victory type
+      "diplomacy": 10,
+      "loyal": 10,
+      "expansion": 5,
+      "priorities": {
+            "Tradition": 40,
+            "Liberty": 39,
+            "Commerce": 70,
+            "Patronage": 10,
+            "Rationalism": 80,
+            "Freedom": 60,
+            "Autocracy": 60,
+            "Order": 60
 		},
-		"warMongering": 4
-	},
+			"uniques": ["Will not build [Temple], Will not build [Warrior], will not build [Scout]"],
+},
+{
+      "name": "Thunder",
+      // Stats focused personalities
+      "culture": 5,//needs to be updated
+      "faith": 5,
+      "food": 5,
+      "gold": 5,
+      "happiness": 5,
+      "production": 5,
+      "science": 5,
+      // Behaviour focused personalities
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 10,
+      "commerce": 5,
+      "diplomacy": 5,
+      "loyal": 5,
+      "expansion": 5,
+      "priorities": {
+          "Tradition": 0,
+          "Liberty": 0,
+          "Honor": 50,
+          "Commerce": 30,
+          "Patronage": 0,
+          "Piety": 0,
+          "Rationalism": 20,
+          "Freedom": 0,
+          "Autocracy": 40,
+          "Order": 0
+		},
+      //"uniques": [""],
+},
 {
 		"name": "A1y0sh4",
 		"preferredVictoryType": "Scientific",
