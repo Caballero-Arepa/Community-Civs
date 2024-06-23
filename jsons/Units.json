@@ -289,7 +289,7 @@
 		"attackSound": "nonmetalhit",
 	},
 	
-	// The Not Guy Fawkes
+// The Not Guy Fawkes
 	{
 		"name": "Backswordsman",
 		"unitType": "Sword",
@@ -302,14 +302,11 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"hurryCostModifier": -50,
-		"uniques": ["No movement cost to pillage", 
-					"[-100]% maintenance costs"],
-		"attackSound": "metalhit",
-		"civilopediaText": [
-			{"text": "Menawi angsal arta kanthi njarah mboten mbetahaken beaya obah, lan murah sanget menawi ditumbas."}
-		]
+		"hurryCostModifier": -40,
+		"promotions": ["[Backswordsman] ability"],
+		"attackSound": "metalhit"
 	},
+	
 // Ravignir	
     {
 		"name": "Unicycle Clown",
@@ -351,6 +348,7 @@
 		"promotions": ["[Bounty Hunter] ability", "Mobility"],
 		"attackSound": "shot"
 	},
+
 // New Prussia
 	{
 		"name": "Konskript",
@@ -379,7 +377,8 @@
 		"promotions": ["March"],
 		"attackSound": "gdrAttack"
 	},
-	//Arkistia
+
+//Arkistia
 	{
 		"name": "Raptor Rider",
 		"replaces": "Horseman",
@@ -397,7 +396,8 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
-	//Fast Doubloon
+
+//Fast Doubloon
 	{
 		"name": "Trade Boats",
 		"uniqueTo": "The Fast Economists",
@@ -414,7 +414,8 @@
 		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Can undertake a trade mission with City-State, giving a large sum of gold and [25] Influence"],
 		"attackSound": "shipguns"
 	},
-	//Tyrumas
+
+//Tyrumas
 	{
 		"name": "Ent-tenette",
 		"uniqueTo": "Sylvanor",
@@ -425,8 +426,9 @@
 			"Turn this tile into a [Forest] tile <by consuming this unit>",
 			"Cost increases by [10] per owned city","Cost increases by [15] when built"]
 	},
-	
-	{ //Willosaur Tamaran
+
+//Willosaur Tamaran
+	{ 
 		"name": "Tamaran Spaceship",
 		"replaces": "Stealth Bomber",
 		"uniqueTo": "Willosaur Tamaran",
