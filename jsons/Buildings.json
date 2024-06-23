@@ -195,7 +195,8 @@
 		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
-	//Rakhvia
+	
+//Rakhvia
     {
 		"name": "Military Lab",
 		"replaces": "Research Lab",
@@ -247,17 +248,18 @@
 		"replaces": "Mint",
 		"uniqueTo": "The Not Guy Fawkes",
 		"production": 2,
+		"gold": 2,
 		"maintenance": 0,
-		"uniques": ["Comment [Can be build in all cities]", 
-					"[+2 Gold] from [Copper] tiles [in this city]", 
+		"uniques": ["[+2 Gold] from [Copper] tiles [in this city]", 
 					"[+2 Gold] from [Gems] tiles [in this city]", 
 					"[+2 Gold] from [Gold Ore] tiles [in this city]", 
 					"[+2 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Currency",
 		"civilopediaText": [
-			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di ngge piyambak."}
+			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di agem piyambak."}
 		],
 	},
+
 // Ravignir
     {
 		"name": "Clown Alley",
@@ -269,7 +271,8 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Construction",
 	},
-	//Arkistia
+
+//Arkistia
 	{
 		"name": "Fossil Market",
 		"replaces": "Bank",
@@ -282,7 +285,8 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-	//Fast Doubloon
+
+//Fast Doubloon
 	{
 		"name": "Trading Center",
 		"uniqueTo": "The Fast Economists",
@@ -293,7 +297,8 @@
 		"percentStatBonus": {"gold": 45},
 		"requiredTech": "Currency"
 	},
-	//Tyrumas
+
+//Tyrumas
 	{
 		"name": "Food House",
 		"replaces": "Opera House",
@@ -307,7 +312,9 @@
 		"requiredTech": "Acoustics",
 		"uniques": ["[20]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
 	},
-	{ //Basil
+
+// Basil
+	{
 		"name": "Spice Mine",
 		"replaces": "Bank",
 		"uniqueTo": "Willosaur Tamaran",

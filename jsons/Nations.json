@@ -499,7 +499,8 @@
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
   },
-  
+ 
+ // Letstalkaboutdune
     {
 		"name": "Absolute Union",
 		"leaderName": "Letstalkaboutdune",
@@ -515,61 +516,60 @@
 		"startIntroPart1": "Greetings, leader Dune of your prosperous commune. A hub for all things aesthetic, your civilization emerged as a haven for producing great artists and their works.",
 		"startIntroPart2": "Can you stand tall against the uncultured hordes who hope to crush your precious peace? The worms rest deep in their burrows, ready to be called upon if needed to protect your path to victory.",
  
-	    "introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
-	    "declaringWar": "My giant worms will turn you into compost!",
-     	"attacked": "Curse your sudden, but inevitable betrayal!",
+		"introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
+		"declaringWar": "My giant worms will turn you into compost!",
+		"attacked": "Curse your sudden, but inevitable betrayal!",
 		"afterPeace": "Finally, I can get back to my pixels.",
 		"defeated": "Guess I should've built more units.",
 
-     	"neutralHello": "Hi there.",
-    	"hateHello": "You again?",
-
+		"neutralHello": "Hi there.",
+		"hateHello": "You again?",
     	"tradeRequest": "May I interest you in these fine pieces?",
 		
 		"uniqueName": "Absolute Artists",
-		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>", "[Great Artist] is earned [50]% faster"],
-
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
+					"[Great Artist] is earned [50]% faster"],
 		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
-  },
+	},
 //Rize
-{
-        "name": "Cadari Republik",
-        "leaderName": "Rize",
-        "adjective": ["Cadarian"],
-	"startBias": ["Grassland"],
-	"preferredVictoryType": "Cultural",
+	{
+		"name": "Cadari Republik",
+		"leaderName": "Rize",
+		"adjective": ["Cadarian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 
+		"startIntroPart1": "Greetings, President of the Republik.",
+		"startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
 
-        "startIntroPart1": "Greetings, President of the Republik.",
-        "startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
-
-        "introduction": "Hi.",
-        "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
-         "attacked": "We will not falter nor surrender, we will fight for our nation.",
-        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
-         "neutralHello": "Pleased to see you.",
-        "hateHello": "What brings you here? Make it quick.",
-        "tradeRequest": "This is an offer you would certainly like, please consider it",
+		"introduction": "Hi.",
+		"declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
+		"attacked": "We will not falter nor surrender, we will fight for our nation.",
+		
+		"defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
+		"neutralHello": "Pleased to see you.",
+		"hateHello": "What brings you here? Make it quick.",
+		"tradeRequest": "This is an offer you would certainly like, please consider it",
 	
-	"outerColor": [250, 250, 250],
-        "innerColor": [50, 200, 250],
-        
-        "uniqueName": "Nationalistic Fervor",
-        "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
-	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
+		"outerColor": [250, 250, 250],
+		"innerColor": [50, 200, 250],
+		"uniqueName": "Nationalistic Fervor",
+		"uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+		"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
   },
 
-// Faw of The Not Guy Fawkes
+// Faw
 	{
 		"name": "The Not Guy Fawkes",
 		"leaderName": "Faw",
 		"adjective": ["Fauus"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Guy Not Fawkes",
 		
 		"startIntroPart1": "So why should I greet you? Neither you're Guy Fawkes, nor are you a famous man. Why bother?",
 		"startIntroPart2": "Even so, you choose to play ain't you? So be it. Enjoy the game and good luck!",
 		
-		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Us, The NOT Guy Fawkes!",
+		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Me, The NOT Guy Fawkes!",
 		"attacked": "Peace was never an option.",
 		"defeated": "Heleh.. Yo wis.",
 		"afterPeace": "Are we done? If we done, we done.",
@@ -582,34 +582,36 @@
 		"outerColor": [251,236,127],
 		"innerColor": [146, 74,  1],
 		"uniqueName": "Anuanuemas",
-		"uniqueText": "+50% Yield from every Luxury resource \n+1 [Gold] per each type of Luxury resource owned",
-		"uniques": ["[+50]% Yield from every [Luxury resource]", 
-					"[+1 Gold] <with [Citrus]>", 
-					"[+1 Gold] <with [Copper]>", 
-					"[+1 Gold] <with [Cotton]>", 
-					"[+1 Gold] <with [Dyes]>", 
-					"[+1 Gold] <with [Furs]>", 
-					"[+1 Gold] <with [Gems]>", 
-					"[+1 Gold] <with [Gold Ore]>", 
-					"[+1 Gold] <with [Incense]>", 
-					"[+1 Gold] <with [Ivory]>", 
-					"[+1 Gold] <with [Marble]>", 
-					"[+1 Gold] <with [Salt]>", 
-					"[+1 Gold] <with [Silk]>", 
-					"[+1 Gold] <with [Silver]>", 
-					"[+1 Gold] <with [Spices]>", 
-					"[+1 Gold] <with [Sugar]>", 
-					"[+1 Gold] <with [Truffles]>", 
-					"[+1 Gold] <with [Wine]>", 
-					"[+1 Gold] <with [Crab]>", 
-					"[+1 Gold] <with [Pearls]>", 
-					"[+1 Gold] <with [Whales]>", 
-					"[+1 Gold] <with [Jewelry]>", 
-					"[+1 Gold] <with [Porcelain]>", 
-					"[+1 Gold] <with [Arepa]>"],
+		"uniques": ["[+50]% Yield from every [Luxury resource]",
+					"[+2 Gold] <with [Citrus]> <hidden from users>",
+					"[+2 Gold] <with [Copper]> <hidden from users>",
+					"[+2 Gold] <with [Cotton]> <hidden from users>",
+					"[+2 Gold] <with [Dyes]> <hidden from users>",
+					"[+2 Gold] <with [Furs]> <hidden from users>",
+					"[+2 Gold] <with [Gems]> <hidden from users>",
+					"[+2 Gold] <with [Gold Ore]> <hidden from users>",
+					"[+2 Gold] <with [Incense]> <hidden from users>",
+					"[+2 Gold] <with [Ivory]> <hidden from users>",
+					"[+2 Gold] <with [Marble]> <hidden from users>",
+					"[+2 Gold] <with [Salt]> <hidden from users>",
+					"[+2 Gold] <with [Silk]> <hidden from users>",
+					"[+2 Gold] <with [Silver]> <hidden from users>",
+					"[+2 Gold] <with [Spices]> <hidden from users>",
+					"[+2 Gold] <with [Sugar]> <hidden from users>",
+					"[+2 Gold] <with [Truffles]> <hidden from users>",
+					"[+2 Gold] <with [Wine]> <hidden from users>",
+					"[+2 Gold] <with [Crab]> <hidden from users>",
+					"[+2 Gold] <with [Pearls]> <hidden from users>",
+					"[+2 Gold] <with [Whales]> <hidden from users>",
+					"[+2 Gold] <with [Jewelry]> <hidden from users>",
+					"[+2 Gold] <with [Porcelain]> <hidden from users>",
+					"[+2 Gold] <with [Arepa]> <hidden from users>",
+					"Comment [+2 [Gold] per each type of Luxury resource owned]"],
 		"cities": ["Guy Not Fawkes","Regalia","Alion","Gatland","Vinia","Sibisia","Mogrim","Khemul","Ekh-krak","Suulak",
 			"Srandal","La Wang","Klosso","Pi-Ring","Sentir"],
+		"spyNames": ["Adinda","Kakanda","Linda","Pakdenda","Bokdenda","Simbanda","Buyunda","Cangganda","Ipenda","Sepupunda"]
 	},
+	
 // Ravignir
     {
         "name": "Clownish Commonwealth",
@@ -625,7 +627,7 @@
         "declaringWar": "Sorry, I had to XDDD",
         "attacked": "Lol, just die XDDD",
         "defeated": "Do I look like a clown?. Apparently, so.",
-         "neutralHello": "Yes?",
+        "neutralHello": "Yes?",
         "hateHello": "!?!?!",
         "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
 	
