@@ -124,15 +124,14 @@
 		"replaces": "Workshop",
 		"uniqueTo":"Aleksandria",
 		"production": 2,
-		"happiness": 1,
-		"cost": 110,
+		"cost": 120,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+1 Culture, +1 Science] [in this city] <within [1] tiles of a [Tundra]>"]
+		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+1 Production, +1 Food] [in this city] <within [2] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
@@ -196,7 +195,8 @@
 		"uniques": ["[+1 Culture] from [Forest] tiles [in this city]","[+1 Culture] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
-	//Rakhvia
+	
+//Rakhvia
     {
 		"name": "Military Lab",
 		"replaces": "Research Lab",
@@ -248,17 +248,18 @@
 		"replaces": "Mint",
 		"uniqueTo": "The Not Guy Fawkes",
 		"production": 2,
+		"gold": 2,
 		"maintenance": 0,
-		"uniques": ["Comment [Can be build in all cities]", 
-					"[+2 Gold] from [Copper] tiles [in this city]", 
+		"uniques": ["[+2 Gold] from [Copper] tiles [in this city]", 
 					"[+2 Gold] from [Gems] tiles [in this city]", 
 					"[+2 Gold] from [Gold Ore] tiles [in this city]", 
 					"[+2 Gold] from [Silver] tiles [in this city]"],
 		"requiredTech": "Currency",
 		"civilopediaText": [
-			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di ngge piyambak."}
+			{"text": "Ampun namung damel arta, sekalian damel pepaes supados samangke saged dipun dol utawi di agem piyambak."}
 		],
 	},
+
 // Ravignir
     {
 		"name": "Clown Alley",
@@ -270,7 +271,8 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Construction",
 	},
-	//Arkistia
+
+//Arkistia
 	{
 		"name": "Fossil Market",
 		"replaces": "Bank",
@@ -283,19 +285,20 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
-	//Fast Doubloon
+
+//Fast Doubloon
 	{
-		"name": "Fast Economic Growth Center",
+		"name": "Trading Center",
 		"uniqueTo": "The Fast Economists",
-		"replaces": "Bank",
+		"replaces": "Market",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 50},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 45},
+		"requiredTech": "Currency"
 	},
-	//Tyrumas
+
+//Tyrumas
 	{
 		"name": "Food House",
 		"replaces": "Opera House",
@@ -309,7 +312,9 @@
 		"requiredTech": "Acoustics",
 		"uniques": ["[20]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
 	},
-	{ //Willosaur Tamaran
+
+// Basil
+	{
 		"name": "Spice Mine",
 		"replaces": "Bank",
 		"uniqueTo": "Willosaur Tamaran",
@@ -320,5 +325,17 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
+	},
+	{
+		"name": "Entertainment Complex",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "Willosaur Tamaran",
+		"culture": 3,
+		"happiness": 1,
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["[+2 Food] from every specialist [in this city]","Destroyed when the city is captured"]
 	},
 ]

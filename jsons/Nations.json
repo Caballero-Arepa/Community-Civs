@@ -5,8 +5,8 @@
 		"leaderName": "Arepa Lord",
 		"adjective": ["Areperro"],
 	  	"style": "Arepino",
-		"outerColor": [80, 37, 20],
-		"innerColor": [238, 215, 181],
+		"outerColor": [238, 215, 181],
+		"innerColor": [80, 37, 20],
 
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Diplomatic",
@@ -171,10 +171,11 @@
 		"outerColor": [30, 71, 133],
 		"innerColor": [255, 127, 0],
 
-		//"startBias": ["Coast"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
-		"personality": "Penguinesia_AI_optimised",
+		"personality": "Penguinesia_AI",
 		"favoredReligion": "Humanism",
+
 	  
 		"startIntroPart1": "Welcome to Penguinesia, a world of icy diplomacy and strategic mastery, where you will lead a resilient and visionary empire. As the ruler of this great nation, you'll guide your people through frozen tundra and treacherous seas, fostering innovation and scientific progress.",
 		"startIntroPart2": "Balance nature's delicate equilibrium, harness advanced technologies, and embark on groundbreaking scientific endeavors to propel Penguinesia to the forefront of innovation. Form alliances, negotiate treaties, or wage war if necessary, as you strive to establish Penguinesia as the pinnacle of civilization. Embrace the role of Emperor and shape Penguinesia's destiny through wisdom, diplomacy, and the pursuit of greatness. The world awaits your leadership!",
@@ -257,7 +258,7 @@
 "startBias": ["Tundra"],
 "personality": "A1y0sh4",
 
-	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Starting as a humble coalition of the northern tribes, your people managed to endure the daring challenges posed by artic life. Through a fierce resilience and a blazing pride, they succeded to thrive under the sageful gaze of boreal lights. Now, the fame of Aleksandria stretches far and wide, as the renown of her deeds amazes both friends and foes alike.",
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the challenges of arctic life under the sight of the boreal lights. Despite every type of adversity the empire still has to fight, it can rely on their virtues and on your advice for its future to continue to thrive.",
 	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
@@ -265,12 +266,12 @@
 	"defeated": "I know nothing about what I ignore - I'm aware of it -\nyet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
 	"introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious Motherland,\nbut you can call me Alyosha.",
 	"neutralHello": "Zdravstvuyte.",
-	"neutralLetsHearIt":["What shall we discuss now?","Interesting..."],
-	"neutralYes":["Our people are eager to accept.","So be it."],
-	"neutralNo":["I must respectfully decline.","I'm sorry, but currently we are not in the conditions to accept."],
-	"hateLetsHearIt":["Have you come here to negotiate your surrender?","Apparently you're either brave or mad enough to show up here...\nImpressive!"],
-	"hateNo":["I'm afraid not to be appreciating enough your subtle humor.","Please, spare me to hear such nonsense."],
-	"hateYes":["I see with great hope that we can find common ground even in such unfavourable circumstances."],
+	"neutralLetsHearIt":"What shall we discuss now?",
+	"neutralYes":"Our people are eager to accept.",
+	"neutralNo":"I must respectfully decline.",
+	"hateLetsHearIt":"Have you come here to negotiate your surrender?",
+	"hateNo":"I'm afraid not to be appreciating enough your subtle humor.",
+	"hateYes":"I see with great hope that we can find common ground even in such unfavourable circumstances.",
 	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
 	"hateHello": "Why are you still on this side of the Acheron?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
@@ -281,7 +282,8 @@
 	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniques": ["[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[-25]% construction time for [All] improvements <within [1] tiles of a [Tundra]>"],
+	"uniqueText": "+1 [Culture] from every Resource in a [Tundra] tile\n+1 [Science] and [Production] from every [Tundra] during a Golden Age",
+	"uniques": ["[+1 Culture] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture] from every [Luxury resource] <in [Tundra] tiles>", "[+1 Culture] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Science, +1 Production] from every [Tundra] <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
@@ -362,6 +364,7 @@
 		"adjective": ["Thuntopian"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
+		"personality": "Thunder",
 
 		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
 
@@ -497,7 +500,8 @@
 			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
   },
-  
+ 
+ // Letstalkaboutdune
     {
 		"name": "Absolute Union",
 		"leaderName": "Letstalkaboutdune",
@@ -513,61 +517,60 @@
 		"startIntroPart1": "Greetings, leader Dune of your prosperous commune. A hub for all things aesthetic, your civilization emerged as a haven for producing great artists and their works.",
 		"startIntroPart2": "Can you stand tall against the uncultured hordes who hope to crush your precious peace? The worms rest deep in their burrows, ready to be called upon if needed to protect your path to victory.",
  
-	    "introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
-	    "declaringWar": "My giant worms will turn you into compost!",
-     	"attacked": "Curse your sudden, but inevitable betrayal!",
+		"introduction": "Nice to meet you. Hope it rains soon, my worms are thirsty.",
+		"declaringWar": "My giant worms will turn you into compost!",
+		"attacked": "Curse your sudden, but inevitable betrayal!",
 		"afterPeace": "Finally, I can get back to my pixels.",
 		"defeated": "Guess I should've built more units.",
 
-     	"neutralHello": "Hi there.",
-    	"hateHello": "You again?",
-
+		"neutralHello": "Hi there.",
+		"hateHello": "You again?",
     	"tradeRequest": "May I interest you in these fine pieces?",
 		
 		"uniqueName": "Absolute Artists",
-		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry]>", "[Great Artist] is earned [50]% faster"],
-
+		"uniques": ["Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
+					"[Great Artist] is earned [50]% faster"],
 		"cities": ["Absolute Falls","Pixelhaven","Glorious Drive","Dunevale","Trail's End","Linntown","Wormwood","Willamette","Hillview","Riverhaven","Forest Crest","Pixelview","Absolute Heights","Wormgate","Riverdale","Duneland","Wormsign","Clayearth","Absolute Valley","Rainburg","Pixel Springs"]
-  },
+	},
 //Rize
-{
-        "name": "Cadari Republik",
-        "leaderName": "Rize",
-        "adjective": ["Cadarian"],
-	"startBias": ["Grassland"],
-	"preferredVictoryType": "Cultural",
+	{
+		"name": "Cadari Republik",
+		"leaderName": "Rize",
+		"adjective": ["Cadarian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 
+		"startIntroPart1": "Greetings, President of the Republik.",
+		"startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
 
-        "startIntroPart1": "Greetings, President of the Republik.",
-        "startIntroPart2": "Our nation is a young one, but hone to brave men and women. They are ready to serve you for the good and future of our country so what are you waiting for?",
-
-        "introduction": "Hi.",
-        "declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
-         "attacked": "We will not falter nor surrender, we will fight for our nation.",
-        "defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
-         "neutralHello": "Pleased to see you.",
-        "hateHello": "What brings you here? Make it quick.",
-        "tradeRequest": "This is an offer you would certainly like, please consider it",
+		"introduction": "Hi.",
+		"declaringWar": "You very existence is a threat to our nation, may you face the wrath of Cadari.",
+		"attacked": "We will not falter nor surrender, we will fight for our nation.",
+		
+		"defeated": "Our Cities may have fallen but our legacy shall live on. Long live the Republik.",
+		"neutralHello": "Pleased to see you.",
+		"hateHello": "What brings you here? Make it quick.",
+		"tradeRequest": "This is an offer you would certainly like, please consider it",
 	
-	"outerColor": [250, 250, 250],
-        "innerColor": [50, 200, 250],
-        
-        "uniqueName": "Nationalistic Fervor",
-        "uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
-	"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
+		"outerColor": [250, 250, 250],
+		"innerColor": [50, 200, 250],
+		"uniqueName": "Nationalistic Fervor",
+		"uniques": ["[+20]% [Production] [in all cities] <when between [20] and [200] Happiness>", "[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>"],
+		"cities":["Skandros","Velasno","Halandorf","Trajen City","Ferlon","Ferlindhar","Selnos","Hoskoff","Ollendorf","Valderath","Wilneton","Reinenkoff"]
   },
 
-// Faw of The Not Guy Fawkes
+// Faw
 	{
 		"name": "The Not Guy Fawkes",
 		"leaderName": "Faw",
 		"adjective": ["Fauus"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Guy Not Fawkes",
 		
 		"startIntroPart1": "So why should I greet you? Neither you're Guy Fawkes, nor are you a famous man. Why bother?",
 		"startIntroPart2": "Even so, you choose to play ain't you? So be it. Enjoy the game and good luck!",
 		
-		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Us, The NOT Guy Fawkes!",
+		"declaringWar": "This Is DEFINITELY NOT Spartaaa! This Is Me, The NOT Guy Fawkes!",
 		"attacked": "Peace was never an option.",
 		"defeated": "Heleh.. Yo wis.",
 		"afterPeace": "Are we done? If we done, we done.",
@@ -580,34 +583,36 @@
 		"outerColor": [251,236,127],
 		"innerColor": [146, 74,  1],
 		"uniqueName": "Anuanuemas",
-		"uniqueText": "+50% Yield from every Luxury resource \n+1 [Gold] per each type of Luxury resource owned",
-		"uniques": ["[+50]% Yield from every [Luxury resource]", 
-					"[+1 Gold] <with [Citrus]>", 
-					"[+1 Gold] <with [Copper]>", 
-					"[+1 Gold] <with [Cotton]>", 
-					"[+1 Gold] <with [Dyes]>", 
-					"[+1 Gold] <with [Furs]>", 
-					"[+1 Gold] <with [Gems]>", 
-					"[+1 Gold] <with [Gold Ore]>", 
-					"[+1 Gold] <with [Incense]>", 
-					"[+1 Gold] <with [Ivory]>", 
-					"[+1 Gold] <with [Marble]>", 
-					"[+1 Gold] <with [Salt]>", 
-					"[+1 Gold] <with [Silk]>", 
-					"[+1 Gold] <with [Silver]>", 
-					"[+1 Gold] <with [Spices]>", 
-					"[+1 Gold] <with [Sugar]>", 
-					"[+1 Gold] <with [Truffles]>", 
-					"[+1 Gold] <with [Wine]>", 
-					"[+1 Gold] <with [Crab]>", 
-					"[+1 Gold] <with [Pearls]>", 
-					"[+1 Gold] <with [Whales]>", 
-					"[+1 Gold] <with [Jewelry]>", 
-					"[+1 Gold] <with [Porcelain]>", 
-					"[+1 Gold] <with [Arepa]>"],
+		"uniques": ["[+50]% Yield from every [Luxury resource]",
+					"[+2 Gold] <with [Citrus]> <hidden from users>",
+					"[+2 Gold] <with [Copper]> <hidden from users>",
+					"[+2 Gold] <with [Cotton]> <hidden from users>",
+					"[+2 Gold] <with [Dyes]> <hidden from users>",
+					"[+2 Gold] <with [Furs]> <hidden from users>",
+					"[+2 Gold] <with [Gems]> <hidden from users>",
+					"[+2 Gold] <with [Gold Ore]> <hidden from users>",
+					"[+2 Gold] <with [Incense]> <hidden from users>",
+					"[+2 Gold] <with [Ivory]> <hidden from users>",
+					"[+2 Gold] <with [Marble]> <hidden from users>",
+					"[+2 Gold] <with [Salt]> <hidden from users>",
+					"[+2 Gold] <with [Silk]> <hidden from users>",
+					"[+2 Gold] <with [Silver]> <hidden from users>",
+					"[+2 Gold] <with [Spices]> <hidden from users>",
+					"[+2 Gold] <with [Sugar]> <hidden from users>",
+					"[+2 Gold] <with [Truffles]> <hidden from users>",
+					"[+2 Gold] <with [Wine]> <hidden from users>",
+					"[+2 Gold] <with [Crab]> <hidden from users>",
+					"[+2 Gold] <with [Pearls]> <hidden from users>",
+					"[+2 Gold] <with [Whales]> <hidden from users>",
+					"[+2 Gold] <with [Jewelry]> <hidden from users>",
+					"[+2 Gold] <with [Porcelain]> <hidden from users>",
+					"[+2 Gold] <with [Arepa]> <hidden from users>",
+					"Comment [+2 [Gold] per each type of Luxury resource owned]"],
 		"cities": ["Guy Not Fawkes","Regalia","Alion","Gatland","Vinia","Sibisia","Mogrim","Khemul","Ekh-krak","Suulak",
 			"Srandal","La Wang","Klosso","Pi-Ring","Sentir"],
+		"spyNames": ["Adinda","Kakanda","Linda","Pakdenda","Bokdenda","Simbanda","Buyunda","Cangganda","Ipenda","Sepupunda"]
 	},
+	
 // Ravignir
     {
         "name": "Clownish Commonwealth",
@@ -623,7 +628,7 @@
         "declaringWar": "Sorry, I had to XDDD",
         "attacked": "Lol, just die XDDD",
         "defeated": "Do I look like a clown?. Apparently, so.",
-         "neutralHello": "Yes?",
+        "neutralHello": "Yes?",
         "hateHello": "!?!?!",
         "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
 	
@@ -711,6 +716,7 @@
 		"name": "The Fast Economists",
 		"leaderName": "Fast Doubloon",
 		"personality": "Fast Doubloon",
+		"preferredVictoryType": "Scientific",
 		"startBias": ["Coast"],
 		"outerColor": [52, 30, 4],
 		"innerColor": [229, 181, 25],
