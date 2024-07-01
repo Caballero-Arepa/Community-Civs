@@ -636,7 +636,7 @@
         "innerColor": [181, 211, 255],
         
         "uniqueName": "Clownfiesta",
-        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
+        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory","Will not be chosen for new games"],
         "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
     },
 	{
@@ -768,7 +768,7 @@
 	},
 	{
 		"name": "Willosaur Tamaran",
-		"leaderName": "Will Wright",
+		"leaderName": "Pasher Handsome",
 		"outerColor": [44, 120, 101],
 		"innerColor": [255, 152, 0],
 
