@@ -180,14 +180,22 @@
 	{
 		"name": "BennieCUBED",
 		"preferredVictoryType": "Scientific",
-		"culture": 7,
+		"culture": 6,
 		"faith": 1,
 		"food": 3,
 		"gold": 4,
 		"happiness": 5,
-		"production": 9,
-		"science": 7,
+		"production": 8,
+		"science": 8,
+		// Behaviors
+
 		"military": 4,
+		"aggressive": 4,
+		"declareWar": 3,
+		"commerce": 5,
+		"diplomacy": 7,
+		"loyal": 9,
+		"expansion": 4,
 		"priorities": {
 			"Tradition": 20,
 			"Liberty": 30,
@@ -196,7 +204,6 @@
 			"Freedom": 30,
 			"Order": 20,
 		},
-		"warMongering": 2,
 		"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
 	},
 
