@@ -33,25 +33,40 @@
 	{
 		"name": "Caballero Arepa",
 		"preferredVictoryType": "Diplomatic",
+		
 		"culture": 10,
-		"faith": 7,
+		"faith": 8,
 		"food": 8,
 		"gold": 5,
 		"happiness": 5,
 		"production": 6,
 		"science": 5,
-		"military": 5,
+		"military": 6,
+		
+		"aggressive": 3,
+		"declareWar": 5,
+		"warMongering": 4,
+		"commerce": 8,
+		"diplomacy": 7,
+		"loyal": 9,
+		"expansion": 8,
+
 		"priorities": {
-			"Tradition": 10,
-			"Liberty": 30,
+			"Tradition": 1,
+			"Liberty": 40,
 			"Honor": 10,
 			"Piety": 20,
-			"Rationalism": 20,
-			"Freedom": 30,
-			"Order": 30
+			"Patronage": 15,
+			"Commerce": 30,
+			"Rationalism": 40,
+			"Order": 30,
+			"Freedom": 35,
+			"Autocracy": 10,
 		},
-		"warMongering": 4,
-		"uniques": ["Will not build [Manhattan Project]"]
+		
+	"uniques": [
+		"Will not build [Windmill]", "Will not build [Manhattan Project]"
+	],
 	},
 
 {
