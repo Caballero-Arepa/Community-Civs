@@ -4,7 +4,11 @@
 		"name": "Petani",
 		"uniques": ["Can build [Farm] improvements on tiles <in [Land] tiles>"]
 	},
-
+//Small people
+	{
+		"name": "Seaside",
+        "uniques": ["[-33]% maintenance costs", "Can build [Water] improvements on tiles"]
+	},
 //Aleksandria
 	{
 		"name": "[Comrade] ability",
