@@ -11,6 +11,22 @@
 			"Great Improvement","Provides [1] [Arepa]",
 			    "Pillaging this improvement yields approximately [+25 Gold]"]
 	},
+	//Small people
+		 {
+        "name": "Skynet",
+        "uniqueTo": "Small People",
+        "terrainsCanBeBuiltOn": ["Coast","Ocean"]
+        "food": 1,
+        "culture": 1,
+        "turnsToBuild": 5,
+        "techRequired": "Optics",
+        "uniques": [
+            "[+1 Production] <after discovering [Navigation]>",
+            "[+1 Culture] <after discovering [Flight]>",
+            "Cannot be built on [resource] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
 	{
 		"name": "Hamlet",
 		"uniqueTo": "Principality of Vinroth",

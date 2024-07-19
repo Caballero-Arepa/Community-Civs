@@ -37,6 +37,46 @@
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
 			  ]
   },
+  //Alatar
+   {
+		"name": "Small People",
+		"leaderName": "Alatar The Blue",
+		"adjective": ["small ones"],
+	  	"style": "halfling",
+		"outerColor": [111, 183, 216],
+		"innerColor": [145, 76, 7],
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Alatar The Blue",
+		"favoredReligion": "Faithful",
+	  
+		"startIntroPart1": "The small people of the sky are not really a nation but rather an informal alliance without a unique leader. They rather rely on the guidance of a mysterious old wizard dressed in blue. A discret and friendly people, but full of creativity and curiosity, they are established on the east coast of the main continent and the near islands, they are under constant threat of the neighbourings hostile nations. They chose to face this adversity by being ready to move away at all time and take to the seas on their airships stationned on the shore. Initially used for fishing, they soon became also vaults of the most prized belongings of the small people society, as well as cultural hubs for singers and other artists in search of peace and open sky, sometimes the fishermen themselves.",
+		"startIntroPart2": "Welcome Alatar The Blue to the Eastern Lands. With your surroundings already populated by various nations, you will have the hard task to guide and protect your people through good and bad times and ready them to be able to sail East, now that the path is opened. Be ready for surprise, both from their neighbors, always greedy for the small people hard earned prosperity, but also from your protegés, full of life, hapinness and always ready to improvise a song or a danse. If you can, take the time to climb on a skynet and contemplate the simple life of your friends from above. This is real and profound hapiness.",
+ 
+		"introduction": "Hi there ! It seems you found us at last. You sincerely hope we can live together in peace. We don't take a lot of space and can be very friendly neigbors. You are also most welcome to propose trades. Should you need help against the forces of darkness, we will be here for you as much as we can as the faithfuls must unite under the light of Illuvatar !",
+		"declaringWar": "Enough is enough, you are threatening the light of Illuvatar and must be fought with all means possible.",
+     	"attacked": "We feared it might come to this. We are ready to face you with songs and dances, as well as our trusted fists. Knowing our loved ones are safe, we will fight with double the strength, which should be equal to the normal strength of a human.",
+		"afterPeace": "Peace it is ! Now is the time of songs and dances, to heal the wounds of hatred and darkness.",
+		"defeated": "The darkness prevailed today, but the Light is stronger. We now have to leave this land to the night and sail east to the light of the Stars.",
+
+		"neutralHello": "Quiubo, the jummy smell of the arepa has reached so far,\nYou'll ask me once for one, and eating it you'll be glad,\nIt'll leave your mouth so watery that you'll want more of that.",
+		"hateHello": "We sure can attack, we sure will protect, but most important of all, we never step back.",
+
+		"tradeRequest": "Are you ready to trade ? We are happy to share a pipe-weed with you on the desk of a skynet to seal the deal.",
+		
+		"uniqueName": "Seaside",
+		"uniques": [
+			"Comment [-33% maintenance costs for Water units]",
+            "Comment [Water units can build Water improvements on tiles]",
+            "[Water] units gain the [Seaside] promotion <hidden from users>"
+		],
+
+		"cities": ["Bywater","Pincup","Greenholm","Tuckborough","Underhill","Woodhall",
+			   "Needlehole","Willowbottom","Cliffside","OakTown","Sleepy Delving","Over The Rock",
+			   "Beachyside","Highcleeve","Little Meet","Shore Delving","Toothbank","Bottleneck","Froggyshore","HighOne",
+			  ]
+  },
 	//Ace Hank of Hankunesia
 	{
 		"name": "Hankunesia",
