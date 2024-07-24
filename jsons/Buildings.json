@@ -144,7 +144,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+1 Production, +1 Food] [in this city] <within [2] tiles of a [Tundra]>"]
+		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
