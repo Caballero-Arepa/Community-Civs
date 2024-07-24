@@ -298,7 +298,7 @@
 "startBias": ["Tundra"],
 "personality": "A1y0sh4",
 
-	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the challenges of arctic life under the sight of the boreal lights. Despite every type of adversity the empire still has to fight, it can rely on their virtues and on your advice for its future to continue to thrive.",
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the arduous challenges posed by arctic life and, with a grain of ingenuity and a bit pride, they succeded to thrive under the solitary bliss of boreal lights. Despite every type of adversity the empire still has to defy, it can steadily rely on their virtues and on your advice for its future to continue to shine.",
 	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
@@ -310,8 +310,8 @@
 	"neutralYes":"Our people are eager to accept.",
 	"neutralNo":"I must respectfully decline.",
 	"hateLetsHearIt":"Have you come here to negotiate your surrender?",
-	"hateNo":"I'm afraid not to be appreciating enough your subtle humor.",
-	"hateYes":"I see with great hope that we can find common ground even in such unfavourable circumstances.",
+	"hateNo":"That is a ridiculous proposal.",
+	"hateYes":"Its nice to see we agree on something from time to time.",
 	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
 	"hateHello": "Why are you still on this side of the Acheron?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
@@ -322,12 +322,13 @@
 	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "+1 [Culture] from every Resource in a [Tundra] tile\n+1 [Science] and [Production] from every [Tundra] during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture] from every [Luxury resource] <in [Tundra] tiles>", "[+1 Culture] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Science, +1 Production] from every [Tundra] <during a Golden Age>"],
+	"uniqueText": "+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
+	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
-	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Vladimir", "Maksim", "Aleksandra", "Adelina"]
 },
 	//Ketonia
 	{
