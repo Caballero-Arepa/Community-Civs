@@ -4,7 +4,11 @@
 		"name": "Petani",
 		"uniques": ["Can build [Farm] improvements on tiles <in [Land] tiles>"]
 	},
-
+//Small people
+	{
+		"name": "Seaside",
+        "uniques": ["[-33]% maintenance costs", "Can build [Water] improvements on tiles"]
+	},
 //Aleksandria
 	{
 		"name": "[Comrade] ability",
@@ -20,7 +24,7 @@
 //Thuntopia 
 	{
 		"name": "Unrelenting",
-		"uniques": ["Damage is ignored when determining unit Strength <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
+		"uniques": ["No damage penalty for wounded units <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
 	},
 
 //Arepandia
