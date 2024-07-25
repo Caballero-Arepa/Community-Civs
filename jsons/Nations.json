@@ -35,7 +35,8 @@
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
-			  ]
+			  ],
+        "spyNames": ["Don Patacón", "DOn Belias", "Ñero-ñero-siete", "Ernesto Pérez", "J. Carlos Bodoque", "Don Berriondo", "Don Gediondo"]
   },
   //Alatar
    {
@@ -817,5 +818,61 @@
 		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
 		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
 			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
-	}
+	},
+    {
+		"name": "Exclamation Point Empire",
+		"leaderName": "!     !  !",
+	        "style": "Barbarians",
+		"adjective": ["!1"],
+    		"personality": "Aggressive", 
+
+    		"declaringWar": "GL",
+		"defeated": "Gg. I earned your respect.",
+		"attacked": "Think twice before you invade.",
+		"introduction": "Sup.",
+		"neutralHello": "Wsg.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "G?",
+
+        "outerColor": [150, 198, 167],
+        "innerColor": [60, 0, 7],
+
+		"uniqueName": "Great Conquestador",
+		"uniques": ["Cities are razed [3] times as fast", 
+			"Notified of new Barbarian encampments",
+			"[+33]% [Production] [in puppeted cities]",
+            "[+33]% [Gold] [in puppeted cities]",
+            "[+33]% [Science] [in puppeted cities]",
+			"[+20]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
+			"[+20]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
+			"[+10]% Production when constructing [Military] units [in all cities] <when at war>",
+			"[+20]% Strength <for [All] units> <during a Golden Age>",
+			"[+10]% Strength <for [All] units> <when at war>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["!     !  !'s Court"],
+        "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
+    },
+	{
+		  "name": "Blahaj empire",
+		  "leaderName": "Plert",
+		  "adjective": ["Blahajes"],
+		  "startBias": ["Coast"],
+		  "preferredVictoryType": "Domination",
+		  
+		  "startIntroPart1": "With the power of the greatest Blahaj conqure everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no alies only partners wich you can attack whenever you want if this will help to bring the glory for our nation nation ~UwU",
+		  "declaringWar": "After the war we will cuddle ~UwU",
+		  "attacked": "Why would you do that ~UwU",
+		  "defeated": "We can still cuddle, right? ~UwU",
+		  "introduction": "Hi ~UwU",
+		  "neutralHello": "Hi ~OwO",
+		  "hateHello": "Hi ~Ew",
+		  "tradeRequest": "You can trade with us ~UwU",
+		  "outerColor": [231,110,194],
+		  "innerColor": [25,0,151],
+			  "favoredReligion": "Christianity",
+		  "uniqueName": "Navy go brrrr",
+		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
+		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
+	  }
 ]
