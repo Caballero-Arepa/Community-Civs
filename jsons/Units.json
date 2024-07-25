@@ -444,4 +444,27 @@
 			"Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
+	//Blahaj Empire
+	{ 
+		"name": "Blahaj",
+		"replaces": "Submarine",
+		"unitType": "Submarine",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 40,
+		"cost": 325,
+		"hurryCostModifier": 40,
+		"requiredTech": "Refrigeration",
+		"obsoleteTech": "Telecommunications",
+		"upgradesTo": "Nuclear Submarine",
+		"uniqueTo": "Blahaj empire",
+		"promotions": ["Logistics"],
+		"uniques": ["[+75]% Strength <when attacking>","Can only attack [Water] tiles"],
+		"civilopediaText": [
+			{
+				"text": "Specialy trained shark to destroy people`s ships"
+			}
+		],
+		"attackSound": "shipguns"
+	}
 ]
