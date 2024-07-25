@@ -259,4 +259,21 @@
 		"Will not build [Catapult]"
 	],
 	},
+    {
+     "name": "Aggressive",
+     "production": 20,
+    "food": 20,
+    "gold": 30,
+    "science": 30,
+    "culture": 20,
+    "happiness": 25,
+    "faith": 20,
+    "military": 35,
+    "aggressive": 35,
+    "declareWar": 35,
+    "commerce": 30,
+    "diplomacy": 7,
+    "loyal": 4,
+    "expansion": 40
+    }
 ]
