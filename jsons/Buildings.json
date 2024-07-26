@@ -369,4 +369,17 @@
 			}
 		]
 	},
+	{
+		"name": "Hero Statue",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Nukaruzania",
+		"cost": 125,
+		"culture": 4,
+		"isNationalWonder": true,
+		"uniques": [
+			"New [All] units start with [+15] Experience [in this city]",
+			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			],
+		"requiredTech": "Iron Working"
+	},
 ]
