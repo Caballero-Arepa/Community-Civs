@@ -454,14 +454,14 @@
  },
 	//VividVale 
     {
-        "name": "VividVale",
-	 "style": "VividValean",
+             "name": "VividVale",
+	     "style": "VividValean",
              "adjective": ["VividValean"],               
              "leaderName": "BennieCUBED",
              "startBias": ["Coast","Avoid [Tundra]"],
              "preferredVictoryType": "Scientific",
-	 "personality": "BennieCUBED",
-	 "favoredReligion": "Christianity",
+	     "personality": "BennieCUBED",
+	     "favoredReligion": "Christianity",
 
              "declaringWar": "Don't worry, if we win this war, I'll make sure to conserve your culture...",
              "attacked": "Your allies won't look at you the same anymore...",
@@ -478,7 +478,8 @@
              "uniqueName": "Bombora",
              "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
              "cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galeborne","Cannervale","Koola","Waggaton","Sambay","Bunjitown",
-	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"]
+	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"],
+	     "spyNames": ["Bobin","Lachlan","Magnus","Johno","Bindi","Djarrjuntjun","Adelaida","Whetū"],
 },
         //Rakhvia
 	{
