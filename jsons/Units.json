@@ -444,4 +444,42 @@
 			"Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
 	},
+	//Blahaj Empire
+	{ 
+		"name": "Blahaj",
+		"replaces": "Submarine",
+		"unitType": "Submarine",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 40,
+		"cost": 325,
+		"hurryCostModifier": 40,
+		"requiredTech": "Refrigeration",
+		"obsoleteTech": "Telecommunications",
+		"upgradesTo": "Nuclear Submarine",
+		"uniqueTo": "Blahaj empire",
+		"promotions": ["Logistics"],
+		"uniques": ["[+75]% Strength <when attacking>","Can only attack [Water] tiles"],
+		"civilopediaText": [
+			{
+				"text": "Specialy trained shark to destroy people`s ships"
+			}
+		],
+		"attackSound": "shipguns"
+	},
+
+	{
+		"name": "Independence Warrior",
+		"unitType": "Sword",
+		"replaces": "Catapult",
+		"uniqueTo": "Nukaruzania",
+		"movement": 2,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Philosophy",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-1] Sight"],
+		"attackSound": "throw"
+	},
 ]

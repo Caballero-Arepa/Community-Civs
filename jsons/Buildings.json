@@ -351,4 +351,35 @@
 		"requiredTech": "Radio",
 		"uniques": ["[+2 Food] from every specialist [in this city]","Destroyed when the city is captured"]
 	},
+//Plert
+    { 
+		"name": "Ikea",
+		"replaces": "Workshop",
+		"requiredTech": "Metal Casting",
+		"maintenance": 2,
+		// "happiness": 1,
+		"food": 1,
+        "production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+10]% [Production]"],
+		"uniqueTo": "Blahaj empire",
+		"civilopediaText": [
+			{
+				"text": "Who doesn't like IKEA. The great meatballs and Blahajes from it make everyone happier."
+			}
+		]
+	},
+	{
+		"name": "Hero Statue",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Nukaruzania",
+		"cost": 125,
+		"culture": 4,
+		"isNationalWonder": true,
+		"uniques": [
+			"New [All] units start with [+15] Experience [in this city]",
+			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			],
+		"requiredTech": "Iron Working"
+	},
 ]

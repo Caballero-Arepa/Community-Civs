@@ -35,7 +35,8 @@
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
-			  ]
+			  ],
+        "spyNames": ["Don Patacón", "DOn Belias", "Ñero-ñero-siete", "Ernesto Pérez", "J. Carlos Bodoque", "Don Berriondo", "Don Gediondo"]
   },
   //Alatar
    {
@@ -817,5 +818,94 @@
 		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
 		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
 			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
-	}
+	},
+    {
+		"name": "Exclamation Point Empire",
+		"leaderName": "!     !  !",
+	        "style": "Barbarians",
+		"adjective": ["!1"],
+    		"personality": "Aggressive", 
+
+    		"declaringWar": "GL",
+		"defeated": "Gg. I earned your respect.",
+		"attacked": "Think twice before you invade.",
+		"introduction": "Sup.",
+		"neutralHello": "Wsg.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "G?",
+
+        "outerColor": [150, 198, 167],
+        "innerColor": [60, 0, 7],
+
+		"uniqueName": "Great Conquestador",
+		"uniques": ["Cities are razed [3] times as fast", 
+			"Notified of new Barbarian encampments",
+			"[+33]% [Production] [in puppeted cities]",
+            "[+33]% [Gold] [in puppeted cities]",
+            "[+33]% [Science] [in puppeted cities]",
+			"[+20]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
+			"[+20]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
+			"[+10]% Production when constructing [Military] units [in all cities] <when at war>",
+			"[+20]% Strength <for [All] units> <during a Golden Age>",
+			"[+10]% Strength <for [All] units> <when at war>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["!     !  !'s Court"],
+        "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
+    },
+	{
+		  "name": "Blahaj empire",
+		  "leaderName": "Plert",
+		  "adjective": ["Blahajes"],
+		  "startBias": ["Coast"],
+		  "preferredVictoryType": "Domination",
+		  
+		  "startIntroPart1": "With the power of the greatest Blahaj conqure everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no alies only partners wich you can attack whenever you want if this will help to bring the glory for our nation nation ~UwU",
+		  "declaringWar": "After the war we will cuddle ~UwU",
+		  "attacked": "Why would you do that ~UwU",
+		  "defeated": "We can still cuddle, right? ~UwU",
+		  "introduction": "Hi ~UwU",
+		  "neutralHello": "Hi ~OwO",
+		  "hateHello": "Hi ~Ew",
+		  "tradeRequest": "You can trade with us ~UwU",
+		  "outerColor": [231,110,194],
+		  "innerColor": [25,0,151],
+			  "favoredReligion": "Christianity",
+		  "uniqueName": "Navy go brrrr",
+		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
+		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
+	  },
+	{	
+		"name": "Nukaruzania",
+		"leaderName": "Nurasanana III",
+		"adjective": ["Nukaranian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "welcome back the great leader, Nurasanana third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
+	"startIntroPart2": "The Great Nurasanana third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+	"declaringWar": "Oh your trial peace with me has end, prepare for blood fall. ",
+	"attacked": "Goodbye, trial friend.",
+	"defeated": "oh... Thanks to play with me, goodbye...",
+	"introduction": "You? Oh hi my tr- oh I mean friends!",
+
+	"neutralHello": "Toroejo.(hi in nurra Language)",
+	"hateHello": "Hi.",
+
+	"tradeRequest": "[Give trade] En- I mean my Comrades, let's do a deal please. [Counteroffensive] think this kamerad.",
+		
+	"outerColor": [29,83,63],
+	"innerColor": [213,9,49],
+	"favoredReligion": "Islam",
+	"uniqueName": "Nuro democracy",
+	"uniques": [
+		"[-20]% Culture cost of adopting new Policies <during a Golden Age>",
+		"Free [Great Artist] appears <upon founding a city> <for every [7] [Cities]>",
+		"[-10]% unhappiness from the number of cities"
+	],
+	"cities": ["Ancient Nuras","Akkadia","Nuras","Gacata","Borkura","Martis","Opis","Mari","Shushan","wEshnunna"," Dafvu",
+		"New Nuras","Erech","Kutahar","Batam","Surabayay","Ashur-akabu","Ninveh","Nimrud","Arabela","Nutai",
+		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
 ]
