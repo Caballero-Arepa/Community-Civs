@@ -874,5 +874,38 @@
 		  "uniqueName": "Navy go brrrr",
 		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
 		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
-	  }
+	  },
+	{	
+		"name": "Nukaruzania",
+		"leaderName": "Nurasanana III",
+		"adjective": ["Nukaranian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "welcome back the great leader, Nurasanana third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
+	"startIntroPart2": "The Great Nurasanana third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+	"declaringWar": "Oh your trial peace with me has end, prepare for blood fall. ",
+	"attacked": "Goodbye, trial friend.",
+	"defeated": "oh... Thanks to play with me, goodbye...",
+	"introduction": "You? Oh hi my tr- oh I mean friends!",
+
+	"neutralHello": "Toroejo.(hi in nurra Language)",
+	"hateHello": "Hi.",
+
+	"tradeRequest": "[Give trade] En- I mean my Comrades, let's do a deal please. [Counteroffensive] think this kamerad.",
+		
+	"outerColor": [29,83,63],
+	"innerColor": [213,9,49],
+	"favoredReligion": "Islam",
+	"uniqueName": "Nuro democracy",
+	"uniques": [
+		"[-20]% Culture cost of adopting new Policies <during a Golden Age>",
+		"Free [Great Artist] appears <upon founding a city> <for every [7] [Cities]>",
+		"[-10]% unhappiness from the number of cities"
+	],
+	"cities": ["Ancient Nuras","Akkadia","Nuras","Gacata","Borkura","Martis","Opis","Mari","Shushan","wEshnunna"," Dafvu",
+		"New Nuras","Erech","Kutahar","Batam","Surabayay","Ashur-akabu","Ninveh","Nimrud","Arabela","Nutai",
+		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
 ]
