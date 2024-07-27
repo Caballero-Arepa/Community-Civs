@@ -841,14 +841,9 @@
 		"uniqueName": "Great Conquestador",
 		"uniques": ["Cities are razed [3] times as fast", 
 			"Notified of new Barbarian encampments",
-			"[+33]% [Production] [in puppeted cities]",
-            "[+33]% [Gold] [in puppeted cities]",
-            "[+33]% [Science] [in puppeted cities]",
-			"[+20]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
-			"[+20]% Production when constructing [Military] units [in all cities] <during a Golden Age>",
-			"[+10]% Production when constructing [Military] units [in all cities] <when at war>",
-			"[+20]% Strength <for [All] units> <during a Golden Age>",
-			"[+10]% Strength <for [All] units> <when at war>",
+			"[+25]% [Production] [in puppeted cities]",
+                        "[+25]% [Gold] [in puppeted cities]",
+                        "[+25]% [Science] [in puppeted cities]",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["!     !  !'s Court"],
         "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
@@ -860,8 +855,8 @@
 		  "startBias": ["Coast"],
 		  "preferredVictoryType": "Domination",
 		  
-		  "startIntroPart1": "With the power of the greatest Blahaj conqure everyone. All of the world belongs to shorks",
-		  "startIntroPart2": "Remember, you have no alies only partners wich you can attack whenever you want if this will help to bring the glory for our nation nation ~UwU",
+		  "startIntroPart1": "With the power of the greatest Blahaj conquer everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no allies only partners wich you can attack whenever you want if this will help to bring glory to our nation ~UwU",
 		  "declaringWar": "After the war we will cuddle ~UwU",
 		  "attacked": "Why would you do that ~UwU",
 		  "defeated": "We can still cuddle, right? ~UwU",
@@ -883,10 +878,10 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "welcome back the great leader, Nurasanana third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
-	"startIntroPart2": "The Great Nurasanana third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+		"startIntroPart1": "welcome back the great leader, Nurasanana the third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
+	"startIntroPart2": "Great Nurasanana the third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
 
-	"declaringWar": "Oh your trial peace with me has end, prepare for blood fall. ",
+	"declaringWar": "Oh your trial peace with me has end, prepare for blood to fall.",
 	"attacked": "Goodbye, trial friend.",
 	"defeated": "oh... Thanks to play with me, goodbye...",
 	"introduction": "You? Oh hi my tr- oh I mean friends!",
@@ -894,7 +889,7 @@
 	"neutralHello": "Toroejo.(hi in nurra Language)",
 	"hateHello": "Hi.",
 
-	"tradeRequest": "[Give trade] En- I mean my Comrades, let's do a deal please. [Counteroffensive] think this kamerad.",
+	"tradeRequest": "En- I mean, my Comrades, let's do a deal please.",
 		
 	"outerColor": [29,83,63],
 	"innerColor": [213,9,49],
