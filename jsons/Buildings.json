@@ -359,9 +359,9 @@
 		"maintenance": 2,
 		// "happiness": 1,
 		"food": 1,
-        "production": 2,
+		"production": 2,
+		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
-		"uniques": ["[+10]% [Production]"],
 		"uniqueTo": "Blahaj empire",
 		"civilopediaText": [
 			{
