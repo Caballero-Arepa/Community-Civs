@@ -274,16 +274,16 @@
 	},
 
 // Ravignir
-    {
-		"name": "Clown Alley",
-		"replaces": "Colosseum",
-		"uniqueTo": "Clownish Commonwealth",
-		"happiness": 2,
-		"gold": 2,
-		"maintenance": 0,
-		"hurryCostModifier": 0,
-		"requiredTech": "Construction",
-	},
+//    {
+//		"name": "Clown Alley",
+//		"replaces": "Colosseum",
+//		"uniqueTo": "Clownish Commonwealth",
+//		"happiness": 2,
+//		"gold": 2,
+//		"maintenance": 0,
+//		"hurryCostModifier": 0,
+//		"requiredTech": "Construction",
+//	},
 
 //Arkistia
 	{
