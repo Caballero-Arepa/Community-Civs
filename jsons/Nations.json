@@ -35,7 +35,8 @@
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
-			  ]
+			  ],
+        "spyNames": ["Don Patacón", "DOn Belias", "Ñero-ñero-siete", "Ernesto Pérez", "J. Carlos Bodoque", "Don Berriondo", "Don Gediondo"]
   },
   //Alatar
    {
@@ -298,20 +299,20 @@
 "startBias": ["Tundra"],
 "personality": "A1y0sh4",
 
-	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the challenges of arctic life under the sight of the boreal lights. Despite every type of adversity the empire still has to fight, it can rely on their virtues and on your advice for its future to continue to thrive.",
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the arduous challenges posed by arctic life and, with a grain of ingenuity and a bit of pride, they succeded to thrive under the solitary bliss of boreal lights. Despite every type of adversity the empire still has to defy, it can steadily rely on their virtues and on your advice for its future to continue to shine.",
 	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
 	"attacked": "Finally someone ambitious enough to try to win me over. May you succeed or die under my triumph.",
 	"defeated": "I know nothing about what I ignore - I'm aware of it -\nyet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
-	"introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious Motherland,\nbut you can call me Alyosha.",
+	"introduction": "Zdravstvuyte! I am A1y0sh4, the empiring prince of our glorious Motherland,\nbut you can simply refer to me as Alyosha.",
 	"neutralHello": "Zdravstvuyte.",
 	"neutralLetsHearIt":"What shall we discuss now?",
 	"neutralYes":"Our people are eager to accept.",
 	"neutralNo":"I must respectfully decline.",
 	"hateLetsHearIt":"Have you come here to negotiate your surrender?",
-	"hateNo":"I'm afraid not to be appreciating enough your subtle humor.",
-	"hateYes":"I see with great hope that we can find common ground even in such unfavourable circumstances.",
+	"hateNo":"This is a ridiculous proposal.",
+	"hateYes":"Its nice to see we agree on something from time to time.",
 	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
 	"hateHello": "Why are you still on this side of the Acheron?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
@@ -322,12 +323,13 @@
 	"innerColor": [255, 200, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "+1 [Culture] from every Resource in a [Tundra] tile\n+1 [Science] and [Production] from every [Tundra] during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture] from every [Luxury resource] <in [Tundra] tiles>", "[+1 Culture] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Science, +1 Production] from every [Tundra] <during a Golden Age>"],
+	"uniqueText": "+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
+	"uniques": ["[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
-	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Vladimir", "Maksim", "Aleksandra", "Adelina"]
 },
 	//Ketonia
 	{
@@ -452,14 +454,14 @@
  },
 	//VividVale 
     {
-        "name": "VividVale",
-	 "style": "VividValean",
+             "name": "VividVale",
+	     "style": "VividValean",
              "adjective": ["VividValean"],               
              "leaderName": "BennieCUBED",
              "startBias": ["Coast","Avoid [Tundra]"],
              "preferredVictoryType": "Scientific",
-	 "personality": "BennieCUBED",
-	 "favoredReligion": "Christianity",
+	     "personality": "BennieCUBED",
+	     "favoredReligion": "Christianity",
 
              "declaringWar": "Don't worry, if we win this war, I'll make sure to conserve your culture...",
              "attacked": "Your allies won't look at you the same anymore...",
@@ -476,7 +478,8 @@
              "uniqueName": "Bombora",
              "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
              "cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galeborne","Cannervale","Koola","Waggaton","Sambay","Bunjitown",
-	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"]
+	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"],
+	     "spyNames": ["Bobin","Lachlan","Magnus","Johno","Bindi","Djarrjuntjun","Adelaida","Whetū"],
 },
         //Rakhvia
 	{
@@ -816,5 +819,90 @@
 		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
 		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
 			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
+	},
+    {
+		"name": "Exclamation Point Empire",
+		"leaderName": "!     !  !",
+	        "style": "Barbarians",
+		"adjective": ["!1"],
+    		"personality": "Aggressive", 
+
+    		"declaringWar": "GL",
+		"defeated": "Gg. I earned your respect.",
+		"attacked": "Think twice before you invade.",
+		"introduction": "Sup.",
+		"neutralHello": "Wsg.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "G?",
+
+        "outerColor": [150, 198, 167],
+        "innerColor": [60, 0, 7],
+
+		"uniqueName": "Great Conquestador",
+		"uniques": ["Cities are razed [3] times as fast", 
+			"Notified of new Barbarian encampments",
+			"[+25]% [Production] [in puppeted cities]",
+                        "[+25]% [Gold] [in puppeted cities]",
+                        "[+25]% [Science] [in puppeted cities]",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["!     !  !'s Court"],
+        "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
+    },
+	{
+		  "name": "Blahaj empire",
+		  "leaderName": "Plert",
+		  "adjective": ["Blahajes"],
+		  "startBias": ["Coast"],
+		  "preferredVictoryType": "Domination",
+		  
+		  "startIntroPart1": "With the power of the greatest Blahaj conquer everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no allies only partners wich you can attack whenever you want if this will help to bring glory to our nation ~UwU",
+		  "declaringWar": "After the war we will cuddle ~UwU",
+		  "attacked": "Why would you do that ~UwU",
+		  "defeated": "We can still cuddle, right? ~UwU",
+		  "introduction": "Hi ~UwU",
+		  "neutralHello": "Hi ~OwO",
+		  "hateHello": "Hi ~Ew",
+		  "tradeRequest": "You can trade with us ~UwU",
+		  "outerColor": [231,110,194],
+		  "innerColor": [25,0,151],
+			  "favoredReligion": "Christianity",
+		  "uniqueName": "Navy go brrrr",
+		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
+		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
+	  },
+	{	
+		"name": "Nukaruzania",
+		"leaderName": "Nurasanana III",
+		"adjective": ["Nukaranian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "welcome back the great leader, Nurasanana the third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
+	"startIntroPart2": "Great Nurasanana the third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+	"declaringWar": "Oh your trial peace with me has end, prepare for blood to fall.",
+	"attacked": "Goodbye, trial friend.",
+	"defeated": "oh... Thanks to play with me, goodbye...",
+	"introduction": "You? Oh hi my tr- oh I mean friends!",
+
+	"neutralHello": "Toroejo.(hi in nurra Language)",
+	"hateHello": "Hi.",
+
+	"tradeRequest": "En- I mean, my Comrades, let's do a deal please.",
+		
+	"outerColor": [29,83,63],
+	"innerColor": [213,9,49],
+	"favoredReligion": "Islam",
+	"uniqueName": "Nuro democracy",
+	"uniques": [
+		"[-20]% Culture cost of adopting new Policies <during a Golden Age>",
+		"Free [Great Artist] appears <upon founding a city> <for every [7] [Cities]>",
+		"[-10]% unhappiness from the number of cities"
+	],
+	"cities": ["Ancient Nuras","Akkadia","Nuras","Gacata","Borkura","Martis","Opis","Mari","Shushan","wEshnunna"," Dafvu",
+		"New Nuras","Erech","Kutahar","Batam","Surabayay","Ashur-akabu","Ninveh","Nimrud","Arabela","Nutai",
+		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
 	}
 ]
