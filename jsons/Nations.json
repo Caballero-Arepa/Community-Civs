@@ -513,36 +513,36 @@
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
 },
 //What should everyone calk you?
-{
-        "name": "Sharded Civ",
-        "leaderName": "Alpha-2",
-        "adjective": ["Former Galactic"],
-	"startBias": ["Tundra"],
-	"preferredVictoryType": "Scientific",
-
-
-        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
-        "startIntroPart2": "So we have to survive to rebuild our empire back.",
-
-        "introduction": "Hi.",
-        "declaringWar": "Die!",
-         "attacked": "Why why are u doin this?\nSo u have chosen death.",
-        "afterPeace": "Finnaly peace\nI dont like u.",
-        "defeated": "Nooooo :(",
-         "neutralHello": "Hello my friend, wanna trade with me?",
-        "hateHello": "Get lost!",
-        "tradeRequest": "Hi, wanna trade?",
-	
-	"outerColor": [87, 113, 108],
-        "innerColor": [69, 204, 48],
-        
-        "uniqueName": "Type 3 civilization",
-        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
-	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
-			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
-			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
-			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
-  },
+//{
+//        "name": "Sharded Civ",
+//        "leaderName": "Alpha-2",
+//        "adjective": ["Former Galactic"],
+//	"startBias": ["Tundra"],
+//	"preferredVictoryType": "Scientific",
+//
+//
+//        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+//        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+//
+//        "introduction": "Hi.",
+//        "declaringWar": "Die!",
+//         "attacked": "Why why are u doin this?\nSo u have chosen death.",
+//        "afterPeace": "Finnaly peace\nI dont like u.",
+//        "defeated": "Nooooo :(",
+//         "neutralHello": "Hello my friend, wanna trade with me?",
+//        "hateHello": "Get lost!",
+//        "tradeRequest": "Hi, wanna trade?",
+//	
+//	"outerColor": [87, 113, 108],
+//        "innerColor": [69, 204, 48],
+//        
+//        "uniqueName": "Type 3 civilization",
+//        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
+//	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
+//			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+//			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+//			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+//  },
  
  // Letstalkaboutdune
     {
@@ -657,31 +657,31 @@
 	},
 	
 // Ravignir
-    {
-        "name": "Clownish Commonwealth",
-        "leaderName": "Ravignir",
-        "adjective": ["Funny"],
-		"startBias": ["Avoid [Coast]"],
-		"preferredVictoryType": "Scientific",
+//    {
+//       "name": "Clownish Commonwealth",
+//        "leaderName": "Ravignir",
+//        "adjective": ["Funny"],
+//		"startBias": ["Avoid [Coast]"],
+//		"preferredVictoryType": "Scientific",
 
-        "startIntroPart1": "Welcome, O'Great Conqueror, the Destroyer of Hopes, the Unstoppable Scientist and amongst all - the Master of Clowns.",
-        "startIntroPart2": "You'are trully a legend, Your name causes people to tremble. Can you live up to it? Can you reign supreme over the world?",
-
-        "introduction": "Good day, let's be friends uWu",
-        "declaringWar": "Sorry, I had to XDDD",
-        "attacked": "Lol, just die XDDD",
-        "defeated": "Do I look like a clown?. Apparently, so.",
-        "neutralHello": "Yes?",
-        "hateHello": "!?!?!",
-        "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
-	
-		"outerColor": [39, 17, 51],
-        "innerColor": [181, 211, 255],
-        
-        "uniqueName": "Clownfiesta",
-        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory","Will not be chosen for new games"],
-        "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
-    },
+//        "startIntroPart1": "Welcome, O'Great Conqueror, the Destroyer of Hopes, the Unstoppable Scientist and amongst all - the Master of Clowns.",
+//        "startIntroPart2": "You'are trully a legend, Your name causes people to tremble. Can you live up to it? Can you reign supreme over the world?",
+//
+//        "introduction": "Good day, let's be friends uWu",
+//        "declaringWar": "Sorry, I had to XDDD",
+//        "attacked": "Lol, just die XDDD",
+//        "defeated": "Do I look like a clown?. Apparently, so.",
+//        "neutralHello": "Yes?",
+//        "hateHello": "!?!?!",
+//        "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
+//	
+//		"outerColor": [39, 17, 51],
+//        "innerColor": [181, 211, 255],
+//        
+//        "uniqueName": "Clownfiesta",
+//        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory","Will not be chosen for new games"],
+//        "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
+//    },
 	{
         "name": "Principality of Vinroth",
         "leaderName": "Veldreth",
