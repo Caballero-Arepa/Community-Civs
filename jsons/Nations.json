@@ -43,7 +43,6 @@
 		"name": "Small People",
 		"leaderName": "Alatar The Blue",
 		"adjective": ["small ones"],
-	  	"style": "halfling",
 		"outerColor": [111, 183, 216],
 		"innerColor": [145, 76, 7],
 
@@ -72,7 +71,7 @@
             "Comment [Water units can build Water improvements on tiles]",
             "[Water] units gain the [Seaside] promotion <hidden from users>"
 		],
-
+		"style": "Sky",
 		"cities": ["Bywater","Pincup","Greenholm","Tuckborough","Underhill","Woodhall",
 			   "Needlehole","Willowbottom","Cliffside","OakTown","Sleepy Delving","Over The Rock",
 			   "Beachyside","Highcleeve","Little Meet","Shore Delving","Toothbank","Bottleneck","Froggyshore","HighOne",
