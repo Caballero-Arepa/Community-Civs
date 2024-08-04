@@ -482,4 +482,48 @@
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-1] Sight"],
 		"attackSound": "throw"
 	},
+
+
+
+	//Doomstar civ
+	{
+		"name": "DSStarfighter",
+		"unitType": "Fighter",
+		"replaces": "Jet Fighter",
+		//"replaces": "Stealth Bomber",
+		"uniqueTo": "DS civ",
+		"movement": 2,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 25,
+		"interceptRange": 25,
+		"cost": 1000,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Aluminum",
+		"uniques": ["[100]% chance to intercept air attacks", 
+    			"Damage taken from interception reduced by [100]%", 
+			"[+50]% Damage when intercepting", "Can see invisible [All] units", 
+			"[+100]% Strength <vs cities>", "Uncapturable"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "Gray Goo unit",
+		"unitType": "Civilian",
+		"uniqueTo": "DS civ",
+		"movement": 4,
+		"strength": 25,
+		"cost": 500,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["May travel on Water tiles without embarking",
+    			"Can pass through impassable tiles", "Uncapturable", 
+			"Can see invisible [All] units", 
+			"No defensive terrain bonus", 
+    "Ignores terrain cost", 
+	  		"Heals [20] damage if it kills a unit", 
+   			"Earn [50]% of killed [All] unit's [Cost] as [Science]",
+    			"This Unit gains the [Gray Goo Devouring] promotion <upon defeating a [Military] unit> <for [DS civ]>",
+			"Limited to [1] per Civilization"
+    		],
+	"attackSound": "gdrAttack"
+	},
 ]

@@ -275,5 +275,45 @@
     "diplomacy": 7,
     "loyal": 4,
     "expansion": 40
-    }
+    },
+	{
+		"name": "Doomstar",
+		"preferredVictoryType": "Scientific",
+
+      "culture": 2,
+      "faith": 0,
+      "food": 2,
+      "gold": 2,
+      "happiness": 2,
+      "production": 10,
+      "science": 10,
+      "military": 2,
+      "aggressive": 2,
+      "declareWar": 0,
+      "commerce": 2,
+      "diplomacy": 3,
+      "loyal": 8,
+      "expansion": 2,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 4,
+          "Honor": 1,
+          "Commerce": 5,
+          "Patronage": 2,
+          "Piety": 0,
+          "Rationalism": 20,
+          "Freedom": 2,
+          "Autocracy": 2,
+          "Order": 25
+      },
+		"uniques": [
+			"Will not build [Shrine]", "Will not build [Temple]", 
+			"Will not build [Stonehenge]", "Will not build [Mausoleum of Halicarnassus]", 
+			"Will not build [Grand Temple]", "Will not build [Hagia Sophia]", 
+			"Will not build [Great Mosque of Djenne]", "Will not build [Notre Dame]", 
+			"Will not build [Cathedral]", "Will not build [Monastery]", 
+			"Will not build [Mosque]", "Will not build [Pagoda]"
+		]
+	},
 ]
