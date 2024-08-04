@@ -903,5 +903,45 @@
 		"New Nuras","Erech","Kutahar","Batam","Surabayay","Ashur-akabu","Ninveh","Nimrud","Arabela","Nutai",
 		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
+	},
+
+
+
+
+
+	{
+		"name": "DS civ",
+		"leaderName": "Doomstar",
+		"adjective": ["DS"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Doomstar",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "DIE FOR EVERYTHING YOU HAVE DONE!!!",
+		"attacked": "Another annoying conqueror...",
+		"defeated": "I have to leave this world, i am not welcome here...",
+		"introduction": "Hello. I'm asking you not to touch me, and I won't bother you.",
+		
+		"neutralHello": "Hello",
+		"hateHello": "You are not welcome here",
+
+		"tradeRequest": "Will you agree this?",
+
+		"outerColor": [0,0,0],
+		"innerColor": [127,0,255],
+
+		"uniqueName": "Quality over quantity",
+		"uniques": [
+    "[+10]% [Science]", 
+    "[Military] units gain the [DSEliteUnit] promotion",
+    "[-50]% Production when constructing [Military] units [in all cities]",
+    "[Gold] cost of purchasing [Military] units [+100]%",
+    "[Faith] cost of purchasing [Military] units [+100]%",
+    "[+20]% Strength <for [Military] units>", 
+    "Cannot build [Stealth Bomber] units", 
+        "Gain a free [USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
+    ], 
+    "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
 ]
