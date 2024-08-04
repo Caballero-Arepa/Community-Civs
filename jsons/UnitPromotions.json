@@ -45,4 +45,19 @@
 		"name": "[Bounty Hunter] ability", // only for Bounty Hunter and subsequent upgrades
 		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 	},
+
+
+
+	//Doomstar civ
+  {
+    "name": "DSEliteUnit",
+    "uniques": ["[+5] HP when healing", "[+300]% XP gained from combat", "[+2] XP gained from combat"]
+  },
+	{
+		"name": "Gray Goo Devouring",
+		"uniques": [
+			"Doing so will consume this opportunity to choose a Promotion",
+      			"[+50]% Strength <for [9999] turns> <for [Gray Goo unit] units>"
+		]
+	},
 ]
