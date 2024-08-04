@@ -388,6 +388,7 @@
 	//Doomstar civ
     {
     "name": "DS USM tech", 
+    "uniqueTo": "DS civ",
     "cost": 0, 
     "uniques": ["Unavailable", 
         "[+2]% Strength <for [All] units> <for [9999] turns>", 
