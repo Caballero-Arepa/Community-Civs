@@ -941,7 +941,7 @@
     "[Faith] cost of purchasing [Military] units [+100]%",
     "[+20]% Strength <for [Military] units>", 
     "Cannot build [Stealth Bomber] units", 
-        "Gain a free [USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
+        "Gain a free [DS USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
     ], 
     "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
