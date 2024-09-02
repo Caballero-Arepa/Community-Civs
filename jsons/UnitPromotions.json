@@ -56,8 +56,7 @@
 	{
 		"name": "Gray Goo Devouring",
 		"uniques": [
-			"Doing so will consume this opportunity to choose a Promotion",
-      			"[+50]% Strength <for [9999] turns> <for [Gray Goo unit] units>"
+      			"[+15]% Strength"
 		]
 	},
 ]
