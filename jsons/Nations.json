@@ -318,12 +318,12 @@
 	  
 	"favoredReligion": "Christianity",
 
-	"outerColor": [158, 0, 0],
-	"innerColor": [255, 200, 0],
+	"outerColor": [206, 0, 0],
+	"innerColor": [255, 206, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "+1 [Culture], +1 [Science] from every City center within 2 tiles of a Tundra tile\n+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
-	"uniques": ["[+1 Science, +1 Culture] from every [City center] <within [2] tiles of a [Tundra]>", "[+1 Science, +1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	"uniqueText": "City centers within 2 tiles of a Tundra tile gain +1 [Culture] after discovering Trapping and +1 [Science] after discovering Bronze Working\n+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
+	"uniques": ["[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Trapping]>", "[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Trapping]> <during a Golden Age>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Bronze Working]>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Bronze Working]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
 	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
