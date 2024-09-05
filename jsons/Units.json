@@ -15,20 +15,21 @@
 	},
 	//Hankunesia
 	{
-		"name": "Penggarap",
+		"name": "Keraton Guard",
 		"uniqueTo": "Hankunesia",
-		"replaces": "Warrior",
-		"unitType": "Sword",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 9,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Petani"],
-		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "Pentung-pentungan, eh tapi iso bertani."}
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot",
+		"uniques": ["Starts with 15 experience"],
+		"promotions": ["Deflect"],
+        	"civilopediaText": [
+			{"text": "Abdi Dalem poro Sultanipun Hankunesia"}
 		]
 	},
 // Lasty's Kazakhstan
