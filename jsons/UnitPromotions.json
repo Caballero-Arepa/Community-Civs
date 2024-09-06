@@ -1,8 +1,21 @@
 [
 //Hankunesia
 	{
-		"name": "Petani",
-		"uniques": ["Can build [Farm] improvements on tiles <in [Land] tiles>"]
+		"name": "Trekker",
+		"uniques": ["Can pass through impassable tiles <in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Deflect",
+		"uniques": ["Gain 1-turn of ranged immunity from land units upon attacked by ranged attack. Cooldown: 5 turns",
+					"[+1000]% Strength <when defending> <vs [Ranged]> <for units without [Deflect Cooldown]> <hidden from users>"]
+	},
+	{
+		"name": "Deflect Active",
+		"uniques": ["[+1000]% Strength <when defending> <vs [Ranged]>"]
+	},
+	{
+		"name": "Deflect Cooldown",
+		"uniques": ["Deflect is on cooldown", "Deflect CD"]
 	},
 //Small people
 	{

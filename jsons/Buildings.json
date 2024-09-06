@@ -38,8 +38,9 @@
 },
   //Hankunesia
 	{
-		"name": "Pusat Kebudayaan",
+		"name": "Population Artist",
 		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
 		"cost": 1,
 		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
 					"Unbuildable"]
@@ -97,11 +98,15 @@
 		"uniqueTo": "Hankunesia",
 		"replaces": "Castle",
 		"cityStrength": 7,
+		"culture": 1,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
+		"replacementTextForUniques": "+1 [Food] from [Farm] tiles adjacent to [Mountain] tile in this city\n+1 [Gold] from [Farm] tiles adjacent to [Coast] tile in this city",
+		"uniques": ["Destroyed when the city is captured", 
+					"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles> <hidden from users>", 
+					"[+1 Gold] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Coast] tiles> <hidden from users>"],
                 "civilopediaText": [
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."},
 ],
