@@ -11,6 +11,19 @@
 			"[+1 Culture] from [Great Improvement] tiles [in this city] <within [1] tiles of a [Arepa House]>"],
 		"requiredTech": "Engineering"
 	},
+//Small people
+	{
+		"name": "Skynet cache",
+		"replaces": "Amphitheater",
+        "uniqueTo": "Small People",
+        "uniques": ["Destroyed when the city is captured"],
+		"specialistSlots": {"Artist": 1},
+        "culture": 3,
+        "happiness": 2,
+        "requiredBuilding": "Monument",
+        "hurryCostModifier": 25,
+        "requiredTech": "Drama and Poetry"
+	},
 // Lasty's Kazakhstan
 {
   "name": "Biev Courthouse",
@@ -25,8 +38,9 @@
 },
   //Hankunesia
 	{
-		"name": "Pusat Kebudayaan",
+		"name": "Population Artist",
 		"maintenance": 0,
+		"greatPersonPoints": {"Great Artist": 1},
 		"cost": 1,
 		"uniques": ["Unsellable", "Will not be displayed in Civilopedia", "Destroyed when the city is captured",
 					"Unbuildable"]
@@ -84,11 +98,15 @@
 		"uniqueTo": "Hankunesia",
 		"replaces": "Castle",
 		"cityStrength": 7,
+		"culture": 1,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"uniques": ["Destroyed when the city is captured", "[+1 Culture] per [4] population [in this city]"],
+		"replacementTextForUniques": "+1 [Food] from [Farm] tiles adjacent to [Mountain] tile in this city\n+1 [Gold] from [Farm] tiles adjacent to [Coast] tile in this city",
+		"uniques": ["Destroyed when the city is captured", 
+					"[+1 Food] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Mountain] tiles> <hidden from users>", 
+					"[+1 Gold] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Coast] tiles> <hidden from users>"],
                 "civilopediaText": [
 			{"text": "Panggone poro Sultan. Rakjel mboten pareng iri hati dan dengki."},
 ],
@@ -131,7 +149,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Metal Casting",
-		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+1 Production, +1 Food] [in this city] <within [2] tiles of a [Tundra]>"]
+		"uniques": ["[-10]% Unhappiness from [Population] [in this city]", "[+2 Food] [in this city] <within [2] tiles of a [Tundra]>"]
 	},
 	//Firelord
 	{
@@ -261,16 +279,16 @@
 	},
 
 // Ravignir
-    {
-		"name": "Clown Alley",
-		"replaces": "Colosseum",
-		"uniqueTo": "Clownish Commonwealth",
-		"happiness": 2,
-		"gold": 2,
-		"maintenance": 0,
-		"hurryCostModifier": 0,
-		"requiredTech": "Construction",
-	},
+//    {
+//		"name": "Clown Alley",
+//		"replaces": "Colosseum",
+//		"uniqueTo": "Clownish Commonwealth",
+//		"happiness": 2,
+//		"gold": 2,
+//		"maintenance": 0,
+//		"hurryCostModifier": 0,
+//		"requiredTech": "Construction",
+//	},
 
 //Arkistia
 	{
@@ -338,4 +356,54 @@
 		"requiredTech": "Radio",
 		"uniques": ["[+2 Food] from every specialist [in this city]","Destroyed when the city is captured"]
 	},
+//Plert
+    { 
+		"name": "Ikea",
+		"replaces": "Workshop",
+		"requiredTech": "Metal Casting",
+		"maintenance": 2,
+		// "happiness": 1,
+		"food": 1,
+		"production": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"uniqueTo": "Blahaj empire",
+		"civilopediaText": [
+			{
+				"text": "Who doesn't like IKEA. The great meatballs and Blahajes from it make everyone happier."
+			}
+		]
+	},
+	{
+		"name": "Hero Statue",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Nukaruzania",
+		"cost": 125,
+		"culture": 4,
+		"isNationalWonder": true,
+		"uniques": [
+			"New [All] units start with [+15] Experience [in this city]",
+			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			],
+		"requiredTech": "Iron Working"
+	},
+
+
+
+	//Doomstar civ
+    {
+    "name": "DS USM tech", 
+    "uniqueTo": "DS civ",
+    "cost": 0, 
+    "uniques": ["Unavailable", 
+        "[+2]% Strength <for [All] units> <for [9999] turns>", 
+        "[+48]% Strength <for [Gray Goo unit] units> <for [9999] turns>", 
+        "[+2]% [Production] [in all cities] <for [9999] turns>", 
+        "[+2]% [Gold] <for [9999] turns>", 
+        "[+2]% [Science] <for [9999] turns>", 
+        "[+2]% [Culture] <for [9999] turns>", 
+        "[+2]% [Food] [in all cities] <for [9999] turns>", 
+        "Remove [DS USM tech] [in this city]"
+    ]
+    },
 ]

@@ -15,20 +15,21 @@
 	},
 	//Hankunesia
 	{
-		"name": "Penggarap",
+		"name": "Keraton Guard",
 		"uniqueTo": "Hankunesia",
-		"replaces": "Warrior",
-		"unitType": "Sword",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 9,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Petani"],
-		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "Pentung-pentungan, eh tapi iso bertani."}
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot",
+		"uniques": ["Starts with 15 experience"],
+		"promotions": ["Deflect"],
+        	"civilopediaText": [
+			{"text": "Abdi Dalem poro Sultanipun Hankunesia"}
 		]
 	},
 // Lasty's Kazakhstan
@@ -130,7 +131,7 @@
 		"uniqueTo": "Aleksandria",
 		"movement": 2,
 		"strength": 34,
-		"cost": 200,
+		"cost": 225,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
@@ -308,32 +309,32 @@
 	},
 	
 // Ravignir	
-    {
-		"name": "Unicycle Clown",
-		"replaces": "Chariot Archer",
-		"uniqueTo": "Clownish Commonwealth",
-		"unitType": "Archery",
-		"movement": 4,
-		"strength": 6,
-		"rangedStrength": 10,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"upgradesTo": "Crossbowman",
-		"obsoleteTech": "Machinery",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit","Can transform to [Berserk Clown]"],
-		"attackSound": "elephant"
-	},
-    {
-		"name": "Berserk Clown",
-		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 9,
-		"cost": 56,
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
-		"attackSound": "elephant"
-	},
+//    {
+//		"name": "Unicycle Clown",
+//		"replaces": "Chariot Archer",
+//		"uniqueTo": "Clownish Commonwealth",
+//		"unitType": "Archery",
+//		"movement": 4,
+//		"strength": 6,
+//		"rangedStrength": 10,
+//		"cost": 56,
+//		"requiredTech": "The Wheel",
+//		"upgradesTo": "Crossbowman",
+//		"obsoleteTech": "Machinery",
+//		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit","Can transform to [Berserk Clown]"],
+//		"attackSound": "elephant"
+//	},
+//  {
+//		"name": "Berserk Clown",
+//		"unitType": "Mounted",
+//		"movement": 4,
+//		"strength": 9,
+//		"cost": 56,
+//		"upgradesTo": "Knight",
+//		"obsoleteTech": "Chivalry",
+//		"uniques": ["No defensive terrain bonus", "Unbuildable", "Cannot be purchased", "Never appears as a Barbarian unit","Can transform to [Unicycle Clown]"],
+//		"attackSound": "elephant"
+//	},
 	{
 		"name": "Bounty Hunter",
 		"unitType": "Gunpowder",
@@ -443,5 +444,87 @@
 		"uniques": ["[+25]% Strength <vs [Armored] units>","[+33]% Strength <vs cities>",
 			"Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
+	},
+	//Blahaj Empire
+	{ 
+		"name": "Blahaj",
+		"replaces": "Submarine",
+		"unitType": "Submarine",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 40,
+		"cost": 325,
+		"hurryCostModifier": 40,
+		"requiredTech": "Refrigeration",
+		"obsoleteTech": "Telecommunications",
+		"upgradesTo": "Nuclear Submarine",
+		"uniqueTo": "Blahaj empire",
+		"promotions": ["Logistics"],
+		"uniques": ["[+75]% Strength <when attacking>","Can only attack [Water] tiles"],
+		"civilopediaText": [
+			{
+				"text": "Specialy trained shark to destroy people`s ships"
+			}
+		],
+		"attackSound": "shipguns"
+	},
+
+	{
+		"name": "Independence Warrior",
+		"unitType": "Sword",
+		"replaces": "Catapult",
+		"uniqueTo": "Nukaruzania",
+		"movement": 2,
+		"strength": 10,
+		"cost": 75,
+		"requiredTech": "Philosophy",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-1] Sight"],
+		"attackSound": "throw"
+	},
+
+
+
+	//Doomstar civ
+	{
+		"name": "DSStarfighter",
+		"unitType": "Fighter",
+		"replaces": "Jet Fighter",
+		//"replaces": "Stealth Bomber",
+		"uniqueTo": "DS civ",
+		"movement": 2,
+		"strength": 100,
+		"rangedStrength": 100,
+		"range": 25,
+		"interceptRange": 25,
+		"cost": 1000,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Aluminum",
+		"uniques": ["[100]% chance to intercept air attacks", 
+    			"Damage taken from interception reduced by [100]%", 
+			"[+50]% Damage when intercepting", "Can see invisible [All] units", 
+			"[+100]% Strength <vs cities>", "Uncapturable"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "Gray Goo unit",
+		"unitType": "Civilian",
+		"uniqueTo": "DS civ",
+		"movement": 4,
+		"strength": 25,
+		"cost": 500,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["May travel on Water tiles without embarking",
+    			"Can pass through impassable tiles", "Uncapturable", 
+			"Can see invisible [All] units", 
+			"No defensive terrain bonus", 
+    "Ignores terrain cost", 
+	  		"Heals [20] damage if it kills a unit", 
+   			"Earn [50]% of killed [All] unit's [Cost] as [Science]",
+    			//"[This Unit] gains the [Gray Goo Devouring] promotion <upon defeating a [Military] unit> <for [DS civ]>",
+			"Limited to [1] per Civilization"
+    		],
+	"attackSound": "gdrAttack"
 	},
 ]

@@ -1,10 +1,27 @@
 [
 //Hankunesia
 	{
-		"name": "Petani",
-		"uniques": ["Can build [Farm] improvements on tiles <in [Land] tiles>"]
+		"name": "Trekker",
+		"uniques": ["Can pass through impassable tiles <in [Friendly Land] tiles>"]
 	},
-
+	{
+		"name": "Deflect",
+		"uniques": ["Gain 1-turn of ranged immunity from land units upon attacked by ranged attack. Cooldown: 5 turns",
+					"[+1000]% Strength <when defending> <vs [Ranged]> <for units without [Deflect Cooldown]> <hidden from users>"]
+	},
+	{
+		"name": "Deflect Active",
+		"uniques": ["[+1000]% Strength <when defending> <vs [Ranged]>"]
+	},
+	{
+		"name": "Deflect Cooldown",
+		"uniques": ["Deflect is on cooldown", "Deflect CD"]
+	},
+//Small people
+	{
+		"name": "Seaside",
+        "uniques": ["[-33]% maintenance costs", "Can build [Water] improvements on tiles"]
+	},
 //Aleksandria
 	{
 		"name": "[Comrade] ability",
@@ -20,7 +37,7 @@
 //Thuntopia 
 	{
 		"name": "Unrelenting",
-		"uniques": ["Damage is ignored when determining unit Strength <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
+		"uniques": ["No damage penalty for wounded units <during a Golden Age>", "Unit will heal every turn, even if it performs an action <during a Golden Age>"]
 	},
 
 //Arepandia
@@ -40,5 +57,19 @@
 	{
 		"name": "[Bounty Hunter] ability", // only for Bounty Hunter and subsequent upgrades
 		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+	},
+
+
+
+	//Doomstar civ
+  {
+    "name": "DSEliteUnit",
+    "uniques": ["[+5] HP when healing", "[+300]% XP gained from combat", "[+2] XP gained from combat"]
+  },
+	{
+		"name": "Gray Goo Devouring",
+		"uniques": [
+      			"[+15]% Strength"
+		]
 	},
 ]

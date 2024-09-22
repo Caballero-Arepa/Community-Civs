@@ -33,29 +33,42 @@
 	{
 		"name": "Caballero Arepa",
 		"preferredVictoryType": "Diplomatic",
+		
 		"culture": 10,
-		"faith": 7,
+		"faith": 8,
 		"food": 8,
 		"gold": 5,
 		"happiness": 5,
 		"production": 6,
 		"science": 5,
-		"military": 5,
+		"military": 6,
+		
+		"aggressive": 3,
+		"declareWar": 5,
+		"warMongering": 4,
+		"commerce": 8,
+		"diplomacy": 7,
+		"loyal": 9,
+		"expansion": 8,
+
 		"priorities": {
-			"Tradition": 10,
-			"Liberty": 30,
+			"Tradition": 1,
+			"Liberty": 40,
 			"Honor": 10,
 			"Piety": 20,
-			"Rationalism": 20,
-			"Freedom": 30,
-			"Order": 30
+			"Patronage": 15,
+			"Commerce": 30,
+			"Rationalism": 40,
+			"Order": 30,
+			"Freedom": 35,
+			"Autocracy": 10,
 		},
-		"warMongering": 4,
-		"uniques": ["Will not build [Manhattan Project]"]
+		
+	"uniques": [
+		"Will not build [Windmill]", "Will not build [Manhattan Project]"
+	],
 	},
 
-
-Uniques: 
 {
       "name": "Fast Doubloon",
       // Stats focused personalities
@@ -182,14 +195,22 @@ Uniques:
 	{
 		"name": "BennieCUBED",
 		"preferredVictoryType": "Scientific",
-		"culture": 7,
+		"culture": 6,
 		"faith": 1,
 		"food": 3,
 		"gold": 4,
 		"happiness": 5,
-		"production": 9,
-		"science": 7,
+		"production": 8,
+		"science": 8,
+		// Behaviors
+
 		"military": 4,
+		"aggressive": 4,
+		"declareWar": 3,
+		"commerce": 5,
+		"diplomacy": 7,
+		"loyal": 9,
+		"expansion": 4,
 		"priorities": {
 			"Tradition": 20,
 			"Liberty": 30,
@@ -198,7 +219,6 @@ Uniques:
 			"Freedom": 30,
 			"Order": 20,
 		},
-		"warMongering": 2,
 		"uniques": ["Will not build [Manhattan Project]","Will not build [World Wonder]"],
 	},
 
@@ -238,5 +258,62 @@ Uniques:
 		"Will not build [Stonehnge]", "Will not build [The Pyramids]", "Will not build [Great Wall]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Angkor Wat]", "Will not build [Himeji Castle]", "Will not build [Kremlin]", "Will not build [Cristo Redentor]", "Will not build [Pentagon]", 
 		"Will not build [Catapult]"
 	],
+	},
+    {
+     "name": "Aggressive",
+     "production": 20,
+    "food": 20,
+    "gold": 30,
+    "science": 30,
+    "culture": 20,
+    "happiness": 25,
+    "faith": 20,
+    "military": 35,
+    "aggressive": 35,
+    "declareWar": 35,
+    "commerce": 30,
+    "diplomacy": 7,
+    "loyal": 4,
+    "expansion": 40
+    },
+	{
+		"name": "Doomstar",
+		"preferredVictoryType": "Scientific",
+
+      "culture": 2,
+      "faith": 0,
+      "food": 2,
+      "gold": 2,
+      "happiness": 2,
+      "production": 10,
+      "science": 10,
+      "military": 2,
+      "aggressive": 2,
+      "declareWar": 0,
+      "commerce": 2,
+      "diplomacy": 3,
+      "loyal": 8,
+      "expansion": 2,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 4,
+          "Honor": 1,
+          "Commerce": 5,
+          "Patronage": 2,
+          "Piety": 0,
+          "Rationalism": 20,
+          "Freedom": 2,
+          "Autocracy": 2,
+          "Order": 25
+      },
+		"uniques": [
+			"Will not build [Shrine]", "Will not build [Temple]", 
+			"Will not build [Stonehenge]", "Will not build [Mausoleum of Halicarnassus]", 
+			"Will not build [Grand Temple]", "Will not build [Hagia Sophia]", 
+			"Will not build [Great Mosque of Djenne]", "Will not build [Notre Dame]", 
+			"Will not build [Cathedral]", "Will not build [Monastery]", 
+			"Will not build [Mosque]", "Will not build [Pagoda]"
+		]
 	},
 ]

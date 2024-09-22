@@ -35,6 +35,46 @@
 			   "Mogolla","Harinapan","Candelaria","Rellenas","Quesillo","Panela",
 			   "Bogotana de Arepas","Finca Paisa","E'uevo","Colada","Casabe","Arepuela","Carioca","Chanfa",
 			   "Sarapas","Puerto Angú","Arequipe,","Shocolade","Andiná","Desmechado"
+			  ],
+        "spyNames": ["Don Patacón", "DOn Belias", "Ñero-ñero-siete", "Ernesto Pérez", "J. Carlos Bodoque", "Don Berriondo", "Don Gediondo"]
+  },
+  //Alatar
+   {
+		"name": "Small People",
+		"leaderName": "Alatar The Blue",
+		"adjective": ["small ones"],
+		"outerColor": [111, 183, 216],
+		"innerColor": [145, 76, 7],
+
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Alatar The Blue",
+		"favoredReligion": "Faithful",
+	  
+		"startIntroPart1": "The small people of the sky are not really a nation but rather an informal alliance without a unique leader. They rather rely on the guidance of a mysterious old wizard dressed in blue. A discret and friendly people, but full of creativity and curiosity, they are established on the east coast of the main continent and the near islands, they are under constant threat of the neighbourings hostile nations. They chose to face this adversity by being ready to move away at all time and take to the seas on their airships stationned on the shore. Initially used for fishing, they soon became also vaults of the most prized belongings of the small people society, as well as cultural hubs for singers and other artists in search of peace and open sky, sometimes the fishermen themselves.",
+		"startIntroPart2": "Welcome Alatar The Blue to the Eastern Lands. With your surroundings already populated by various nations, you will have the hard task to guide and protect your people through good and bad times and ready them to be able to sail East, now that the path is opened. Be ready for surprise, both from their neighbors, always greedy for the small people hard earned prosperity, but also from your protegés, full of life, hapinness and always ready to improvise a song or a danse. If you can, take the time to climb on a skynet and contemplate the simple life of your friends from above. This is real and profound hapiness.",
+ 
+		"introduction": "Hi there ! It seems you found us at last. You sincerely hope we can live together in peace. We don't take a lot of space and can be very friendly neigbors. You are also most welcome to propose trades. Should you need help against the forces of darkness, we will be here for you as much as we can as the faithfuls must unite under the light of Illuvatar !",
+		"declaringWar": "Enough is enough, you are threatening the light of Illuvatar and must be fought with all means possible.",
+     	"attacked": "We feared it might come to this. We are ready to face you with songs and dances, as well as our trusted fists. Knowing our loved ones are safe, we will fight with double the strength, which should be equal to the normal strength of a human.",
+		"afterPeace": "Peace it is ! Now is the time of songs and dances, to heal the wounds of hatred and darkness.",
+		"defeated": "The darkness prevailed today, but the Light is stronger. We now have to leave this land to the night and sail east to the light of the Stars.",
+
+		"neutralHello": "Quiubo, the jummy smell of the arepa has reached so far,\nYou'll ask me once for one, and eating it you'll be glad,\nIt'll leave your mouth so watery that you'll want more of that.",
+		"hateHello": "We sure can attack, we sure will protect, but most important of all, we never step back.",
+
+		"tradeRequest": "Are you ready to trade ? We are happy to share a pipe-weed with you on the desk of a skynet to seal the deal.",
+		
+		"uniqueName": "Seaside",
+		"uniques": [
+			"Comment [-33% maintenance costs for Water units]",
+            "Comment [Water units can build Water improvements on tiles]",
+            "[Water] units gain the [Seaside] promotion <hidden from users>"
+		],
+		"style": "Sky",
+		"cities": ["Bywater","Pincup","Greenholm","Tuckborough","Underhill","Woodhall",
+			   "Needlehole","Willowbottom","Cliffside","OakTown","Sleepy Delving","Over The Rock",
+			   "Beachyside","Highcleeve","Little Meet","Shore Delving","Toothbank","Bottleneck","Froggyshore","HighOne",
 			  ]
   },
 	//Ace Hank of Hankunesia
@@ -42,6 +82,7 @@
 		"name": "Hankunesia",
 		"leaderName": "Ace Hank",
 		"adjective": ["Hankus"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Ace Hank of Hankunesia, you lead your people towards great cultural achievment. Your people begged you to settle more cities now it's getting crowdy, but your laziness to micromanage your cities hinders your empire in this meta.",
@@ -58,15 +99,16 @@
 		
 		"outerColor": [255,223,107],
 		"innerColor": [115,82,235],
-		"uniqueName": "Berbudaya",
-		"uniqueText": "+1 Great Artist Point from [Culture] buildings in your first 4 cities",
-		"uniques": ["Provides a [Pusat Kebudayaan] in your first [4] cities for free",
-					"Gain a free [Monument Artist] [in all cities] <in cities with a [Monument]> <in cities with a [Pusat Kebudayaan]>",
-					"Gain a free [Amphitheater Artist] [in all cities] <in cities with a [Amphitheater]> <in cities with a [Pusat Kebudayaan]>",
-					"Gain a free [Opera House Artist] [in all cities] <in cities with a [Opera House]> <in cities with a [Pusat Kebudayaan]>",
-					"Gain a free [Museum Artist] [in all cities] <in cities with a [Museum]> <in cities with a [Pusat Kebudayaan]>",
-					"Gain a free [Broadcast Tower Artist] [in all cities] <in cities with a [Broadcast Tower]> <in cities with a [Pusat Kebudayaan]>",
-					"Gain a free [Keraton Artist] [in all cities] <in cities with a [Keraton]> <in cities with a [Pusat Kebudayaan]>"],
+		"uniqueName": "Bertahan Untuk Budaya",
+		"uniqueText": "+1 Great Artist Point from [Culture] buildings in Capital\n+1 Great Artist Point in all cities with at least 10 [Population]\nNewly-trained land units may pass [Mountain] tiles in Friendly territory after discovering [Civil Service]",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Trekker] promotion <after discovering [Civil Service]>", "New [Keraton Guard] units start with [15] Experience [in all cities]",
+					"Gain a free [Population Artist] [in all cities] <in cities with at least [10] [Population]>",
+					"Gain a free [Monument Artist] [in all cities] <in cities with a [Monument]> <in cities with a [Palace]>",
+					"Gain a free [Amphitheater Artist] [in all cities] <in cities with a [Amphitheater]> <in cities with a [Palace]>",
+					"Gain a free [Opera House Artist] [in all cities] <in cities with a [Opera House]> <in cities with a [Palace]>",
+					"Gain a free [Museum Artist] [in all cities] <in cities with a [Museum]> <in cities with a [Palace]>",
+					"Gain a free [Broadcast Tower Artist] [in all cities] <in cities with a [Broadcast Tower]> <in cities with a [Palace]>",
+					"Gain a free [Keraton Artist] [in all cities] <in cities with a [Keraton]> <in cities with a [Palace]>"],
 		"cities": ["Sitihinggil","Kota Gedhe","Adat","Istiadat","Surakarta","Klathen","Gotong","Royong","Kartasura","Sukoharjo"],
 	},
 {
@@ -258,20 +300,20 @@
 "startBias": ["Tundra"],
 "personality": "A1y0sh4",
 
-	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the challenges of arctic life under the sight of the boreal lights. Despite every type of adversity the empire still has to fight, it can rely on their virtues and on your advice for its future to continue to thrive.",
+	"startIntroPart1": "Hail Lyosha, may your laurus dreams bring countless glory upon thee, great Caesar of Aleksandria! Under your enlightened empire lies the vast expanse of the harsh tundra, and behind her veiled marvels hides the real strength of the Pearl of the North. Since the dawn of time your people managed to endure the arduous challenges posed by arctic life and, with a grain of ingenuity and a bit of pride, they succeded to thrive under the solitary bliss of boreal lights. Despite every type of adversity the empire still has to defy, it can steadily rely on their virtues and on your advice for its future to continue to shine.",
 	"startIntroPart2": "O Alyosha, princeps Aleksandri, the Motherland calls and invokes your ambition to fulfill your destiny and lead her people. Will you patronize the flourishing of arts and sciences or will you promote the thriving of arms and strife? Can you build a civilization that will stand the test of time?",
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
 	"attacked": "Finally someone ambitious enough to try to win me over. May you succeed or die under my triumph.",
 	"defeated": "I know nothing about what I ignore - I'm aware of it -\nyet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
-	"introduction": "Zdravstvuyte! I am A1y0sh4, great emperor of our glorious Motherland,\nbut you can call me Alyosha.",
+	"introduction": "Zdravstvuyte! I am A1y0sh4, the empiring prince of our glorious Motherland,\nbut you can simply refer to me as Alyosha.",
 	"neutralHello": "Zdravstvuyte.",
 	"neutralLetsHearIt":"What shall we discuss now?",
 	"neutralYes":"Our people are eager to accept.",
 	"neutralNo":"I must respectfully decline.",
 	"hateLetsHearIt":"Have you come here to negotiate your surrender?",
-	"hateNo":"I'm afraid not to be appreciating enough your subtle humor.",
-	"hateYes":"I see with great hope that we can find common ground even in such unfavourable circumstances.",
+	"hateNo":"This is a ridiculous proposal.",
+	"hateYes":"Its nice to see we agree on something from time to time.",
 	"afterPeace":"I must admit your military genius astonished me.\nConsider yourself honored by my most sincere respect.",
 	"hateHello": "Why are you still on this side of the Acheron?",
 	"tradeRequest": "Some believe that trade is the engine of the world.\nWould you like to move it in this direction?",
@@ -279,15 +321,16 @@
 	"favoredReligion": "Christianity",
 
 	"outerColor": [158, 0, 0],
-	"innerColor": [255, 200, 0],
+	"innerColor": [255, 206, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "+1 [Culture] from every Resource in a [Tundra] tile\n+1 [Science] and [Production] from every [Tundra] during a Golden Age",
-	"uniques": ["[+1 Culture] from every [Bonus resource] <in [Tundra] tiles>", "[+1 Culture] from every [Luxury resource] <in [Tundra] tiles>", "[+1 Culture] from every [Strategic resource] <in [Tundra] tiles>", "[+1 Science, +1 Production] from every [Tundra] <during a Golden Age>"],
+	"uniqueText": "City centers within 2 tiles of a Tundra tile gain +1 [Culture] after discovering Animal Husbandry and +1 [Science] after discovering Mining\n+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
+	"uniques": ["[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Animal Husbandry]>", "[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Animal Husbandry]> <during a Golden Age>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Mining]>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Mining]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
 		"Veragrad","Morozburg","Medvedkar"],
-	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Denis", "Maksim", "Aleksandra", "Adelina"]
+	"spyNames": ["Irina", "Vera", "Yelizaveta", "Yaroslav", "Nikita", "Yevgeny", "Vladimir", "Maksim", "Aleksandra", "Adelina"]
 },
 	//Ketonia
 	{
@@ -412,14 +455,14 @@
  },
 	//VividVale 
     {
-        "name": "VividVale",
-	 "style": "VividValean",
+             "name": "VividVale",
+	     "style": "VividValean",
              "adjective": ["VividValean"],               
              "leaderName": "BennieCUBED",
              "startBias": ["Coast","Avoid [Tundra]"],
              "preferredVictoryType": "Scientific",
-	 "personality": "BennieCUBED",
-	 "favoredReligion": "Christianity",
+	     "personality": "BennieCUBED",
+	     "favoredReligion": "Christianity",
 
              "declaringWar": "Don't worry, if we win this war, I'll make sure to conserve your culture...",
              "attacked": "Your allies won't look at you the same anymore...",
@@ -435,8 +478,9 @@
              "innerColor": [210, 136, 7],
              "uniqueName": "Bombora",
              "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
-             "cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galeborne","Cannervale","Koola","Waggaton","Sambay","Bunjitown",
-	 "Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"]
+             "cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galebourne","Waterview","Cannervale","Koola","Waggaton","Gorton","Sambay","Bunjitown",
+	 "Marth","Ganrick","Marakapi","Green Frog Gorge","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"],
+	     "spyNames": ["Bobin","Lachlan","Magnus","Johno","Bindi","Djarrjuntjun","Adelaida","Whetū"],
 },
         //Rakhvia
 	{
@@ -470,36 +514,36 @@
 			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
 },
 //What should everyone calk you?
-{
-        "name": "Sharded Civ",
-        "leaderName": "Alpha-2",
-        "adjective": ["Former Galactic"],
-	"startBias": ["Tundra"],
-	"preferredVictoryType": "Scientific",
-
-
-        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
-        "startIntroPart2": "So we have to survive to rebuild our empire back.",
-
-        "introduction": "Hi.",
-        "declaringWar": "Die!",
-         "attacked": "Why why are u doin this?\nSo u have chosen death.",
-        "afterPeace": "Finnaly peace\nI dont like u.",
-        "defeated": "Nooooo :(",
-         "neutralHello": "Hello my friend, wanna trade with me?",
-        "hateHello": "Get lost!",
-        "tradeRequest": "Hi, wanna trade?",
-	
-	"outerColor": [87, 113, 108],
-        "innerColor": [69, 204, 48],
-        
-        "uniqueName": "Type 3 civilization",
-        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
-	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
-			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
-			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
-			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
-  },
+//{
+//        "name": "Sharded Civ",
+//        "leaderName": "Alpha-2",
+//        "adjective": ["Former Galactic"],
+//	"startBias": ["Tundra"],
+//	"preferredVictoryType": "Scientific",
+//
+//
+//        "startIntroPart1": "Greetings, I'm Alpha-2 from sharded empire im not from the earth im from another galaxy but our last planet was blown into pieces...",
+//        "startIntroPart2": "So we have to survive to rebuild our empire back.",
+//
+//        "introduction": "Hi.",
+//        "declaringWar": "Die!",
+//         "attacked": "Why why are u doin this?\nSo u have chosen death.",
+//        "afterPeace": "Finnaly peace\nI dont like u.",
+//        "defeated": "Nooooo :(",
+//         "neutralHello": "Hello my friend, wanna trade with me?",
+//        "hateHello": "Get lost!",
+//        "tradeRequest": "Hi, wanna trade?",
+//	
+//	"outerColor": [87, 113, 108],
+//        "innerColor": [69, 204, 48],
+//        
+//        "uniqueName": "Type 3 civilization",
+//        "uniques": ["[+20]% Strength <for [Military] units> <when fighting in [Snow] tiles>", "[+20]% Strength <for [Military] units> <when fighting in [Tundra] tiles>"],
+//	"cities":["Alpha-1","Alpha-2","Alpha-3","Alpha-4","Alpha-5","Alpha-6","Alpha-7","Alpha-8","Alpha-9","Alpha-10",
+//			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
+//			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
+//			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+//  },
  
  // Letstalkaboutdune
     {
@@ -614,31 +658,31 @@
 	},
 	
 // Ravignir
-    {
-        "name": "Clownish Commonwealth",
-        "leaderName": "Ravignir",
-        "adjective": ["Funny"],
-		"startBias": ["Avoid [Coast]"],
-		"preferredVictoryType": "Scientific",
+//    {
+//       "name": "Clownish Commonwealth",
+//        "leaderName": "Ravignir",
+//        "adjective": ["Funny"],
+//		"startBias": ["Avoid [Coast]"],
+//		"preferredVictoryType": "Scientific",
 
-        "startIntroPart1": "Welcome, O'Great Conqueror, the Destroyer of Hopes, the Unstoppable Scientist and amongst all - the Master of Clowns.",
-        "startIntroPart2": "You'are trully a legend, Your name causes people to tremble. Can you live up to it? Can you reign supreme over the world?",
-
-        "introduction": "Good day, let's be friends uWu",
-        "declaringWar": "Sorry, I had to XDDD",
-        "attacked": "Lol, just die XDDD",
-        "defeated": "Do I look like a clown?. Apparently, so.",
-        "neutralHello": "Yes?",
-        "hateHello": "!?!?!",
-        "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
-	
-		"outerColor": [39, 17, 51],
-        "innerColor": [181, 211, 255],
-        
-        "uniqueName": "Clownfiesta",
-        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory"],
-        "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
-    },
+//        "startIntroPart1": "Welcome, O'Great Conqueror, the Destroyer of Hopes, the Unstoppable Scientist and amongst all - the Master of Clowns.",
+//        "startIntroPart2": "You'are trully a legend, Your name causes people to tremble. Can you live up to it? Can you reign supreme over the world?",
+//
+//        "introduction": "Good day, let's be friends uWu",
+//        "declaringWar": "Sorry, I had to XDDD",
+//        "attacked": "Lol, just die XDDD",
+//        "defeated": "Do I look like a clown?. Apparently, so.",
+//        "neutralHello": "Yes?",
+//        "hateHello": "!?!?!",
+//        "tradeRequest": "Sure, I've got some free candies in my van... Come on, hop inside, don't be shy!",
+//	
+//		"outerColor": [39, 17, 51],
+//        "innerColor": [181, 211, 255],
+//        
+//        "uniqueName": "Clownfiesta",
+//        "uniques": ["[+1] Sight <for [Scout] units>","[Scout] units gain the [Quick Study] promotion","City-State territory always counts as friendly territory","Will not be chosen for new games"],
+//        "cities":["No'El","Vir Ehing","Rav Gerrak","O'Negai","Na'Arua","Gor Irdur","Vak Eloen","Yuub Onae'U","U'Pran"],
+//    },
 	{
         "name": "Principality of Vinroth",
         "leaderName": "Veldreth",
@@ -768,7 +812,7 @@
 	},
 	{
 		"name": "Willosaur Tamaran",
-		"leaderName": "Will Wright",
+		"leaderName": "Pasher Handsome",
 		"outerColor": [44, 120, 101],
 		"innerColor": [255, 152, 0],
 
@@ -776,5 +820,131 @@
 		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
 		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
 			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
+	},
+    {
+		"name": "Exclamation Point Empire",
+		"leaderName": "!     !  !",
+	        "style": "Barbarians",
+		"adjective": ["!1"],
+    		"personality": "Aggressive", 
+
+    		"declaringWar": "GL",
+		"defeated": "Gg. I earned your respect.",
+		"attacked": "Think twice before you invade.",
+		"introduction": "Sup.",
+		"neutralHello": "Wsg.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "G?",
+
+        "outerColor": [150, 198, 167],
+        "innerColor": [60, 0, 7],
+
+		"uniqueName": "Great Conquestador",
+		"uniques": ["Cities are razed [3] times as fast", 
+			"Notified of new Barbarian encampments",
+			"[+25]% [Production] [in puppeted cities]",
+                        "[+25]% [Gold] [in puppeted cities]",
+                        "[+25]% [Science] [in puppeted cities]",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["!     !  !'s Court"],
+        "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
+    },
+	{
+		  "name": "Blahaj empire",
+		  "leaderName": "Plert",
+		  "adjective": ["Blahajes"],
+		  "startBias": ["Coast"],
+		  "preferredVictoryType": "Domination",
+		  
+		  "startIntroPart1": "With the power of the greatest Blahaj conquer everyone. All of the world belongs to shorks",
+		  "startIntroPart2": "Remember, you have no allies only partners wich you can attack whenever you want if this will help to bring glory to our nation ~UwU",
+		  "declaringWar": "After the war we will cuddle ~UwU",
+		  "attacked": "Why would you do that ~UwU",
+		  "defeated": "We can still cuddle, right? ~UwU",
+		  "introduction": "Hi ~UwU",
+		  "neutralHello": "Hi ~OwO",
+		  "hateHello": "Hi ~Ew",
+		  "tradeRequest": "You can trade with us ~UwU",
+		  "outerColor": [231,110,194],
+		  "innerColor": [25,0,151],
+			  "favoredReligion": "Christianity",
+		  "uniqueName": "Navy go brrrr",
+		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
+		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
+	  },
+	{	
+		"name": "Nukaruzania",
+		"leaderName": "Nurasanana III",
+		"adjective": ["Nukaranian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "welcome back the great leader, Nurasanana the third. Welcome back to your great nation. From east China to Nepal you're leading your 2.800.000 population from small country to big country in 789 BC. Your country journey start on 2389 BC and ends on 678 BC after 3 leader after you pass away.",
+	"startIntroPart2": "Great Nurasanana the third, your nation memory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+
+	"declaringWar": "Oh your trial peace with me has end, prepare for blood to fall.",
+	"attacked": "Goodbye, trial friend.",
+	"defeated": "oh... Thanks to play with me, goodbye...",
+	"introduction": "You? Oh hi my tr- oh I mean friends!",
+
+	"neutralHello": "Toroejo.(hi in nurra Language)",
+	"hateHello": "Hi.",
+
+	"tradeRequest": "En- I mean, my Comrades, let's do a deal please.",
+		
+	"outerColor": [29,83,63],
+	"innerColor": [213,9,49],
+	"favoredReligion": "Islam",
+	"uniqueName": "Nuro democracy",
+	"uniques": [
+		"[-20]% Culture cost of adopting new Policies <during a Golden Age>",
+		"Free [Great Artist] appears <upon founding a city> <for every [7] [Cities]>",
+		"[-10]% unhappiness from the number of cities"
+	],
+	"cities": ["Ancient Nuras","Akkadia","Nuras","Gacata","Borkura","Martis","Opis","Mari","Shushan","wEshnunna"," Dafvu",
+		"New Nuras","Erech","Kutahar","Batam","Surabayay","Ashur-akabu","Ninveh","Nimrud","Arabela","Nutai",
+		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
+	},
+
+
+
+
+
+//Doomstar
+	{
+		"name": "DS civ",
+		"leaderName": "Doomstar",
+		"adjective": ["DS"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Doomstar",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "DIE FOR EVERYTHING YOU HAVE DONE!!!",
+		"attacked": "Another annoying conqueror...",
+		"defeated": "I have to leave this world, i am not welcome here...",
+		"introduction": "Hello. I'm asking you not to touch me, and I won't bother you.",
+		
+		"neutralHello": "Hello",
+		"hateHello": "You are not welcome here",
+
+		"tradeRequest": "Will you agree this?",
+
+		"outerColor": [0,0,0],
+		"innerColor": [127,0,255],
+
+		"uniqueName": "Quality over quantity",
+		"uniques": [
+    "[+10]% [Science]", 
+    "[Military] units gain the [DSEliteUnit] promotion",
+    "[-50]% Production when constructing [Military] units [in all cities]",
+    "[Gold] cost of purchasing [Military] units [+100]%",
+    "[Faith] cost of purchasing [Military] units [+100]%",
+    "[+20]% Strength <for [Military] units>", 
+    "Cannot build [Stealth Bomber] units", 
+        "Gain a free [DS USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
+    ], 
+    "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
 ]
