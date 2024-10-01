@@ -473,7 +473,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
-			"Only available <if [3rd and 4th Unique Component] is enabled>"],
+			"Only available <if [3rd-and-4th-Unique-Component] is enabled>"],
 		"attackSound": "metalhit"
 	},
 	//Blahaj Empire
