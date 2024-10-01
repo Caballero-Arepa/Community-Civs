@@ -112,7 +112,7 @@
 		"cities": ["Sitihinggil","Kota Gedhe","Adat","Istiadat","Surakarta","Klathen","Gotong","Royong","Kartasura","Sukoharjo"],
 	},
 {
-	  "name": "Lasty's Kazakhstan",
+	  "name": "Lasty Nomads",
 	  "leaderName": "Lasty Стратег",
 	  "adjective": ["Kazakh"],
 	  "outerColor": [1, 165, 200],
@@ -742,7 +742,7 @@
 			"Point Kurtz","Point Zeta","Point Pi","Point Omicron","Point Omega","Iturnil Suhfaring"],
         "spyNames": ["Josh", "Dylan", "Wilhelm", "Kriegan", "Hans", "Horst", "Rehpostin", "Kaleb", "Nickerson", "Tshighur"]
     },
-	//Gafaszt2
+	//Gafaszt
     {
         	"name": "Arkistia",
         	"leaderName": "Gafaszt2",
@@ -810,17 +810,34 @@
 			"[+1 Production] from [Forest] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
 	},
+// Basil
 	{
 		"name": "Willosaur Tamaran",
 		"leaderName": "Pasher Handsome",
 		"outerColor": [44, 120, 101],
 		"innerColor": [255, 152, 0],
+		"preferredVictoryType": "Scientific",
 
 		"uniqueName": "Three-legged Tail Fighters",
-		"uniques": ["[-1] Movement <for [All] units>","[+50]% Strength <for [All] units>"],
+		"uniques": ["[-1] Movement <for [non-[Mounted]] units>",
+			"[+30]% Strength <for [{Land} {non-[Gunpowder]}] units> <when defending>"],
 		"cities": ["Minoxal","Bitruxal","Moyoixi","Knutipox","Apixtoom-Lauaka","Basilex","Arepson","Bambixal","Irinops",
 			"Hihihahaxal","Roberscwatch","Pizdops","Rofltoxal","Doofenxal","Shmirtz","Ohi-Xal","Colophon","Bixtunakl","Hikixal","Oh-Tae-Gunxal"]
 	},
+	{
+		"name": "Tamaranian Tribes",
+		"leaderName": "Basil",
+		"favoredReligion": "Interstellar Shamanism",
+		"outerColor": [255, 152, 0],
+		"innerColor": [44, 120, 101],
+		"preferredVictoryType": "Diplomatic",
+
+		"uniqueName": "Home Shards",
+		"uniques": ["Gain [10] Influence with a [{Land} {military units}] gift to a City-State",
+				"[+1 Culture] [in all cities] <during a Golden Age>"],
+		"cities": ["Kukunteli","Pistria","Ancitatians","Vivlia","Vondeplend"]
+	},
+// !!!
     {
 		"name": "Exclamation Point Empire",
 		"leaderName": "!     !  !",
@@ -849,6 +866,7 @@
 		"cities": ["!     !  !'s Court"],
         "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
     },
+//Plert
 	{
 		  "name": "Blahaj empire",
 		  "leaderName": "Plert",
@@ -872,6 +890,7 @@
 		  "uniques": ["[+1] Range <for [Ranged Water] units>","[-33]% Strength <for [Ranged Water] units> <when attacking>"],
 		  "cities": ["Sharkopolis","Ikealand","Plertland","Shork cave","Temple of Blahaj","Cuteland","Pillar of destruction","UwU-land"]
 	  },
+//
 	{	
 		"name": "Nukaruzania",
 		"leaderName": "Nurasanana III",
@@ -906,11 +925,6 @@
 		"Zabrud","Berlian","Uran"," Tiong","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 		"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan"]
 	},
-
-
-
-
-
 //Doomstar
 	{
 		"name": "DS civ",
