@@ -35,7 +35,7 @@
 // Lasty's Kazakhstan
 {
   "name": "Kazakh Nomad",
-  "uniqueTo": "Lasty's Kazakhstan",
+  "uniqueTo": "Lasty Nomads",
   "replaces": "Lancer",
   "unitType": "Mounted",
   "cost": 185,
@@ -428,7 +428,7 @@
 			"Cost increases by [10] per owned city","Cost increases by [15] when built"]
 	},
 
-//Willosaur Tamaran
+//Basil
 	{ 
 		"name": "Tamaran Spaceship",
 		"replaces": "Stealth Bomber",
@@ -444,6 +444,37 @@
 		"uniques": ["[+25]% Strength <vs [Armored] units>","[+33]% Strength <vs cities>",
 			"Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+4] Sight", "Can see over obstacles"],
 		"attackSound": "bombing"
+	},
+	{
+		"name": "Moyoixian Guard",
+		"replaces": "Lancer",
+		"uniqueTo": "Tamaranian Tribes",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","[+15]% Strength <within [2] tiles of a [City center]>"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Savage",
+		"replaces": "Spearman",
+		"uniqueTo": "Tamaranian Tribes",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"Only available <if [3rd and 4th Unique Component] is enabled>"],
+		"attackSound": "metalhit"
 	},
 	//Blahaj Empire
 	{ 
