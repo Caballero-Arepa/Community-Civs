@@ -550,12 +550,12 @@
     			"Can pass through impassable tiles", "Uncapturable", 
 			"Can see invisible [All] units", 
 			"No defensive terrain bonus", 
-    "Ignores terrain cost", 
+                        "Ignores terrain cost", 
 	  		"Heals [20] damage if it kills a unit", 
    			"Earn [50]% of killed [All] unit's [Cost] as [Science]",
-    			//"[This Unit] gains the [Gray Goo Devouring] promotion <upon defeating a [Military] unit> <for [DS civ]>",
+    			"This Unit gains the [Gray Goo Devouring] promotion <upon defeating a [Military] unit> <for [DS civ]>",
 			"Limited to [1] per Civilization"
     		],
 	"attackSound": "gdrAttack"
-	},
+	}
 ]
