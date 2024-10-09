@@ -254,7 +254,7 @@ BuildingIcons/Great Bamboo Walls
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Haystack
+BuildingIcons/Haystacks
   rotate: false
   xy: 652, 1264
   size: 100, 100
@@ -632,6 +632,27 @@ TileSets/AbsoluteUnits/Units/Drake fire
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Gray Goo unit
+  rotate: false
+  xy: 1176, 1484
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gray Goo unit
+  rotate: false
+  xy: 1176, 1484
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Gray Goo unit
+  rotate: false
+  xy: 1176, 1484
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Hirudinea
   rotate: false
   xy: 736, 142
@@ -641,7 +662,7 @@ TileSets/AbsoluteUnits/Units/Hirudinea
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Dragon
   rotate: false
-  xy: 1876, 1196
+  xy: 1876, 1268
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -903,27 +924,6 @@ TileSets/FantasyHex/Units/Giant Death Robot-Arepino
   xy: 1948, 1305
   size: 32, 31
   orig: 32, 31
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Gray Goo unit
-  rotate: false
-  xy: 1176, 1484
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Gray Goo unit
-  rotate: false
-  xy: 1176, 1484
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Gray Goo unit
-  rotate: false
-  xy: 1176, 1484
-  size: 128, 128
-  orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist-Arepino
@@ -1698,7 +1698,7 @@ TileSets/HexaRealm/Units/Infantry-Willosaur Tamaran
   index: -1
 TileSets/HexaRealm/Units/Iron Dragon
   rotate: false
-  xy: 1876, 1260
+  xy: 1876, 1196
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
