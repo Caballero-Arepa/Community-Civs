@@ -257,10 +257,10 @@
   "attackSound": "tankshot",
   "upgradesTo": "Giant Death Robot"
  },
-        //Thuntopia 
+        //Thunjaya
 	{
 		"name": "Swordshocker",
-		"uniqueTo": "Thuntopia",
+		"uniqueTo": "Thunjaya",
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -270,7 +270,7 @@
                 "requiredTech": "Steel",
 		"obsoleteTech": "Gunpowder",
 		"upgradesTo": "Musketman",
-		"uniques" : ["[+15]% Strength <vs [Sword] units>"],
+		"uniques" : ["[+25]% Strength <vs [Sword] units>"],
                 "promotions": ["Shock I"],
                 "attackSound": "metalhit"
 	},
