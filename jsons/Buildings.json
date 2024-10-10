@@ -240,10 +240,10 @@
 	},
 	{	"name": "Sparring Grounds",
 		"replaces": "Barracks",
-		"uniqueTo": "Thuntopia",
+		"uniqueTo": "Thunjaya",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+15]% Production when constructing [Sword] units [in this city]",
+		"uniques": ["[+20]% Production when constructing [Sword] units [in this city]",
 		"New [Military] units start with [15] Experience [in this city]",
                 "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
