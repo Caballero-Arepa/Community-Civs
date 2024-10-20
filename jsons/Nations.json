@@ -400,36 +400,36 @@
             "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
             "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"]
 },
-        //Thuntopia
+        //Thunjaya
 	{
-		"name": "Thuntopia",
-		"leaderName": "Thunder Crims",
-		"adjective": ["Thuntopian"],
+		"name": "Thunjaya",
+		"leaderName": "Thun",
+		"adjective": ["Thunjayan"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-		"personality": "Thunder",
+		"personality": "Thun",
 
-		"startIntroPart1": "Thunder Crims of Thuntopia, a war-focused nation that will truly conquer the world with an iron fist that will shoot down any attempts at destruction of this nation. Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Thun of Thunjaya, legends of your name circle the tribes of Old Thundria, where it is said that you were the ancestors of all Thunjayans. Eventually you formed the nomadic confederation of Thundria which are the roots of the trees of the Thunjayas. Oh, Thun of Thunjaya, the world needs you once more. Can you strike fear into the hearts of many as your nomadic confederation did? Can you conquer the realms of all your enemies? Can you build a civilization that will stand the test of time?",
 
-		"declaringWar": "Ill see you in hell.",
-		"attacked": "I don't believe this is in your favor.",
-		"defeated": "I don't think I'm getting out of this one...",
-		"introduction": "Hello There",
+		"declaringWar": "I will see you in hell.",
+		"attacked": "You will never defeat me! Never!",
+		"defeated": "My fall... was inevitable...",
+		"introduction": "Hello there, I am Thun of Thunjaya, will you be my friend or my enemy?",
 
-		"neutralHello": "Hello.",
-		"hateHello": "What?",
+		"neutralHello": "Hello there.",
+		"hateHello": "State your business.",
 
-		"tradeRequest": "I think you'll like this deal.",
+		"tradeRequest": "Just know that if it weren't for our honour, we would've just taken without asking.",
 
 		"outerColor": [106, 62, 49],
 		"innerColor": [0, 71, 1],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Unrelenting Force",
 		"uniques":["Empire enters golden age <upon conquering a city>", "[Sword] units gain the [Unrelenting] promotion"]
-		"cities":["Thuntopia","Crimstopia","Aurora","Stimwel","Garestina","Masayio","Kinnigan","Jaminishian","Dunsmaeyer","Hexor",
-			"Courseor","Arthurstead","Lexinhome","Derringer","Charlett","Boltzer","Vyper","Frosht","Jevinia","Kessel",
-			"Aaras","Clouse","Dustmug","Greenray","Jaxinia","Harkir","Mootual","Babelo","Donesi","Inan","Barron",
-			"Riqua","Gabbal","Hafingareo","Xear","Heron", "Entilsted","Urmam","Far","Jeks","How-here","Finnal"]
+		"cities":["Thunjaya","Crimjaya","Istana","Titik","Stimwel","Jaya City","Kota Ijo","Emang-Iyo","Raja","Hadjar",
+			"Ujung","Emas Port","Perak Port","Tarjuri","Belahan","Rajin","Faeper","Foras","Jevinia","Kessel",
+			"Aaras","Clouse","Dasmak","Grenre","Jaxinia","Hakir","Mutwal","Babalo","Donesi","Inan","Barron",
+			"Riqua","Gabbal","Ajampat","Senar","Meron","Bajju-Ittem","Makhmu","Jau","Lahrang","Hamper","Finnal"]
 },
      //San Andor
      {
