@@ -98,36 +98,36 @@
 			"uniques": ["Will not build [Temple], Will not build [Warrior], will not build [Scout]"],
 },
 {
-      "name": "Thunder",
+      "name": "Thun",
       // Stats focused personalities
       "culture": 6,//needs to be updated
-      "faith": 4,
-      "food": 6,
-      "gold": 6,
+      "faith": 3,
+      "food": 8,
+      "gold": 5,
       "happiness": 4,
-      "production": 6,
+      "production": 8,
       "science": 5,
       // Behaviour focused personalities
       "military": 9,
-      "aggressive": 9,
-      "declareWar": 9,
+      "aggressive": 7,
+      "declareWar": 8,
       "commerce": 6,
       "diplomacy": 4,
       "loyal": 2,
-      "expansion": 7,
+      "expansion": 9,
       "priorities": {
           "Tradition": 40,
           "Liberty": 50,
           "Honor": 60,
           "Commerce": 50,
           "Patronage": 30,
-          "Piety": 1,
+          "Piety": 10,
           "Rationalism": 50,
           "Freedom": 40,
           "Autocracy": 70,
           "Order": 40
         },
-		"warMongering": 4
+		"warMongering": 7
 	},
 	{
 		"name": "A1y0sh4",
