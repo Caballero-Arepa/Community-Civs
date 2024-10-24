@@ -420,4 +420,17 @@
         "Remove [DS USM tech] [in this city]"
     ]
     },
+	// AyukayaWkwkwk
+	{
+		"name": "Administration Castle",
+		"uniqueTo": "Moniyan",
+                "replaces": "Castle",
+		"Happiness": 3,
+		"Science": 4,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
