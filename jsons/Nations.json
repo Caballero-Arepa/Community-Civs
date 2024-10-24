@@ -961,4 +961,23 @@
     ], 
     "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
+{
+		"Name": "Moniyan",
+		"LeaderName": "Juragan I",
+                "startBias": ["Desert"]
+                "preferredVictoryType": "Domination",
+                "startIntroPart1": "It's you! Welcome back To Moniyan Juragan! Your Country is So Big and Strong and Cover ⅔ Middle East Lands! Well... Only 500 Years we Conquered... But Empire Is Rising and Falling Right?",
+                "startIntroPart2": "So, Shall we Conquered Back The Lost Territory in The Middle East? Or even Conquered World! So Juragan, Let's start!",
+		"introduction": "Uh-oh Sorry, Juragan Is On Azure Lake, So... Hi! Greets To You!",
+                "declaringWar": "Wings Is Go Down For Destroying, Prepare To be A Part of My Wings.",
+                "attacked": "I accept The challenge, Be ready of blood Falls.",
+                "defeated": "Retreat... My Country...",
+                "tradeRequest": "You will take this or what?",
+
+                "innerColor": [255, 174, 0]
+		"outerColor": [255, 255, 255]
+                "uniqueName": "Moniyan's Wing",
+	        "uniques": ["[+20]% Strength <for [Military] units> <when adjacent to a [Military] unit>","[+1 Happiness] [in capital]"],
+	        "cities": ["Lumina City","Grande Maria","Axtete","CC","Silpina","Juragangrad","DKI Ayun","Sulap","Retribution","Relesa","Relevan","Hari","Senin","Sabtu"],
+},
 ]
