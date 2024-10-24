@@ -558,4 +558,24 @@
     		],
 	"attackSound": "gdrAttack"
 	}
+
+
+	//AkukyayaWkwkwk
+	{
+		"name": "Moniyan Fighter",
+		"replaces": "Horseman",
+		"unitType": "Mounted",
+		"movement": 2,
+		"strength": 20,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		// "requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <when defending>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+		  
+	
 ]
