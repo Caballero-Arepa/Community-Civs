@@ -305,7 +305,7 @@
 	
 	"declaringWar": "The deeds sing, goddess, of the Motherland's son, Alyosha,\nwhose war enterprises brought countless glories upon the Comrades,\nand sent forth to Hades many valiant enemies.",
 	"attacked": "Finally someone ambitious enough to try to win me over. May you succeed or die under my triumph.",
-	"defeated": "I know nothing about what I ignore - I'm aware of it -\nyet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
+	"defeated": "I know nothing about what I ignore - I'm aware of it -\nand yet still my latest realization burns my soul almost as much,\nin pride, I have burnt till now.",
 	"introduction": "Zdravstvuyte! I am A1y0sh4, the empiring prince of our glorious Motherland,\nbut you can simply refer to me as Alyosha.",
 	"neutralHello": "Zdravstvuyte.",
 	"neutralLetsHearIt":"What shall we discuss now?",
@@ -324,8 +324,8 @@
 	"innerColor": [255, 206, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "City centers within 2 tiles of a Tundra tile gain +1 [Culture] after discovering Animal Husbandry and +1 [Science] after discovering Mining\n+1 [Culture] from every Camp and Pasture adjacent to a Tundra tile\n+1 [Science] from every Mine and Quarry adjacent to a Tundra tile\nThe amounts of bonus [Culture] and [Science] doubles during a Golden Age",
-	"uniques": ["[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Animal Husbandry]>", "[+1 Culture] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Animal Husbandry]> <during a Golden Age>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Mining]>", "[+1 Science] from every [City center] <within [2] tiles of a [Tundra]> <after discovering [Mining]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
+	"uniqueText": "City centers next to Tundra gain +1 [Culture] and +1 [Science]\nGain +1 [Culture] from every Camp and Pasture adjacent to Tundra\n+1 [Science] from every Mine and Quarry next to Tundra\nThe amounts of bonus [Culture] and [Science] double during a Golden Age",
+	"uniques": ["[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
 	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
 		"Tovarivsk","Pobedigrad","Zimnygrad","Knyazinsk","Aleksisburg","Velikoye","Novi Aleksandria","Kholodnisburg","Lyoshagrad","Svyatograd","Rekasburg","Veliksandria",
