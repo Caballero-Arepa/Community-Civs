@@ -977,7 +977,7 @@
                 "innerColor": [255, 174, 0]
 		"outerColor": [255, 255, 255]
                 "uniqueName": "Moniyan's Wing",
-	        "uniques": ["[+20]% Strength <for [Military] units> <when adjacent to a [Military] unit>","[+1 Happiness] [in capital]"],
+	        "uniques": ["[+15]% Strength <for [Military] units> <when adjacent to a [Military] unit>","[+2 Happiness] [in capital]"],
 	        "cities": ["Lumina City","Grande Maria","Axtete","CC","Silpina","Juragangrad","DKI Ayun","Sulap","Retribution","Relesa","Relevan","Hari","Senin","Sabtu"],
 },
 ]
