@@ -563,6 +563,7 @@
 	//AkukyayaWkwkwk
 	{
 		"name": "Moniyan Fighter",
+		"uniqueTo": "Moniyan",
 		"replaces": "Horseman",
 		"unitType": "Mounted",
 		"movement": 2,
