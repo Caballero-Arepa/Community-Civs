@@ -962,8 +962,8 @@
     "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
 {
-		"Name": "Moniyan",
-		"LeaderName": "Juragan I",
+		"name": "Moniyan",
+		"leaderName": "Juragan I",
                 "startBias": ["Desert"]
                 "preferredVictoryType": "Domination",
                 "startIntroPart1": "It's you! Welcome back To Moniyan Juragan! Your Country is So Big and Strong and Cover ⅔ Middle East Lands! Well... Only 500 Years we Conquered... But Empire Is Rising and Falling Right?",
