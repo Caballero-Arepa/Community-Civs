@@ -324,7 +324,7 @@
 	"innerColor": [255, 206, 0],
 
 	"uniqueName": "Pearl of the North",
-	"uniqueText": "When adjacent to a [Tundra] tile, [Camp] and [Pasture] yield +1 [Culture], [Mine] and [Quarry] yield +1 [Science], while [City center] yield both. These amounts double during a Golden Age.",
+	"uniqueText": "When adjacent to a Tundra tile, Camps and Pastures yield +1 [Culture], Mines and Quarries yield +1 [Science], while City centers yield both. These amounts double during a Golden Age.",
 	"uniques": ["[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [City center] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]>",
 	            "[+1 Culture] from every [Camp] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Culture] from every [Pasture] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Mine] <within [1] tiles of a [Tundra]> <during a Golden Age>", "[+1 Science] from every [Quarry] <within [1] tiles of a [Tundra]> <during a Golden Age>"],
 	"cities": ["Aleksandriagrad","Nikesburg","Rimgorod","Rodinnesburg","Severgrad","Ugolkar","Lyoshasburg","Medvedorod","Ruthenskar","Lyodgorod",
