@@ -980,4 +980,25 @@
 	        "uniques": ["[+15]% Strength <for [Military] units> <when adjacent to a [Military] unit>","[+2 Happiness] [in capital]"],
 	        "cities": ["Lumina City","Grande Maria","Axtete","CC","Silpina","Juragangrad","DKI Ayun","Sulap","Retribution","Relesa","Relevan","Hari","Senin","Sabtu"],
 },
+// Wenzerro
+{
+	        "name": "SectorPeace",
+	        "leaderName": "Wenzerro",
+
+                "declaringWar": "We will defend ourselves even through pain and suffering, we wont let you conquer us."
+	        "attacked": "...",
+	        "defeated": "Well peace was temporary...",
+	        "introduction": "The resistance bringed the peace to sector, but will it make it great again?",
+	        "tradeRequest": "I'm sure your citizens will be happy with our offer.",
+
+	        "neutralHello": "God bless you.",
+	        "hateHello": "Peace on you.",
+
+	        "innerColor": [0, 0, 0], // Temporary colours
+	        "outerColor": [255, 255, 255], //Temporary colours
+	        "uniqueName": "Friendly dweller:",
+	        "uniques": ["[5]% of excess happiness converted to [Food]","[5]% of excess happiness converted to [Production]","[5]% of excess happiness converted to [Science]","When declaring friendship, both parties gain a [15]% boost to great person generation"],
+	        "cities": ["Peacesector","Happyland","Happysector","Peaceland","Smileland","Smilesectoe","Smilycity","Happycity","Peacecity","Peacenuker","Happytown","Peacetown","Smileytown","Peacesect","Smileysect","Happysect","Smileysectoe","Chaossector","Ikea","Ikealand"],
+	
+},
 ]
