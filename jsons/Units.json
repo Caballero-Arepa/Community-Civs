@@ -577,6 +577,22 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	// Wenzerro
+	{
+		"name": "Peacemaker",
+		"uniqueTo": "SectorPeace",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["[30]% Strength <when attacking> <when fighting in [Friendly] tiles>"],
+		"attackSound": "shot",
+	},
+		
 		  
 	
 ]
