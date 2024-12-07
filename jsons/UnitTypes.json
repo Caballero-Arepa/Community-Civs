@@ -5,41 +5,51 @@
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Archery",
         "movementType": "Land",
-		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>",
-					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>"]
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land",
-		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>",
-					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>"]
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
+        "movementType": "Land",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
+        "movementType": "Land",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Siege",
         "movementType": "Land",
-		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>",
-					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit>"]
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Civilian Water",
@@ -47,11 +57,15 @@
     },
     {
         "name": "Melee Water",
-        "movementType": "Water"
+        "movementType": "Water",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Ranged Water",
-        "movementType": "Water"
+        "movementType": "Water",
+		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
     {
         "name": "Submarine",
@@ -85,7 +99,9 @@
     {
         "name": "Helicopter",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["Can pass through impassable tiles",
+			"[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
+			"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
     },
 
     // Deprecated unit types required for mods without a UnitTypes.json file to work
