@@ -57,15 +57,11 @@
     },
     {
         "name": "Melee Water",
-        "movementType": "Water",
-		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
-					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
+        "movementType": "Water"
     },
     {
         "name": "Ranged Water",
-        "movementType": "Water",
-		"uniques": ["[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>",
-					"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units>"]
+        "movementType": "Water"
     },
     {
         "name": "Submarine",
