@@ -6,12 +6,12 @@
 	},
 	{
 		"name": "Deflect",
-		"uniques": ["Block the next Ranged attack and gain Ranged Immunity for 1 turn. Cooldown: 5 turns.",
+		"uniques": ["Block the next Ranged attack and gain Ranged Immunity for 1 turn. Doesn't apply vs Air units. Cooldown: 5 turns.",
 					"[+1000]% Strength <when defending> <vs [Ranged]> <for units without [Deflect Cooldown]> <hidden from users>"]
 	},
 	{
 		"name": "Deflect Active",
-		"uniques": ["[+1000]% Strength <when defending> <vs [Ranged]>"]
+		"uniques": ["[+1000]% Strength <when defending> <vs [{non-[Air]} {Ranged}]>"]
 	},
 	{
 		"name": "Deflect Cooldown",
