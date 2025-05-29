@@ -5,5 +5,9 @@
 	"[+10]% [Culture] [in all cities] <with [Arepa]>",
 	"[+1 Culture] from each Trade Route <with [Arepa]> <after discovering [Writing]>",
 	"[-2 Happiness] <with [Arepa]>"
-    ]
+    ],
+    "unitUniques": [
+	"[Target Unit] gains the [Deflect Active] status for [1] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units> <for [non-[Air]] units>",
+	"[Target Unit] gains the [Deflect Cooldown] status for [5] turn(s) <upon damaging a [{non-[Deflect CD]} {Deflect}] unit> <for [Ranged] units> <for [non-[Air]] units>"
+    ],
 }
