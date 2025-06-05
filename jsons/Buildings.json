@@ -372,7 +372,7 @@
 	},
 //Xyzplan
 	{
-		"name": "Läfīsjdìgøk",
+		"name": "Xyz's grand wall",
         "uniqueTo": "Exclamation Point Empire",
    "cost": 100,
 		"cityStrength": 12,
@@ -387,16 +387,16 @@
 		"isNationalWonder": true,
 		"replaces": "Palace",
 		"uniqueTo": "Exclamnation Point Empire",
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
+		"production": 2,
+		"science": 2,
+		"gold": 2,
+		"culture": 2,
 		"cityStrength": 5,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
  },
    {
-		"name": "Cûltivated Fårm",
+		"name": "Cultivated Farm",
         "uniqueTo": "Exclamation Point Empire",
         "replaces": "Granary",
 		"cost": 50,
@@ -408,7 +408,7 @@
     "[10]% growth [in this city]"]
    },
    {
-		"name": "lEb89aoL",
+		"name": "Trade Market",
         "uniqueTo": "Exclamation Point Empire",
         "replaces": "Market",
 		"cost": 135,
@@ -421,7 +421,7 @@
       "Destroyed when the city is captured"]
    },
       {
-		"name": "h2eÖusUaL",
+		"name": "Kopio Luxuru",
         "uniqueTo": "Exclamation Point Empire",
         "replaces": "Bank",
 		"cost": 230,
@@ -434,14 +434,14 @@
       "Destroyed when the city is captured"]
    },
   {
-		"name": "LaBaräûcjsGj",
+		"name": "Xolrerradk",
         "uniqueTo": "Exclamation Point Empire",
     "cost": 85,
 		"hurryCostModifier": 35,
     "maintenance": 2,
     "requiredTech": "Bronze Working"
 		"uniques": ["Barracks", "Destroyed when the city is captured", "New [Military] units start with [25] Experience [in this city]"]
-  },
+  }
 //Plert
     { 
 		"name": "Ikea",
