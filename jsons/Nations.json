@@ -849,10 +849,12 @@
     "startIntroPart2": "O great Xyz, our enemies are many, but with the discipline and determination, we overpowered them. They shall fall before us, or we will fall before them." 
     "declaringWar": "Your arrogant behavior makes us want to scourge you.. therefore you must die on time.",
 		"defeated": "My respect for you to defeat us.",
-		"attacked": "No more words. Today, let us solve this like a warriors!",
+		"attacked": "No more words. Today, we will see who is going to die first!",
 		"introduction": "I am Xyz, leader of the Exclamation Point. Do not let your vanity be your ending aswell.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What now?",
+		"denounced": "Do you know who you're dealing with?",
+		"declaringFriendship": "You're reliable to us. Hence, allegiance.",
 		"tradeRequest": "This is a limited offer from the Xyz. Therefore you must accept it.",
 
         "outerColor": [150, 198, 167],
