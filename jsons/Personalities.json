@@ -262,19 +262,19 @@
         {
      "name": "AggressiveXYZ",
      "culture": 5,
-      "faith": 8,
+      "faith": 6,
       "food": 7,
       "gold": 11,
       "happiness": 8,
       "production": 10,
       "science": 9,
-      "military": 10,
-      "aggressive": 1,
-      "declareWar": 10,
-      "commerce": 11,
+      "military": 11,
+      "aggressive": 7,
+      "declareWar": 12,
+      "commerce": 13,
       "diplomacy": 3,
-      "loyal": 7,
-      "expansion": 12
+      "loyal": 15,
+      "expansion": 14
 		"warMongering": 10,
 	},
 	{
