@@ -370,6 +370,78 @@
 			"[+1 Production, +1 Food] from [Truffles] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
 	},
+//Xyzplan
+	{
+		"name": "Xyz's grand wall",
+        "uniqueTo": "Exclamation Point Empire",
+   "cost": 100,
+		"cityStrength": 12,
+		"cityHealth": 155,
+		"hurryCostModifier": 35,
+		"requiredTech": "Masonry"
+		"uniques": ["Wall",
+		"Destroyed when the city is captured", "[+10]% Strength <for [Melee] units> <when defending> <in cities with a [Läfīsjdìgøk]>"]
+ },
+ {
+		"name": "Core of the Xyz",
+		"isNationalWonder": true,
+		"replaces": "Palace",
+		"uniqueTo": "Exclamnation Point Empire",
+		"production": 2,
+		"science": 2,
+		"gold": 2,
+		"culture": 2,
+		"cityStrength": 5,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+ },
+   {
+		"name": "Cultivated Farm",
+        "uniqueTo": "Exclamation Point Empire",
+        "replaces": "Granary",
+		"cost": 50,
+		"hurryCostModifier": 35,
+		"requiredTech": "Pottery"
+     "maintenance": 2,
+		"uniques": ["[+2 Food] [in this city]",
+      "Destroyed when the city is captured",
+    "[10]% growth [in this city]"]
+   },
+   {
+		"name": "Trade Market",
+        "uniqueTo": "Exclamation Point Empire",
+        "replaces": "Market",
+		"cost": 135,
+		"hurryCostModifier": 35,
+		"requiredTech": "Currency"
+     "maintenance": 2,
+		"uniques": ["Trade Market",
+		"[+3 Gold] from each Trade Route",
+		"[+2 Happiness] from each Trade Route",
+      "Destroyed when the city is captured"]
+   },
+      {
+		"name": "Kopio Luxuru",
+        "uniqueTo": "Exclamation Point Empire",
+        "replaces": "Bank",
+		"cost": 230,
+		"hurryCostModifier": 35,
+		"requiredTech": "Banking"
+     "maintenance": 2,
+		"uniques": ["Luxury Market",
+		"[5]% [Gold] [in this city]",
+		"[+1 Gold] from [Luxury resource] tiles [in this city] <after discovering [Economics]>",
+      "Destroyed when the city is captured"]
+   },
+  {
+		"name": "Xolrerradk",
+        "uniqueTo": "Exclamation Point Empire",
+    "cost": 85,
+		"hurryCostModifier": 35,
+    "maintenance": 2,
+    "requiredTech": "Bronze Working"
+		"uniques": ["Barracks", "Destroyed when the city is captured", "New [Military] units start with [25] Experience [in this city]"]
+  }
 //Plert
     { 
 		"name": "Ikea",
