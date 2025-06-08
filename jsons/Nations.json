@@ -874,7 +874,8 @@
 				"[+10]% Strength <for [Wounded] units>",
 				"[+50]% XP gained from combat <for [Military] units> <when fighting in [Enemy Land] tiles>",
 				"[+20]% Strength <for [Military] units> <vs [Barbarians] units>",
-				"No damage penalty for wounded units",
+				"No damage penalty for wounded units"
+		]
 		"cities": ["!     !  !'s Core", "Xyz's Core", "Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV", "!", "!!", "!!!", "!!!!", "!!!!!", "Loko I", "Loko II", "Loko III", "Xyz's High", "!     !  !'s Outpost", "Xyz's Mid", "Outpost I", "Camp I", "!!!!!!!!!!!", "Loko IV", "Camp II", "Loko V", "NëS"],
         "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
     },
