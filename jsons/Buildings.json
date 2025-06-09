@@ -505,4 +505,15 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	// ProudCotlandic
+	{
+		"name": "Campus",
+		"uniqueTo": "Cotland",
+                "replaces": "University",
+		"maintenance": 5,
+		"hurryCostModifier": 12,
+		"requiredBuilding": "Library",
+		"uniques": ["[+5 Science, +2 Happiness, +4 Culture]"],
+		"requiredTech": "Education"
+	},
 ]
