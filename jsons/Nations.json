@@ -1011,6 +1011,37 @@
 	        "uniqueName": "Friendly dweller:",
 	        "uniques": ["[5]% of excess happiness converted to [Food]","[5]% of excess happiness converted to [Production]","[5]% of excess happiness converted to [Science]","When declaring friendship, both parties gain a [15]% boost to great person generation"],
 	        "cities": ["Peacesector","Happyland","Happysector","Peaceland","Smileland","Smilesectoe","Smilycity","Happycity","Peacecity","Peacenuker","Happytown","Peacetown","Smileytown","Peacesect","Smileysect","Happysect","Smileysectoe","Chaossector","Ikea","Ikealand"],
-	
+
 },
+// ProudCotlandic
+{
+	        "name": "Cotland",
+	        "leaderName": "Vassileyev Un Solace",
+	        "adjective": ["Cotlandic"],
+	        "startBias": ["Coast"],
+	        "preferredVictoryType": "Scientific",
+	        "personality": "Vassileyev Un Solace"
+
+  "startIntroPart1": "Cotland was a Civilization that first appeared in the Cotlandic Peninsula about 5000 Years ago, First they were a bunch of Fishers and Farmers, Before they established their first Kingdom in 3000 BC, where they started to prosper, The Peninsula was filled With resources that helped the Cotlandic race grow, From the Countless Cotton Farms to the Prospering Flower fields to the Collective Farms, Cotland Grew and Grew, Before forming their first empire in 710 AD under June II, Which extended from the Great Lakes all the way to The Sindiyyan River, which fell in 830 AD, In 1611 Cotland was colonized and robbed by the British Dominion, Cotland Gained their Independence after a war that lasted 20 years, Finally gaining independence in 1748, Ruled by Copelton, He went on to Unite the Peninsula, Starting with Copeland, then Koleicha, Then The Casters, Then Rajalistan and finally Trudcal, Before dying right after uniting the Nation, The nation was then ruled by an Autocratic System until 1945, When Vassileyev Un Solace, the Person who invented Solacism started a civil war, Placing the Nation Under his rule, He then enabled Elections within The Party and its members only, Vassileyev Made the Nation prosper, The Religions of the Nation as of 2024 are (51% Christan) (42%) Muslim, (4%) Buddist, (2%) Shinto, (1%) Atheist/other, and its ethnicities are (66%) Cotlandic (Cotlandic People are paler and shorter than white people), (23%) Arab, (6%) Asians, (5%) Whites.",
+    "startIntroPart2": "Our Leader Vassileyev, Shall our Nation shine through the ages of history? There were currently 20 leaders to Modern Cotland all with their respective Achievements, 5 Solacist ones, Including:Vassileyev Un Solace (1945-1950), Hassan Pan Solace (1950-1990), Nina Vassileybech (1990-1991), Muhammad Al-Sabaah (1991-1998), and finally Jodas Dauwan Marron (2003-Now)", 
+
+        "declaringWar": "Your hatred, belittling and Despise for us leaves us no choice. Prepare for war!",
+	"attacked": "You have mistaken our pacifism and Love for weakness. You shall regret this!",
+	"defeated": "We have lost...You won, Fairly atleast. We hope you spare the women and children atleast...",
+	"introduction": "On behalf of the Men, women and children of Cotland, I, Leader Vassileyev of Cotland welcome you.",
+	"neutralHello": "How is the family?",
+	"hateHello": "We hope your people won't grow to hate us.",
+	"tradeRequest": "We're sure your people will Love what we have to offer",
+	
+    "outerColor": [30,50,119],
+    "innerColor": [255,254,255],
+    "favoredReligion": "Christianity",
+	"uniqueName": "Love for the Young",
+	"uniques": ["[+3 Happiness] per [1] population [in all cities]","[+10]% [Happiness] <in cities with a [Public School]>", "[+5 Culture] <in cities with a [Public School]>", "[+1 Culture] <in [Cotton] tiles>"],
+	"cities": ["Copelton","Oreston","Prenton", "Maranton", "Mashadd", "Sindiyyan","Windsor","Westfield","Eastfield","Drentvillie","Kotob","South Port","Sonii-chu",
+		"Janeen","Menyssan","Kawanii","West Port","Nola","Toola","Toppeiki","Kotob",
+		"Lepanto","Eneward", "New Windsor"],
+    "spyNames": ["Vassileybech", "Nini", "Nina", "Nino", "Illina", "Sally", "Nena", "Kini", "Kino", "Kibo", "June"]
+},
+
 ]
