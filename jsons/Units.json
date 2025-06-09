@@ -592,6 +592,22 @@
 		"uniques": ["[30]% Strength <when attacking> <when fighting in [Friendly] tiles>"],
 		"attackSound": "shot",
 	},
+	// ProudCotlandic
+	{
+		"name": "Solacist Revolutionary Guard",
+		"uniqueTo": "Cotland",
+		"promotions": ["Ignore terrain cost"]
+		"replaces": "Great War Infantry",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 30,
+		"cost": 290,
+		"requiredTech": "Radio",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques": ["[+30]% Strength <when attacking>","[-30]% Strength <vs [Armored] units>"],
+		"attackSound": "shot"
+	},
 		
 		  
 	
