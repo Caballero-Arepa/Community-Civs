@@ -447,7 +447,7 @@
 "neutralHello": "Hello my friend.",
 "hateHello": "Hello my foe.",
 "tradeRequest": "After a while of consideration i have come up with this deal.",
-"outerColor": [256,256,256],
+"outerColor": [255,255,255],
 "innerColor": [198,20,25],
 "uniqueName": "Last ditch",
 "uniques": ["[+50]% Strength <for [Non-City] units> <when fighting in [Enemy Land] tiles>", "[-20]% Strength <for [Non-City] units> <when fighting in [Friendly Land] tiles>","[2] free [Stormer] units appear <after discovering [Plastics]>","Cannot build [Settler] units"],
