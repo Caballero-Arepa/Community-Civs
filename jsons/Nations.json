@@ -321,7 +321,7 @@
 	"favoredReligion": "Christianity",
 
 	"outerColor": [158, 0, 0],
-	"innerColor": [255, 206, 0],
+	"innerColor": [255, 206, 49],
 
 	"uniqueName": "Pearl of the North",
 	"uniqueText": "When adjacent to a Tundra tile, Camps and Pastures yield +1 [Culture], Mines and Quarries yield +1 [Science], while City centers yield both. These amounts double during a Golden Age.",
