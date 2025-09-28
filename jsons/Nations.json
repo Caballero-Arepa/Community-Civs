@@ -144,6 +144,10 @@
 
 	    "cities": ["Almaty", "Astana", "Shymkent", "Turkestan", "Otrar", "Ust-Kamenogorsk", "Karaganda", "Petropavlovsk", "Atyrau", "Aktau", "Taldykorgan", "Kostanai"]
   },
+//Antianpower
+I have changed my mind on something. although -100% gold in non capital is something I want to stay the same, I do not want the gold to be transported from non capital to the capital.
+Additionally, I am still thinking about how food is going to be transported without some infinite food exploit. Is there a way of making it so the redistribution building's is deleted at negitave food production?
+I will see if I can message one of the members directly instead of through pull requests.
 //Belias
 {
 		"name": "Wonderland",
