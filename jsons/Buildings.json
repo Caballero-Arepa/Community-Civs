@@ -522,7 +522,8 @@
 		"maintenance": 0,
 		"cost": 0,
 		"hurryCostModifier": -100,
-		"uniques": ["[1] population [in all cities]"]
+		"uniques": ["[1] population [in all cities]",
+					"[300]% weight to this choice for AI decisions"]
 		},
 		{
 		"name": "Chill ok",
@@ -531,7 +532,8 @@
 		"cost": 0,
 		"hurryCostModifier": -100,
 		"uniques": ["Free Social Policy",
-					"Empire enters golden age"]
+					"Empire enters golden age",
+					"[300]% weight to this choice for AI decisions"]
 		}
 
 ]
