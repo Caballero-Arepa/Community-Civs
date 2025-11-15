@@ -516,4 +516,22 @@
 		"uniques": ["[+5 Science, +2 Happiness, +4 Culture]"],
 		"requiredTech": "Education"
 	},
+	{ //Clementine-Phoenix Commonwealth (AwesomePhoenix)
+		"name": "Fire ok",
+		"uniqueTo": "Clementine-Phoenix Commonwealth",
+		"maintenance": 0,
+		"cost": 0,
+		"hurryCostModifier": -100,
+		"uniques": ["[1] population [in all cities]"]
+		},
+		{
+		"name": "Chill ok",
+		"uniqueTo": "Clementine-Phoenix Commonwealth",
+		"maintenance": 0,
+		"cost": 0,
+		"hurryCostModifier": -100,
+		"uniques": ["Free Social Policy",
+					"Empire enters golden age"]
+		}
+
 ]
