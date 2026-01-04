@@ -1042,6 +1042,36 @@
 		"Janeen","Menyssan","Kawanii","West Port","Nola","Toola","Toppeiki","Kotob",
 		"Lepanto","Eneward", "New Windsor"],
     "spyNames": ["Vassileybech", "Nini", "Nina", "Nino", "Illina", "Sally", "Nena", "Kini", "Kino", "Kibo", "June"],
-}
+},
+	 // AwesomePhoenix
+    {
+		"name": "Clementine-Phoenix Commonwealth",
+		"leaderName": "AwesomePhoenix",
+		"adjective": ["Pheclent"],
+		"outerColor": [67, 253, 38],
+		"innerColor": [253, 189, 38],
+
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Greetings, leader or the stronget alliance the world has ever seen. Will you be able to make your reputation valid, will you be able to expand your alliance ? This is up to you.",
+		"startIntroPart2": ""
+
+		"introduction": "Nice to meet you. I hope the best to you.",
+		"declaringWar": "I proposed alliance and you refused, now you will suffer.",
+		"attacked": "You know what it means ? You will get DESTROYED !",
+		"afterPeace": "I hope we can be friends again.",
+		"defeated": "If you managed to beat me, you are strong, truly strong.",
+
+		"neutralHello": "Hi there.",
+		"hateHello": "You again ?",
+    	"tradeRequest": "This is not worth a clementine, but it's still worth to you.",
+
+		"uniqueName": "Daily poll",
+		"uniques": ["Gain [1] [Faith] <upon turn end>",
+					"Gain [1] [Culture] <upon turn end>"],
+		"cities": ["Bird","Juices","Clemenrubi","Fawkes","Orogrós","Xephyra","Clemenules","Ho-oh","Tang Gold","Algerian Clementine","Fina","Clemenule","Clementine del Golfo di Taranto","Clementine di Calabria"]
+	}
+
 
 ]

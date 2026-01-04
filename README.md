@@ -22,6 +22,7 @@ Here's our discord server: https://discord.com/channels/586194543280390151/10668
 
 - A1y0sh4 of Aleksandria
 - Ace Hank of Hankunesia
+- AwesomePhoenix of Clementine-Phoenix Commonwealth
 - Bamboolord of The Bamboo Kingdom
 - Belias of Wonderland
 - Caballero Arepa of The Duchy of Arepandia
@@ -35,3 +36,4 @@ Here's our discord server: https://discord.com/channels/586194543280390151/10668
 - Probably an FBE Reactor of The Reactors
 - TCube of VividVale
 - Thunder Crims of Thuntopia
+
