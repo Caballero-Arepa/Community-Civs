@@ -133,13 +133,13 @@
 		"name": "A1y0sh4",
 		"preferredVictoryType": "Scientific",
 		"culture": 8,
-		"faith": 3,
+		"faith": 1,
 		"food": 7,
-		"gold": 5,
-		"happiness": 5,
+		"gold": 4,
+		"happiness": 3,
 		"production": 10,
 		"science": 9,
-		"military": 7,
+		"military": 8,
 		"priorities": {
 			"Tradition": 30,
 			"Liberty": 10,
@@ -148,12 +148,12 @@
 			"Patronage": 10,
 			"Piety": 10,
 			"Rationalism": 80,
-			"Freedom": 25,
-			"Autocracy": 40,
-			"Order": 40
+			"Freedom": 15,
+			"Autocracy": 30,
+			"Order": 80
 		},
 		"warMongering": 7,
-		"uniques": ["Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]"]
+		"uniques": ["Will not build [Worker] <in cities without a [Monument]>", "Will not build [Granary] <in cities without a [Monument]>", "Will not build [Shrine]", "Will not build [Temple]", "Will not build [The Pyramids]", "Will not build [Mausoleum of Halicarnassus]", "Will not build [Petra]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Catapult]","Will not build [Stadium] <while the empire is happy>"]
 	},
 	{
       "name": "Penguinesia_AI",
