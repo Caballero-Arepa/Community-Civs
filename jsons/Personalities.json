@@ -317,4 +317,33 @@
 			"Will not build [Mosque]", "Will not build [Pagoda]"
 		]
 	},
+	{
+		"name": "Ekadessva",
+		"preferredVictoryType": "Diplomatic",
+		"culture": 5,
+		"faith": 5,
+		"food": 5,
+		"gold": 5,
+		"happiness": 5,
+		"production": 5,
+		"science": 5,
+      "aggressive": 2,
+      "declareWar": 0,
+      "commerce": 5,
+      "diplomacy": 6,
+      "loyal": 5,
+      "expansion": 5,
+		"priorities": {
+			"Tradition": 5,
+			"Liberty": 5,
+			"Honor": 5,
+			"Commerce": 5,
+			"Patronage": 5,
+			"Piety": 5,
+			"Rationalism": 5,
+			"Freedom": 7,
+			"Autocracy": 3,
+			"Order": 3
+		},
+	}
 ]
