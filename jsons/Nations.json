@@ -1071,6 +1071,36 @@
 		"uniques": ["Gain [1] [Faith] <upon turn end>",
 					"Gain [1] [Culture] <upon turn end>"],
 		"cities": ["Bird","Juices","Clemenrubi","Fawkes","Orogrós","Xephyra","Clemenules","Ho-oh","Tang Gold","Algerian Clementine","Fina","Clemenule","Clementine del Golfo di Taranto","Clementine di Calabria"]
+	},
+	 // tidakkkandamiskin
+    {
+		"name": "Ekadessva",
+		"leaderName": "Svatessa",
+		"adjective": ["Ekadessvan"],
+		"outerColor": [0, 174, 255],
+		"innerColor": [255, 255, 255],
+
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+	    "personality": "Ekadessva"
+
+		"startIntroPart1": "Your people has wait for you, The Civilian has awaited your comeback. Now, that you're here, Come and Lead Ekadesssva back to its glory!",
+		"startIntroPart2": "Even after the war, we will always regroup and win back our freedom! Lead the People To it's former glory!"
+
+		"introduction": "Hello, Newcomers, It's seems like our path has come to crossed! May you get along with us!",
+		"declaringWar": "...",
+		"attacked": "Our soldier may forgive you, but our unity does NOT forgive you.",
+		"defeated": "Soon... Our left people with get revenge on you... May unity crush you...",
+
+		"neutralHello": "Hi! You wanna trade or something?",
+		"hateHello": "....",
+    	"tradeRequest": "...",
+
+		"uniqueName": "Sva Democracies",
+		"uniques": ["[-50]% unhappiness from the number of cities",
+					"[-50]% Unhappiness from [Population] [in all cities]",
+		            "[+25]% Strength <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Ekadessva","Ekadessva City","Ekadessva Town","Ekadessva Village","Ekadessvaburg","Ekadessvaville"] //Temporary
 	}
 
 
