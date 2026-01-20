@@ -536,6 +536,16 @@
 		"uniques": ["Free Social Policy",
 					"Empire enters golden age",
 					"[300]% weight to this choice for AI decisions"]
-		}
+		},
+	{
+		"name": "Community Post",
+		"uniqueTo": "Ekadessva",
+        "replaces": "Castle",
+		"happiness": 3,
+        "cost": 120,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[+2 Science] per [6] population [in this city]","[+1 Gold]"]
+	},
 
 ]
