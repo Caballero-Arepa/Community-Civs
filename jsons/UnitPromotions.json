@@ -64,7 +64,7 @@
 	//Doomstar civ
   {
     "name": "DSEliteUnit",
-    "uniques": ["[+5] HP when healing", "[+300]% XP gained from combat", "[+2] XP gained from combat"]
+    "uniques": ["May heal outside of friendly territory <when [Air]>", "[+300]% XP gained from combat", "[+2] XP gained from combat"]
   },
 	{
 		"name": "Gray Goo Devouring",

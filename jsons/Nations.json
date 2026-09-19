@@ -964,16 +964,28 @@
 
 		"uniqueName": "Quality over quantity",
 		"uniques": [
-    "[+10]% [Science]", 
-    "[Military] units gain the [DSEliteUnit] promotion",
-    "[-50]% Production when constructing [Military] units [in all cities]",
-    "[Gold] cost of purchasing [Military] units [+100]%",
-    "[Faith] cost of purchasing [Military] units [+100]%",
-    "[+20]% Strength <for [Military] units>", 
-    "Cannot build [Stealth Bomber] units", 
-        "Gain a free [DS USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
+			"[+5]% [Science] <for every [1] [[Era number] + 1]>", 
+    		"[Military] units gain the [DSEliteUnit] promotion",
+    		"[-50]% Production when constructing [Military] units [in all cities]",
+    		"[Gold] cost of purchasing [Military] units [+100]%",
+    		"[Faith] cost of purchasing [Military] units [+100]%",
+    		"Cannot build [Stealth Bomber] units", 
+        	"Gain a free [DS USM tech] [in capital] <upon discovering [Can be continually researched] technology>",
     ], 
-    "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
+    "cities": ["Core", "Anihillation", "Hive", "Doom", 
+        "Complex 004", "Complex 005", "Complex 006", "Complex 007", 
+        "Complex 008", "Complex 009", "Complex 010", "Complex 011", 
+        "Complex 012", "Complex 013", "Complex 014", "Complex 015"], 
+        "spyNames": [
+            "Agent 00 Epicenter", 
+            "Agent 01 Alpha", 
+            "Agent 02 Space", 
+            "Agent 03 Spectrum", 
+            "Agent 04 Ghost", 
+            "Agent 05 Soviet", 
+            "Agent 06 Ultima", 
+            "Agent 07 Omega"
+        ]
 	}
 {
 		"name": "Moniyan",
