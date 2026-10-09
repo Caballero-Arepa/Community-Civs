@@ -557,7 +557,7 @@
 		"science": 3,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["[+1 Science] <for every [5] [[Science] Per Turn]>","Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"uniques": ["[+1 Science] per every [5] [Science] <in [all] cities>","Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	}
 ]
