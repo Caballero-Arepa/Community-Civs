@@ -95,7 +95,8 @@
             "Autocracy": 60,
             "Order": 60
 		},
-			"uniques": ["Will not build [Temple], Will not build [Warrior], will not build [Scout]"],
+			"uniques": ["Will not build [Temple]", "Will not build [Warrior]", w
+				"Will not build [Scout]"],
 },
 {
       "name": "Thun",
@@ -255,7 +256,7 @@
 		},
 	"uniques": [
 		"Will not build [Temple]", "Will not build [Museum]", "Will not build [Stadium] <while the empire is happy>", "Will not build [Broadcast Tower]", "Will not build [Military Base]", "Will not build [Spaceship Factory] <when below [3] [Aluminum]>", 
-		"Will not build [Stonehnge]", "Will not build [The Pyramids]", "Will not build [Great Wall]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Angkor Wat]", "Will not build [Himeji Castle]", "Will not build [Kremlin]", "Will not build [Cristo Redentor]", "Will not build [Pentagon]", 
+		"Will not build [Stonehenge]", "Will not build [The Pyramids]", "Will not build [Great Wall]", "Will not build [Hagia Sophia]", "Will not build [Great Mosque of Djenne]", "Will not build [Angkor Wat]", "Will not build [Himeji Castle]", "Will not build [Kremlin]", "Will not build [Cristo Redentor]", "Will not build [Pentagon]", 
 		"Will not build [Catapult]"
 	],
 	},
@@ -377,7 +378,7 @@
       "diplomacy":2,
       "loyal":1,
       "expansion": 1,
-		"uniques": ["Will not build [Monument] <before turn number [1]>","Will not build [non-[Great Library]] <after discovering [Philosophy]> <if [Great Library] is not constructed by anybody> <in [Capital] cities>","Will not build [Faith]","Will not build [Military] <before turn number [40]>"],
+		"uniques": ["Will not build [Monument] <before turn number [1]>","Will not build [non-[The Great Library]] <after discovering [Philosophy]> <if [The Great Library] is not constructed by anybody> <in [Capital] cities>","Will not build [Faith]","Will not build [Military] <before turn number [40]>"],
 		"civilopediaText": [
 			{"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
 		]
