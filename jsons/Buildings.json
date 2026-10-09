@@ -546,7 +546,7 @@
 		"replaces": "National Epic",
 		"cost": 125,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities","Triggers a [New Building Found] event","Triggers a [New Building Found] event <every [50] turns>","Cost increases by [30] per owned city"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>","Triggers a [New Building Found] event","Triggers a [New Building Found] event <every [50] turns>","Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
